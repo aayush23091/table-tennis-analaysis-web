@@ -1,0 +1,1201 @@
+Player_ID,Full_Name,Gender,Country,Continent,Date_of_Birth,Age,Height_cm,Weight_kg,Playing_Hand,Playing_Style,World_Ranking,National_Ranking,Career_Matches_Played,Career_Matches_Won,Win_Percentage,Titles_Won,International_Titles,Years_Active,Current_Status,Average_Match_Duration_Min,Average_Reaction_Time_ms,Serve_Speed_kmh,Ranking_Points,Injury_History,Last_Updated
+1,Fan Zhendong,MALE,China,Asia,1997-01-22,28,175,59,Right,Offensive,1,1,670,553,82.54,15,7,11,Active,25.3,233,63,5222,None,2024-12-31
+2,Wang Chuqin,MALE,China,Asia,2000-05-11,25,182,83,Left,All-round,2,2,572,499,87.24,21,14,18,Active,29.1,206,78,2844,None,2024-12-31
+3,Ma Long,MALE,China,Asia,1988-10-20,37,189,71,Left,All-round,3,4,487,364,74.74,27,6,13,Active,29.5,234,80,2763,Minor,2024-12-31
+4,Hugo Calderano,MALE,Brazil,South America,1996-06-22,29,176,57,Right,All-round,4,3,373,234,62.73,28,16,13,Active,32.8,237,74,3753,None,2024-12-31
+5,Tomokazu Harimoto,MALE,Japan,Asia,2003-06-27,22,172,56,Left,All-round,5,4,524,403,76.91,30,25,14,Active,37.8,218,65,2621,Minor,2024-12-31
+6,Xu Xin,MALE,China,Asia,1990-01-08,36,190,80,Left,Offensive,6,5,361,230,63.71,20,4,15,Active,27.2,216,84,4938,Minor,2024-12-31
+7,Lin Yun-Ju,MALE,Chinese Taipei,Asia,2001-08-17,24,179,68,Right,Offensive,7,1,460,284,61.74,8,20,10,Active,24.9,199,79,2916,Minor,2024-12-31
+8,Truls Moregard,MALE,Sweden,Europe,1993-12-10,32,174,71,Right,Offensive,8,4,335,295,88.06,36,18,15,Active,32.2,238,68,5496,None,2024-12-31
+9,Felix Lebrun,MALE,France,Europe,2006-09-12,19,170,83,Left,All-round,9,2,726,476,65.56,16,19,14,Active,26.5,188,64,5589,None,2024-12-31
+10,Dang Qiu,MALE,Germany,Europe,1993-05-15,32,186,79,Left,All-round,10,3,883,567,64.21,15,8,16,Active,23.4,221,73,3766,Minor,2024-12-31
+11,Sun Yingsha,FEMALE,China,Asia,2000-11-04,25,180,79,Right,Offensive,11,2,387,259,66.93,14,22,10,Active,28.4,198,67,5152,Minor,2024-12-31
+12,Chen Meng,FEMALE,China,Asia,1994-01-15,32,190,78,Right,Offensive,12,3,262,177,67.56,13,3,17,Active,36.6,240,84,3996,Minor,2024-12-31
+13,Wang Manyu,FEMALE,China,Asia,1995-06-16,30,176,74,Left,Offensive,13,3,437,374,85.58,25,24,15,Active,23.2,232,72,2858,Minor,2024-12-31
+14,Mima Ito,FEMALE,Japan,Asia,2000-10-21,25,186,71,Left,Offensive,14,1,745,494,66.31,12,7,17,Active,35.8,229,73,3259,Minor,2024-12-31
+15,Hina Hayata,FEMALE,Japan,Asia,1997-09-24,28,186,82,Left,Offensive,15,1,838,675,80.55,23,21,14,Active,26.9,195,80,3683,Minor,2024-12-31
+16,Bernadette Szocs,FEMALE,Romania,Europe,1995-11-18,30,183,60,Left,All-round,16,5,556,480,86.33,23,10,8,Active,26.2,194,76,2795,Minor,2024-12-31
+17,Bruna Takahashi,FEMALE,Brazil,South America,2001-06-14,24,173,79,Left,All-round,17,3,417,261,62.59,27,9,12,Active,31.2,218,71,2699,Minor,2024-12-31
+18,Adriana Diaz,FEMALE,Puerto Rico,North America,1993-04-15,32,173,60,Left,All-round,18,5,374,300,80.21,25,11,14,Active,27.0,210,72,3183,Minor,2024-12-31
+19,Sofia Polcanova,FEMALE,Austria,Europe,2001-11-13,24,178,68,Left,Offensive,19,2,512,409,79.88,23,24,11,Active,26.3,238,74,5702,Minor,2024-12-31
+20,Doha Hany,FEMALE,Egypt,Africa,1996-08-02,29,165,79,Right,All-round,20,2,431,275,63.81,11,16,9,Active,23.4,191,63,3332,None,2024-12-31
+21,Fan Zhendong,MALE,China,Asia,1997-01-22,28,183,82,Left,All-round,21,1,459,316,68.85,32,12,11,Active,24.4,204,62,2868,Minor,2024-12-31
+22,Wang Chuqin,MALE,China,Asia,2000-05-11,25,167,81,Left,All-round,22,3,816,673,82.48,23,5,17,Active,28.5,234,72,5526,None,2024-12-31
+23,Ma Long,MALE,China,Asia,1988-10-20,37,170,79,Right,Offensive,23,4,559,460,82.29,28,16,11,Active,22.5,237,69,5928,Minor,2024-12-31
+24,Hugo Calderano,MALE,Brazil,South America,1996-06-22,29,190,62,Left,All-round,24,3,844,752,89.1,14,6,12,Active,31.4,216,72,5923,Minor,2024-12-31
+25,Tomokazu Harimoto,MALE,Japan,Asia,2003-06-27,22,169,73,Right,All-round,25,5,738,581,78.73,37,22,10,Active,34.5,198,83,4930,Minor,2024-12-31
+26,Xu Xin,MALE,China,Asia,1990-01-08,36,177,78,Left,Offensive,26,2,418,320,76.56,35,5,17,Active,25.1,228,76,4815,Minor,2024-12-31
+27,Lin Yun-Ju,MALE,Chinese Taipei,Asia,2001-08-17,24,180,66,Left,Offensive,27,5,836,601,71.89,8,15,13,Active,33.0,199,61,3428,None,2024-12-31
+28,Truls Moregard,MALE,Sweden,Europe,1989-03-04,36,171,76,Left,Offensive,28,1,255,176,69.02,10,3,14,Active,37.8,237,66,4684,Minor,2024-12-31
+29,Felix Lebrun,MALE,France,Europe,2006-09-12,19,187,66,Left,Offensive,29,2,296,200,67.57,35,3,10,Active,32.7,230,79,5377,None,2024-12-31
+30,Dang Qiu,MALE,Germany,Europe,1991-06-27,34,168,69,Right,Offensive,30,4,668,412,61.68,23,25,17,Active,30.2,183,76,5455,None,2024-12-31
+31,Sun Yingsha,FEMALE,China,Asia,2000-11-04,25,188,83,Left,Offensive,31,1,406,269,66.26,36,14,16,Active,33.4,239,74,5692,Minor,2024-12-31
+32,Chen Meng,FEMALE,China,Asia,1994-01-15,32,180,78,Left,All-round,32,2,660,452,68.48,30,12,13,Active,22.7,237,75,4388,None,2024-12-31
+33,Wang Manyu,FEMALE,China,Asia,1994-11-15,31,180,77,Left,All-round,33,3,423,268,63.36,23,20,15,Active,26.8,218,65,3749,Minor,2024-12-31
+34,Mima Ito,FEMALE,Japan,Asia,2000-10-21,25,179,85,Left,Offensive,34,3,598,432,72.24,25,6,11,Active,34.2,234,85,5465,Minor,2024-12-31
+35,Hina Hayata,FEMALE,Japan,Asia,2004-12-29,21,184,76,Right,All-round,35,3,762,632,82.94,40,6,11,Active,32.1,222,72,3366,Minor,2024-12-31
+36,Bernadette Szocs,FEMALE,Romania,Europe,1993-04-15,32,185,63,Left,Offensive,36,3,418,348,83.25,31,3,10,Active,24.4,198,81,4881,None,2024-12-31
+37,Bruna Takahashi,FEMALE,Brazil,South America,2002-12-23,23,172,84,Right,All-round,37,2,468,335,71.58,31,20,11,Active,29.4,235,67,4890,Minor,2024-12-31
+38,Adriana Diaz,FEMALE,Puerto Rico,North America,1994-12-05,31,189,58,Left,All-round,38,4,586,464,79.18,11,13,18,Active,33.9,191,70,2581,None,2024-12-31
+39,Sofia Polcanova,FEMALE,Austria,Europe,2004-08-29,21,187,62,Right,All-round,39,1,572,392,68.53,14,4,18,Active,32.6,215,71,2552,None,2024-12-31
+40,Doha Hany,FEMALE,Egypt,Africa,1996-07-10,29,186,84,Right,Offensive,40,5,717,604,84.24,20,14,17,Active,37.6,196,65,5190,None,2024-12-31
+41,Fan Zhendong,MALE,China,Asia,1997-01-22,28,176,85,Right,Offensive,41,5,546,343,62.82,6,23,8,Active,30.8,186,82,2771,None,2024-12-31
+42,Wang Chuqin,MALE,China,Asia,2000-05-11,25,185,65,Right,Offensive,42,4,880,590,67.05,8,5,18,Active,24.0,195,71,5979,None,2024-12-31
+43,Ma Long,MALE,China,Asia,1988-10-20,37,178,85,Left,Offensive,43,2,658,578,87.84,9,25,9,Active,35.6,202,60,5978,Minor,2024-12-31
+44,Hugo Calderano,MALE,Brazil,South America,1996-06-22,29,182,83,Right,Offensive,44,5,588,514,87.41,27,9,14,Active,36.3,215,82,3424,None,2024-12-31
+45,Tomokazu Harimoto,MALE,Japan,Asia,2003-06-27,22,189,57,Right,Offensive,45,5,539,352,65.31,38,19,17,Active,33.5,216,63,4244,Minor,2024-12-31
+46,Xu Xin,MALE,China,Asia,1990-01-08,36,187,66,Right,All-round,46,5,282,219,77.66,16,14,9,Active,36.2,207,68,3095,Minor,2024-12-31
+47,Lin Yun-Ju,MALE,Chinese Taipei,Asia,2001-08-17,24,181,62,Left,Offensive,47,1,563,430,76.38,34,25,16,Active,30.8,223,61,5603,Minor,2024-12-31
+48,Truls Moregard,MALE,Sweden,Europe,1990-02-19,35,166,65,Right,All-round,48,2,816,580,71.08,29,3,16,Active,36.6,194,67,5726,None,2024-12-31
+49,Felix Lebrun,MALE,France,Europe,2006-09-12,19,189,84,Right,All-round,49,1,689,507,73.58,10,3,13,Active,28.3,207,83,2848,None,2024-12-31
+50,Dang Qiu,MALE,Germany,Europe,1991-09-25,34,176,78,Right,All-round,50,1,305,265,86.89,13,24,15,Active,26.3,215,64,2508,None,2024-12-31
+51,Sun Yingsha,FEMALE,China,Asia,2000-11-04,25,184,58,Right,All-round,51,5,556,380,68.35,25,19,18,Active,24.0,232,82,3259,Minor,2024-12-31
+52,Chen Meng,FEMALE,China,Asia,1994-01-15,32,169,79,Right,All-round,52,3,322,287,89.13,9,4,17,Active,32.2,198,82,5064,None,2024-12-31
+53,Wang Manyu,FEMALE,China,Asia,1996-05-04,29,173,78,Left,All-round,53,4,273,210,76.92,36,11,18,Active,30.7,182,66,5730,None,2024-12-31
+54,Mima Ito,FEMALE,Japan,Asia,2000-10-21,25,189,65,Left,All-round,54,5,444,289,65.09,15,22,18,Active,30.2,237,76,2725,Minor,2024-12-31
+55,Hina Hayata,FEMALE,Japan,Asia,2000-04-04,25,174,75,Left,All-round,55,3,381,335,87.93,28,22,10,Active,28.3,235,60,3082,Minor,2024-12-31
+56,Bernadette Szocs,FEMALE,Romania,Europe,2000-07-05,25,180,84,Left,Offensive,56,4,882,755,85.6,20,6,14,Active,26.7,204,76,3567,None,2024-12-31
+57,Bruna Takahashi,FEMALE,Brazil,South America,1990-03-30,35,165,57,Left,Offensive,57,5,899,733,81.54,22,24,15,Active,23.4,238,80,4643,None,2024-12-31
+58,Adriana Diaz,FEMALE,Puerto Rico,North America,2003-03-10,22,175,82,Right,All-round,58,1,425,309,72.71,6,21,14,Active,27.4,233,80,4850,Minor,2024-12-31
+59,Sofia Polcanova,FEMALE,Austria,Europe,2003-07-27,22,165,57,Left,Offensive,59,5,875,539,61.6,35,7,15,Active,37.8,235,78,4519,Minor,2024-12-31
+60,Doha Hany,FEMALE,Egypt,Africa,1991-04-22,34,180,76,Right,Offensive,60,4,255,193,75.69,36,3,13,Active,30.0,219,63,4781,Minor,2024-12-31
+61,Fan Zhendong,MALE,China,Asia,1997-01-22,28,182,82,Left,Offensive,61,1,543,382,70.35,37,24,8,Active,25.6,194,76,4509,Minor,2024-12-31
+62,Wang Chuqin,MALE,China,Asia,2000-05-11,25,171,57,Right,Offensive,62,1,348,242,69.54,16,3,15,Active,35.7,201,85,3592,None,2024-12-31
+63,Ma Long,MALE,China,Asia,1988-10-20,37,169,64,Right,Offensive,63,2,361,292,80.89,38,20,18,Active,26.2,231,80,3516,Minor,2024-12-31
+64,Hugo Calderano,MALE,Brazil,South America,1996-06-22,29,177,59,Left,All-round,64,3,384,327,85.16,10,20,12,Active,23.9,200,79,2665,Minor,2024-12-31
+65,Tomokazu Harimoto,MALE,Japan,Asia,2003-06-27,22,184,65,Left,Offensive,65,1,569,417,73.29,25,20,9,Active,28.4,198,75,4000,None,2024-12-31
+66,Xu Xin,MALE,China,Asia,1990-01-08,36,186,81,Right,Offensive,66,3,368,272,73.91,33,18,13,Active,26.8,225,64,3986,Minor,2024-12-31
+67,Lin Yun-Ju,MALE,Chinese Taipei,Asia,2001-08-17,24,182,68,Left,Offensive,67,4,867,593,68.4,33,7,10,Active,32.0,218,82,2556,None,2024-12-31
+68,Truls Moregard,MALE,Sweden,Europe,2003-11-17,22,188,78,Left,All-round,68,5,600,511,85.17,14,15,11,Active,36.7,238,62,5588,Minor,2024-12-31
+69,Felix Lebrun,MALE,France,Europe,2006-09-12,19,184,67,Left,Offensive,69,1,712,440,61.8,37,24,17,Active,22.6,193,74,5847,None,2024-12-31
+70,Dang Qiu,MALE,Germany,Europe,1990-05-06,35,169,60,Left,All-round,70,1,713,433,60.73,19,17,17,Active,30.9,181,62,3787,Minor,2024-12-31
+71,Sun Yingsha,FEMALE,China,Asia,2000-11-04,25,175,68,Left,Offensive,71,4,411,354,86.13,26,17,16,Active,37.5,194,81,5793,Minor,2024-12-31
+72,Chen Meng,FEMALE,China,Asia,1994-01-15,32,189,70,Right,All-round,72,1,508,310,61.02,12,15,8,Active,24.6,182,82,5740,None,2024-12-31
+73,Wang Manyu,FEMALE,China,Asia,1998-10-31,27,179,80,Right,All-round,73,4,603,383,63.52,9,20,13,Active,36.0,192,79,4025,None,2024-12-31
+74,Mima Ito,FEMALE,Japan,Asia,2000-10-21,25,180,70,Right,All-round,74,4,864,699,80.9,35,8,9,Active,27.7,208,80,4378,None,2024-12-31
+75,Hina Hayata,FEMALE,Japan,Asia,1995-05-28,30,166,75,Left,Offensive,75,2,452,373,82.52,15,16,12,Active,22.2,223,60,5090,None,2024-12-31
+76,Bernadette Szocs,FEMALE,Romania,Europe,1994-10-18,31,168,66,Left,All-round,76,1,413,367,88.86,11,12,13,Active,32.1,210,79,5779,Minor,2024-12-31
+77,Bruna Takahashi,FEMALE,Brazil,South America,1999-08-17,26,188,81,Right,Offensive,77,2,435,292,67.13,34,18,11,Active,37.2,238,83,5652,None,2024-12-31
+78,Adriana Diaz,FEMALE,Puerto Rico,North America,1996-05-21,29,167,71,Left,Offensive,78,4,565,360,63.72,35,19,15,Active,24.1,202,84,2912,Minor,2024-12-31
+79,Sofia Polcanova,FEMALE,Austria,Europe,1990-09-30,35,167,77,Left,All-round,79,2,325,262,80.62,20,25,9,Active,28.7,234,85,3411,Minor,2024-12-31
+80,Doha Hany,FEMALE,Egypt,Africa,2002-02-22,23,169,70,Right,Offensive,80,5,599,392,65.44,19,3,14,Active,26.6,217,78,5326,Minor,2024-12-31
+81,Fan Zhendong,MALE,China,Asia,1997-01-22,28,174,61,Right,Offensive,81,3,532,341,64.1,13,15,8,Active,37.4,206,69,5989,Minor,2024-12-31
+82,Wang Chuqin,MALE,China,Asia,2000-05-11,25,183,58,Right,Offensive,82,2,741,641,86.5,40,24,12,Active,35.7,188,68,5491,None,2024-12-31
+83,Ma Long,MALE,China,Asia,1988-10-20,37,184,83,Left,All-round,83,1,526,359,68.25,12,13,17,Active,27.7,187,66,4764,None,2024-12-31
+84,Hugo Calderano,MALE,Brazil,South America,1996-06-22,29,168,65,Left,All-round,84,4,858,645,75.17,40,9,9,Active,34.6,183,77,4612,None,2024-12-31
+85,Tomokazu Harimoto,MALE,Japan,Asia,2003-06-27,22,179,69,Right,All-round,85,1,631,555,87.96,36,24,12,Active,23.9,234,73,5627,Minor,2024-12-31
+86,Xu Xin,MALE,China,Asia,1990-01-08,36,180,76,Right,All-round,86,1,652,467,71.63,37,22,13,Active,25.0,227,77,2564,None,2024-12-31
+87,Lin Yun-Ju,MALE,Chinese Taipei,Asia,2001-08-17,24,168,61,Left,Offensive,87,3,571,385,67.43,16,6,8,Active,26.7,203,63,3895,None,2024-12-31
+88,Truls Moregard,MALE,Sweden,Europe,2000-11-01,25,170,65,Right,Offensive,88,3,846,608,71.87,10,8,12,Active,27.2,220,70,4340,Minor,2024-12-31
+89,Felix Lebrun,MALE,France,Europe,2006-09-12,19,186,56,Left,Offensive,89,1,308,234,75.97,39,13,9,Active,26.4,189,81,2954,None,2024-12-31
+90,Dang Qiu,MALE,Germany,Europe,1992-03-08,33,176,65,Left,Offensive,90,2,274,241,87.96,12,11,12,Active,25.8,225,69,3937,None,2024-12-31
+91,Sun Yingsha,FEMALE,China,Asia,2000-11-04,25,189,74,Right,All-round,91,3,578,489,84.6,27,25,14,Active,34.2,188,78,5170,Minor,2024-12-31
+92,Chen Meng,FEMALE,China,Asia,1994-01-15,32,186,85,Left,Offensive,92,1,574,373,64.98,16,21,10,Active,33.1,187,85,5538,Minor,2024-12-31
+93,Wang Manyu,FEMALE,China,Asia,1998-08-03,27,173,78,Left,All-round,93,2,358,283,79.05,12,25,17,Active,34.0,198,72,2656,None,2024-12-31
+94,Mima Ito,FEMALE,Japan,Asia,2000-10-21,25,174,55,Left,Offensive,94,5,851,667,78.38,28,7,17,Active,37.6,194,61,3222,None,2024-12-31
+95,Hina Hayata,FEMALE,Japan,Asia,1992-01-10,34,168,73,Right,All-round,95,5,499,394,78.96,5,10,12,Active,30.7,230,85,5720,Minor,2024-12-31
+96,Bernadette Szocs,FEMALE,Romania,Europe,1989-03-26,36,178,71,Left,Offensive,96,3,477,360,75.47,13,3,17,Active,24.6,237,73,2553,Minor,2024-12-31
+97,Bruna Takahashi,FEMALE,Brazil,South America,1998-02-10,27,165,69,Right,Offensive,97,4,633,487,76.94,25,13,17,Active,30.0,204,72,3335,None,2024-12-31
+98,Adriana Diaz,FEMALE,Puerto Rico,North America,2000-02-02,25,165,83,Right,All-round,98,5,550,342,62.18,40,8,16,Active,35.1,190,75,2720,Minor,2024-12-31
+99,Sofia Polcanova,FEMALE,Austria,Europe,1989-09-01,36,177,65,Right,All-round,99,5,822,691,84.06,40,19,10,Active,23.7,211,75,4726,Minor,2024-12-31
+100,Doha Hany,FEMALE,Egypt,Africa,2004-10-26,21,173,64,Left,All-round,100,1,395,349,88.35,20,5,8,Active,24.1,237,64,2732,Minor,2024-12-31
+101,Fan Zhendong,MALE,China,Asia,1997-01-22,28,190,81,Left,All-round,101,1,449,364,81.07,24,12,18,Active,27.0,230,71,4723,Minor,2024-12-31
+102,Wang Chuqin,MALE,China,Asia,2000-05-11,25,178,85,Right,Offensive,102,5,677,571,84.34,33,6,14,Active,22.3,206,75,3518,None,2024-12-31
+103,Ma Long,MALE,China,Asia,1988-10-20,37,174,81,Right,All-round,103,4,691,455,65.85,36,6,14,Active,37.7,240,62,4330,Minor,2024-12-31
+104,Hugo Calderano,MALE,Brazil,South America,1996-06-22,29,189,58,Left,Offensive,104,1,569,448,78.73,31,23,13,Active,26.5,229,72,2573,None,2024-12-31
+105,Tomokazu Harimoto,MALE,Japan,Asia,2003-06-27,22,165,57,Right,All-round,105,2,649,532,81.97,40,10,17,Active,31.3,224,70,4613,Minor,2024-12-31
+106,Xu Xin,MALE,China,Asia,1990-01-08,36,173,77,Left,All-round,106,2,803,544,67.75,39,22,9,Active,26.2,228,69,4909,Minor,2024-12-31
+107,Lin Yun-Ju,MALE,Chinese Taipei,Asia,2001-08-17,24,183,65,Right,Offensive,107,3,413,368,89.1,6,5,13,Active,31.8,194,69,4904,None,2024-12-31
+108,Truls Moregard,MALE,Sweden,Europe,1993-02-22,32,182,84,Right,Offensive,108,5,442,358,81.0,12,25,10,Active,33.1,183,68,5294,None,2024-12-31
+109,Felix Lebrun,MALE,France,Europe,2006-09-12,19,166,76,Right,Offensive,109,2,427,303,70.96,22,13,8,Active,28.8,211,84,3256,None,2024-12-31
+110,Dang Qiu,MALE,Germany,Europe,1991-12-30,34,188,64,Right,Offensive,110,3,593,395,66.61,12,6,14,Active,28.9,203,75,3714,Minor,2024-12-31
+111,Sun Yingsha,FEMALE,China,Asia,2000-11-04,25,175,61,Left,Offensive,111,3,782,661,84.53,34,8,8,Active,27.9,229,83,2891,Minor,2024-12-31
+112,Chen Meng,FEMALE,China,Asia,1994-01-15,32,177,66,Right,Offensive,112,5,389,235,60.41,22,24,8,Active,26.3,229,60,5299,None,2024-12-31
+113,Wang Manyu,FEMALE,China,Asia,2001-12-09,24,167,67,Right,Offensive,113,1,851,574,67.45,20,19,14,Active,24.4,208,61,5286,None,2024-12-31
+114,Mima Ito,FEMALE,Japan,Asia,2000-10-21,25,181,58,Right,All-round,114,3,768,642,83.59,5,23,14,Active,33.1,233,75,2634,Minor,2024-12-31
+115,Hina Hayata,FEMALE,Japan,Asia,1999-01-16,27,170,70,Left,Offensive,115,2,733,480,65.48,27,16,16,Active,32.5,210,67,5580,None,2024-12-31
+116,Bernadette Szocs,FEMALE,Romania,Europe,2001-12-21,24,171,70,Right,Offensive,116,1,341,223,65.4,37,20,15,Active,22.2,226,66,3136,None,2024-12-31
+117,Bruna Takahashi,FEMALE,Brazil,South America,2003-04-10,22,176,84,Left,All-round,117,3,780,575,73.72,20,25,17,Active,32.7,180,70,4240,None,2024-12-31
+118,Adriana Diaz,FEMALE,Puerto Rico,North America,1998-04-20,27,187,79,Right,Offensive,118,2,281,252,89.68,34,16,9,Active,22.6,238,64,3537,Minor,2024-12-31
+119,Sofia Polcanova,FEMALE,Austria,Europe,2000-12-17,25,183,68,Left,All-round,119,4,476,336,70.59,24,3,11,Active,35.4,205,70,3184,Minor,2024-12-31
+120,Doha Hany,FEMALE,Egypt,Africa,1991-09-15,34,166,81,Left,Offensive,120,4,857,609,71.06,36,5,11,Active,23.6,223,78,5412,Minor,2024-12-31
+121,Fan Zhendong,MALE,China,Asia,1997-01-22,28,178,72,Right,Offensive,121,2,722,586,81.16,10,20,18,Active,28.8,183,63,4787,None,2024-12-31
+122,Wang Chuqin,MALE,China,Asia,2000-05-11,25,169,74,Left,All-round,122,5,657,412,62.71,34,25,10,Active,32.2,183,78,5548,Minor,2024-12-31
+123,Ma Long,MALE,China,Asia,1988-10-20,37,178,64,Left,Offensive,123,4,469,360,76.76,17,3,12,Active,30.2,235,62,2603,None,2024-12-31
+124,Hugo Calderano,MALE,Brazil,South America,1996-06-22,29,166,75,Left,Offensive,124,3,558,355,63.62,13,18,16,Active,31.0,236,84,5084,None,2024-12-31
+125,Tomokazu Harimoto,MALE,Japan,Asia,2003-06-27,22,176,72,Right,All-round,125,2,761,474,62.29,32,18,12,Active,26.8,210,69,5285,None,2024-12-31
+126,Xu Xin,MALE,China,Asia,1990-01-08,36,168,72,Left,Offensive,126,3,370,302,81.62,17,15,15,Active,25.9,224,82,4466,None,2024-12-31
+127,Lin Yun-Ju,MALE,Chinese Taipei,Asia,2001-08-17,24,186,79,Left,All-round,127,2,547,446,81.54,9,11,15,Active,32.8,236,77,5765,Minor,2024-12-31
+128,Truls Moregard,MALE,Sweden,Europe,2001-10-08,24,189,66,Right,Offensive,128,1,282,191,67.73,7,9,16,Active,35.8,185,78,2500,Minor,2024-12-31
+129,Felix Lebrun,MALE,France,Europe,2006-09-12,19,172,84,Left,Offensive,129,2,476,342,71.85,27,24,10,Active,34.0,205,67,5887,Minor,2024-12-31
+130,Dang Qiu,MALE,Germany,Europe,1999-06-21,26,190,70,Left,All-round,130,2,602,493,81.89,15,22,8,Active,29.8,184,70,4421,Minor,2024-12-31
+131,Sun Yingsha,FEMALE,China,Asia,2000-11-04,25,172,75,Left,All-round,131,3,511,426,83.37,37,6,12,Active,28.4,207,64,5434,None,2024-12-31
+132,Chen Meng,FEMALE,China,Asia,1994-01-15,32,186,69,Left,Offensive,132,5,280,246,87.86,14,12,13,Active,26.3,194,68,5624,None,2024-12-31
+133,Wang Manyu,FEMALE,China,Asia,1992-06-21,33,190,61,Right,All-round,133,4,593,408,68.8,16,12,9,Active,34.5,219,70,4178,Minor,2024-12-31
+134,Mima Ito,FEMALE,Japan,Asia,2000-10-21,25,165,69,Right,Offensive,134,4,535,445,83.18,37,6,10,Active,29.2,192,61,4314,None,2024-12-31
+135,Hina Hayata,FEMALE,Japan,Asia,1999-08-29,26,172,70,Right,Offensive,135,5,407,303,74.45,16,20,18,Active,37.9,230,81,4352,None,2024-12-31
+136,Bernadette Szocs,FEMALE,Romania,Europe,1996-05-28,29,178,76,Right,Offensive,136,5,384,271,70.57,18,18,18,Active,31.1,183,68,4889,None,2024-12-31
+137,Bruna Takahashi,FEMALE,Brazil,South America,1992-05-31,33,185,76,Right,All-round,137,1,676,569,84.17,22,23,16,Active,36.2,203,81,5706,None,2024-12-31
+138,Adriana Diaz,FEMALE,Puerto Rico,North America,2004-08-31,21,181,83,Left,All-round,138,2,507,442,87.18,17,11,14,Active,24.6,216,83,3331,Minor,2024-12-31
+139,Sofia Polcanova,FEMALE,Austria,Europe,2002-07-21,23,187,66,Right,Offensive,139,2,579,491,84.8,27,20,14,Active,31.5,232,67,4522,None,2024-12-31
+140,Doha Hany,FEMALE,Egypt,Africa,2004-11-28,21,175,81,Right,All-round,140,4,301,187,62.13,35,25,11,Active,27.4,224,60,5726,None,2024-12-31
+141,Fan Zhendong,MALE,China,Asia,1997-01-22,28,165,57,Left,Offensive,141,4,350,235,67.14,34,6,13,Active,36.6,214,76,4906,None,2024-12-31
+142,Wang Chuqin,MALE,China,Asia,2000-05-11,25,183,64,Left,Offensive,142,4,855,748,87.49,15,8,11,Active,33.0,197,82,2853,Minor,2024-12-31
+143,Ma Long,MALE,China,Asia,1988-10-20,37,171,70,Left,All-round,143,3,793,705,88.9,28,7,16,Active,36.5,201,66,4380,None,2024-12-31
+144,Hugo Calderano,MALE,Brazil,South America,1996-06-22,29,167,58,Left,All-round,144,2,737,504,68.39,35,14,10,Active,24.8,225,61,4973,None,2024-12-31
+145,Tomokazu Harimoto,MALE,Japan,Asia,2003-06-27,22,174,67,Right,All-round,145,5,396,245,61.87,13,14,8,Active,34.3,199,68,5889,None,2024-12-31
+146,Xu Xin,MALE,China,Asia,1990-01-08,36,179,70,Right,Offensive,146,5,316,213,67.41,11,23,18,Active,30.6,211,79,2966,None,2024-12-31
+147,Lin Yun-Ju,MALE,Chinese Taipei,Asia,2001-08-17,24,176,70,Right,Offensive,147,1,796,502,63.07,25,20,13,Active,30.6,189,77,5308,None,2024-12-31
+148,Truls Moregard,MALE,Sweden,Europe,2000-03-22,25,181,72,Left,Offensive,148,5,509,326,64.05,32,8,14,Active,23.6,212,85,4521,Minor,2024-12-31
+149,Felix Lebrun,MALE,France,Europe,2006-09-12,19,177,68,Right,Offensive,149,2,264,229,86.74,17,25,17,Active,37.0,186,62,3351,None,2024-12-31
+150,Dang Qiu,MALE,Germany,Europe,1990-12-25,35,184,79,Right,Offensive,150,3,765,536,70.07,33,23,11,Active,24.8,219,66,3590,None,2024-12-31
+151,Sun Yingsha,FEMALE,China,Asia,2000-11-04,25,183,78,Right,Offensive,151,5,630,438,69.52,10,6,8,Active,34.6,233,83,4094,None,2024-12-31
+152,Chen Meng,FEMALE,China,Asia,1994-01-15,32,166,85,Left,All-round,152,5,281,227,80.78,18,12,12,Active,29.7,218,72,4204,Minor,2024-12-31
+153,Wang Manyu,FEMALE,China,Asia,1993-09-05,32,175,82,Left,All-round,153,3,793,568,71.63,18,17,13,Active,29.3,206,85,4500,Minor,2024-12-31
+154,Mima Ito,FEMALE,Japan,Asia,2000-10-21,25,177,81,Left,Offensive,154,2,770,647,84.03,9,17,15,Active,24.2,186,81,3966,Minor,2024-12-31
+155,Hina Hayata,FEMALE,Japan,Asia,1996-07-04,29,167,84,Right,Offensive,155,3,476,371,77.94,6,20,9,Active,28.4,220,61,3268,None,2024-12-31
+156,Bernadette Szocs,FEMALE,Romania,Europe,2003-12-13,22,180,73,Right,Offensive,156,1,254,162,63.78,33,18,11,Active,35.6,217,68,5696,None,2024-12-31
+157,Bruna Takahashi,FEMALE,Brazil,South America,1994-10-14,31,186,58,Left,All-round,157,5,289,249,86.16,27,19,15,Active,26.7,240,81,4071,Minor,2024-12-31
+158,Adriana Diaz,FEMALE,Puerto Rico,North America,2004-08-21,21,166,71,Left,All-round,158,2,780,642,82.31,33,16,12,Active,28.1,185,85,4438,Minor,2024-12-31
+159,Sofia Polcanova,FEMALE,Austria,Europe,1997-07-06,28,172,71,Right,All-round,159,5,321,236,73.52,10,19,16,Active,30.1,226,68,5945,None,2024-12-31
+160,Doha Hany,FEMALE,Egypt,Africa,2000-06-06,25,168,68,Left,All-round,160,3,319,258,80.88,16,18,12,Active,25.9,191,75,2589,None,2024-12-31
+161,Fan Zhendong,MALE,China,Asia,1997-01-22,28,177,73,Right,Offensive,161,2,443,293,66.14,13,3,15,Active,33.0,200,77,5291,None,2024-12-31
+162,Wang Chuqin,MALE,China,Asia,2000-05-11,25,175,61,Left,All-round,162,1,783,549,70.11,19,19,13,Active,34.6,239,63,5288,Minor,2024-12-31
+163,Ma Long,MALE,China,Asia,1988-10-20,37,168,80,Right,All-round,163,3,697,514,73.74,20,4,18,Active,35.7,212,77,3948,Minor,2024-12-31
+164,Hugo Calderano,MALE,Brazil,South America,1996-06-22,29,169,65,Right,All-round,164,4,373,281,75.34,26,12,13,Active,34.4,200,85,5449,Minor,2024-12-31
+165,Tomokazu Harimoto,MALE,Japan,Asia,2003-06-27,22,180,76,Right,Offensive,165,1,309,198,64.08,26,22,14,Active,22.9,221,67,5200,None,2024-12-31
+166,Xu Xin,MALE,China,Asia,1990-01-08,36,175,80,Right,Offensive,166,1,734,525,71.53,24,19,13,Active,35.3,202,78,4643,Minor,2024-12-31
+167,Lin Yun-Ju,MALE,Chinese Taipei,Asia,2001-08-17,24,170,68,Right,Offensive,167,2,399,246,61.65,21,18,10,Active,25.2,206,82,3653,Minor,2024-12-31
+168,Truls Moregard,MALE,Sweden,Europe,1998-10-25,27,178,81,Left,All-round,168,2,508,422,83.07,38,6,10,Active,27.1,191,84,3654,Minor,2024-12-31
+169,Felix Lebrun,MALE,France,Europe,2006-09-12,19,179,79,Right,Offensive,169,5,748,620,82.89,38,17,9,Active,27.8,240,63,4183,None,2024-12-31
+170,Dang Qiu,MALE,Germany,Europe,2002-06-25,23,187,81,Left,Offensive,170,5,894,598,66.89,31,11,13,Active,28.2,180,79,3330,None,2024-12-31
+171,Sun Yingsha,FEMALE,China,Asia,2000-11-04,25,187,68,Left,Offensive,171,2,827,505,61.06,34,19,18,Active,31.6,238,72,3804,None,2024-12-31
+172,Chen Meng,FEMALE,China,Asia,1994-01-15,32,190,56,Right,Offensive,172,2,725,523,72.14,29,8,8,Active,35.0,207,75,5715,None,2024-12-31
+173,Wang Manyu,FEMALE,China,Asia,1997-10-21,28,181,63,Right,All-round,173,5,267,172,64.42,35,10,14,Active,37.2,199,76,5482,None,2024-12-31
+174,Mima Ito,FEMALE,Japan,Asia,2000-10-21,25,167,68,Left,Offensive,174,5,334,249,74.55,10,15,12,Active,33.1,182,68,5592,None,2024-12-31
+175,Hina Hayata,FEMALE,Japan,Asia,2003-03-30,22,169,71,Left,Offensive,175,1,386,249,64.51,5,7,13,Active,26.3,215,60,5161,Minor,2024-12-31
+176,Bernadette Szocs,FEMALE,Romania,Europe,1991-08-06,34,167,64,Left,All-round,176,4,254,185,72.83,33,22,13,Active,24.8,218,65,5106,Minor,2024-12-31
+177,Bruna Takahashi,FEMALE,Brazil,South America,1991-11-23,34,188,83,Right,All-round,177,2,850,536,63.06,10,24,9,Active,24.8,239,74,5455,Minor,2024-12-31
+178,Adriana Diaz,FEMALE,Puerto Rico,North America,1990-09-19,35,175,56,Left,All-round,178,4,746,575,77.08,25,22,17,Active,33.4,182,84,3710,None,2024-12-31
+179,Sofia Polcanova,FEMALE,Austria,Europe,1997-02-14,28,186,56,Left,All-round,179,1,310,201,64.84,23,5,16,Active,26.1,229,68,5027,None,2024-12-31
+180,Doha Hany,FEMALE,Egypt,Africa,1991-11-24,34,165,63,Right,All-round,180,2,865,747,86.36,9,8,18,Active,28.4,218,70,4617,None,2024-12-31
+181,Fan Zhendong,MALE,China,Asia,1997-01-22,28,179,83,Right,Offensive,181,3,804,650,80.85,33,22,10,Active,30.6,219,80,3716,None,2024-12-31
+182,Wang Chuqin,MALE,China,Asia,2000-05-11,25,166,85,Right,Offensive,182,1,479,373,77.87,13,17,15,Active,32.1,182,65,3096,Minor,2024-12-31
+183,Ma Long,MALE,China,Asia,1988-10-20,37,174,78,Right,Offensive,183,1,859,715,83.24,29,5,11,Active,23.2,208,76,5503,Minor,2024-12-31
+184,Hugo Calderano,MALE,Brazil,South America,1996-06-22,29,182,68,Right,All-round,184,1,273,188,68.86,18,7,9,Active,32.9,194,79,4223,Minor,2024-12-31
+185,Tomokazu Harimoto,MALE,Japan,Asia,2003-06-27,22,182,83,Right,Offensive,185,5,643,426,66.25,40,10,9,Active,25.4,182,77,3540,None,2024-12-31
+186,Xu Xin,MALE,China,Asia,1990-01-08,36,189,77,Right,Offensive,186,2,574,516,89.9,5,19,12,Active,28.7,204,75,2736,None,2024-12-31
+187,Lin Yun-Ju,MALE,Chinese Taipei,Asia,2001-08-17,24,183,58,Left,Offensive,187,5,402,264,65.67,27,12,18,Active,26.2,190,80,3412,None,2024-12-31
+188,Truls Moregard,MALE,Sweden,Europe,2001-09-27,24,179,77,Right,All-round,188,1,551,373,67.7,26,9,12,Active,26.7,225,83,2848,Minor,2024-12-31
+189,Felix Lebrun,MALE,France,Europe,2006-09-12,19,184,79,Right,Offensive,189,4,500,312,62.4,5,14,9,Active,29.7,181,72,3445,Minor,2024-12-31
+190,Dang Qiu,MALE,Germany,Europe,1991-03-12,34,168,71,Left,Offensive,190,4,740,564,76.22,5,11,15,Active,25.3,221,75,4755,None,2024-12-31
+191,Sun Yingsha,FEMALE,China,Asia,2000-11-04,25,178,64,Left,Offensive,191,3,691,523,75.69,5,20,8,Active,37.1,189,71,5057,None,2024-12-31
+192,Chen Meng,FEMALE,China,Asia,1994-01-15,32,181,72,Right,Offensive,192,5,291,189,64.95,20,23,8,Active,38.0,237,81,4020,None,2024-12-31
+193,Wang Manyu,FEMALE,China,Asia,1996-11-28,29,181,74,Left,Offensive,193,1,535,426,79.63,35,19,8,Active,27.5,214,79,4150,None,2024-12-31
+194,Mima Ito,FEMALE,Japan,Asia,2000-10-21,25,176,79,Left,Offensive,194,4,739,639,86.47,6,17,12,Active,26.3,227,68,3209,Minor,2024-12-31
+195,Hina Hayata,FEMALE,Japan,Asia,1991-02-10,34,186,63,Left,All-round,195,3,306,195,63.73,18,18,16,Active,30.0,184,78,3329,None,2024-12-31
+196,Bernadette Szocs,FEMALE,Romania,Europe,2004-08-05,21,170,78,Left,All-round,196,5,439,344,78.36,40,23,16,Active,29.9,227,70,5892,Minor,2024-12-31
+197,Bruna Takahashi,FEMALE,Brazil,South America,1999-05-06,26,179,72,Right,Offensive,197,3,355,217,61.13,26,15,11,Active,35.2,229,70,3749,Minor,2024-12-31
+198,Adriana Diaz,FEMALE,Puerto Rico,North America,1989-04-25,36,172,60,Left,All-round,198,4,764,491,64.27,8,14,11,Active,26.5,204,75,2801,Minor,2024-12-31
+199,Sofia Polcanova,FEMALE,Austria,Europe,2002-04-20,23,168,83,Right,Offensive,199,4,744,503,67.61,29,25,12,Active,35.4,235,75,3966,None,2024-12-31
+200,Doha Hany,FEMALE,Egypt,Africa,2001-10-02,24,181,64,Left,Offensive,200,3,653,510,78.1,36,16,18,Active,35.1,205,76,2985,None,2024-12-31
+201,Arjun Brown 201,MALE,France,Europe,1998-07-11,27,186,91,Left,Offensive,201,136,114,65,57.02,3,0,3,Active,42.2,295,80,1727,Major,2024-12-31
+202,Sofia Li 202,FEMALE,France,Europe,2004-07-05,21,163,54,Right,Offensive,202,44,119,56,47.06,13,2,8,Active,42.1,295,73,1248,Major,2024-12-31
+203,Laura Li 203,FEMALE,Italy,Europe,2005-04-24,20,150,83,Right,Defensive,203,136,104,76,73.08,15,2,12,Active,37.5,262,60,1047,None,2024-12-31
+204,Mei Garcia 204,FEMALE,Canada,North America,1990-08-26,35,170,84,Right,Offensive,204,125,194,124,63.92,11,5,9,Active,34.1,220,71,2228,Major,2024-12-31
+205,Mei Sharma 205,FEMALE,Egypt,Africa,2005-08-30,20,170,85,Right,Offensive,205,136,453,230,50.77,3,1,10,Active,21.5,228,73,1138,Major,2024-12-31
+206,Laura Petrov 206,FEMALE,Indonesia,Asia,1997-09-30,28,194,56,Right,Defensive,206,50,312,110,35.26,14,5,3,Active,36.2,200,53,722,None,2024-12-31
+207,Wei Li 207,MALE,Chile,South America,1985-07-04,40,192,84,Right,Offensive,207,35,316,114,36.08,12,0,12,Retired,28.7,223,57,1814,Minor,2024-12-31
+208,Daniel Li 208,MALE,Thailand,Asia,2000-10-15,25,150,45,Left,Defensive,208,123,112,50,44.64,7,3,10,Active,43.3,207,56,2464,Major,2024-12-31
+209,Mei Petrov 209,FEMALE,India,Asia,1987-03-11,38,172,71,Right,All-round,209,55,148,64,43.24,14,4,8,Retired,22.4,201,50,913,Major,2024-12-31
+210,Mei Li 210,FEMALE,Australia,Oceania,1996-08-20,29,171,65,Left,All-round,210,96,307,221,71.99,11,5,11,Active,34.0,264,70,792,Minor,2024-12-31
+211,Emma Garcia 211,FEMALE,Canada,North America,1990-02-27,35,173,64,Right,Offensive,211,6,113,44,38.94,1,4,4,Active,35.3,229,70,689,Major,2024-12-31
+212,Samuel Petrov 212,MALE,Germany,Europe,2006-05-15,19,187,65,Left,All-round,212,98,251,144,57.37,5,0,3,Active,41.9,208,75,1085,Minor,2024-12-31
+213,Ivan Singh 213,MALE,Egypt,Africa,1997-06-22,28,160,50,Right,All-round,213,10,292,118,40.41,15,1,10,Active,21.1,191,70,1130,None,2024-12-31
+214,Arjun Lopez 214,MALE,USA,North America,2006-03-24,19,193,79,Right,Offensive,214,108,191,97,50.79,9,3,6,Active,22.0,214,61,1674,None,2024-12-31
+215,Victor Rossi 215,MALE,Australia,Oceania,2004-07-14,21,184,52,Right,All-round,215,112,156,103,66.03,8,4,3,Active,33.1,192,78,1766,Minor,2024-12-31
+216,Emma Petrov 216,FEMALE,Italy,Europe,1996-07-26,29,158,52,Right,All-round,216,71,365,182,49.86,4,2,8,Active,23.5,246,61,420,Major,2024-12-31
+217,Alex Petrov 217,MALE,USA,North America,1993-10-25,32,192,73,Right,Offensive,217,22,137,56,40.88,7,1,10,Active,20.7,276,55,590,None,2024-12-31
+218,Marco Lopez 218,MALE,Canada,North America,1986-11-02,39,170,87,Right,All-round,218,72,279,121,43.37,10,5,9,Retired,22.0,297,63,2203,Minor,2024-12-31
+219,Sofia Li 219,FEMALE,Argentina,South America,1996-07-14,29,177,48,Right,All-round,219,1,464,293,63.15,4,4,11,Active,42.6,270,77,1881,Major,2024-12-31
+220,Victor Rossi 220,MALE,Australia,Oceania,1996-01-18,29,162,70,Right,Defensive,220,99,222,91,40.99,0,4,10,Active,24.1,199,61,420,Minor,2024-12-31
+221,Victor Brown 221,MALE,Egypt,Africa,1987-02-09,38,171,92,Right,All-round,221,122,359,267,74.37,0,3,8,Retired,41.2,228,62,2309,Major,2024-12-31
+222,Marco Martin 222,MALE,Spain,Europe,1985-11-05,40,173,53,Left,Defensive,222,4,165,101,61.21,6,3,10,Retired,40.1,240,48,1238,None,2024-12-31
+223,Laura Singh 223,FEMALE,Chile,South America,1993-11-05,32,166,89,Right,Defensive,223,29,490,172,35.1,9,0,4,Active,37.0,294,45,1943,Major,2024-12-31
+224,Laura Martin 224,FEMALE,India,Asia,2005-08-26,20,192,55,Left,Defensive,224,72,358,259,72.35,3,0,8,Active,20.8,211,48,506,Major,2024-12-31
+225,Ivan Silva 225,MALE,Germany,Europe,1992-03-24,33,179,62,Right,All-round,225,5,337,164,48.66,4,3,12,Active,31.6,214,56,1868,Minor,2024-12-31
+226,Wei Brown 226,MALE,Egypt,Africa,1992-07-04,33,166,56,Left,Offensive,226,112,259,103,39.77,5,2,5,Active,42.2,287,66,2423,Major,2024-12-31
+227,Wei Li 227,MALE,New Zealand,Oceania,1995-12-22,30,185,84,Left,Defensive,227,144,458,291,63.54,7,0,10,Active,29.7,243,53,1622,None,2024-12-31
+228,Ivan Rossi 228,MALE,Thailand,Asia,1987-09-05,38,172,71,Right,Offensive,228,137,96,38,39.58,5,1,8,Retired,31.2,282,51,776,None,2024-12-31
+229,Samuel Rossi 229,MALE,Spain,Europe,1994-10-31,31,172,80,Right,Offensive,229,26,411,150,36.5,11,0,6,Active,27.3,291,75,2276,Minor,2024-12-31
+230,Daniel Brown 230,MALE,Australia,Oceania,1988-02-27,37,194,46,Right,All-round,230,134,411,244,59.37,14,0,5,Retired,22.4,294,60,2406,None,2024-12-31
+231,Alex Garcia 231,MALE,Indonesia,Asia,1987-08-12,38,153,60,Right,All-round,231,150,88,45,51.14,14,4,5,Retired,34.9,250,74,2296,None,2024-12-31
+232,Samuel Lopez 232,MALE,France,Europe,1997-01-01,29,176,79,Right,Defensive,232,12,109,38,34.86,11,3,8,Active,40.6,280,65,852,Minor,2024-12-31
+233,Alex Sharma 233,MALE,USA,North America,2006-02-28,19,180,48,Right,Defensive,233,113,429,299,69.7,12,0,9,Active,25.6,215,46,2493,None,2024-12-31
+234,Samuel Rossi 234,MALE,France,Europe,2003-05-26,22,195,95,Left,All-round,234,133,302,107,35.43,14,0,10,Active,24.8,280,49,966,Minor,2024-12-31
+235,Mei Lopez 235,FEMALE,Nigeria,Africa,2004-04-30,21,172,88,Right,Offensive,235,140,395,204,51.65,1,3,8,Active,23.6,231,60,816,Minor,2024-12-31
+236,Daniel Silva 236,MALE,Spain,Europe,1985-11-23,40,181,55,Right,All-round,236,144,419,280,66.83,1,2,9,Retired,34.2,213,55,2073,Major,2024-12-31
+237,Arjun Singh 237,MALE,New Zealand,Oceania,2003-06-25,22,183,74,Right,Defensive,237,74,218,98,44.95,9,0,4,Active,36.4,266,51,1175,Major,2024-12-31
+238,Daniel Singh 238,MALE,Spain,Europe,2000-08-07,25,159,47,Left,All-round,238,149,345,193,55.94,3,5,12,Active,26.1,229,59,1974,Major,2024-12-31
+239,Arjun Martin 239,MALE,Canada,North America,1992-09-28,33,170,70,Left,Defensive,239,49,372,261,70.16,8,3,11,Active,25.7,280,58,2182,Major,2024-12-31
+240,Samuel Martin 240,MALE,Egypt,Africa,1998-08-07,27,187,91,Right,All-round,240,83,377,251,66.58,4,2,10,Active,42.7,197,62,1085,None,2024-12-31
+241,Sofia Silva 241,FEMALE,Chile,South America,2003-08-12,22,175,79,Left,All-round,241,147,169,83,49.11,9,4,3,Active,34.9,229,74,1040,Minor,2024-12-31
+242,Samuel Silva 242,MALE,USA,North America,2004-11-25,21,192,77,Left,Defensive,242,103,80,41,51.25,13,0,3,Active,33.8,229,45,1301,None,2024-12-31
+243,Victor Sharma 243,MALE,Italy,Europe,1988-06-13,37,172,70,Right,All-round,243,121,304,183,60.2,10,5,12,Retired,25.4,297,69,2117,Major,2024-12-31
+244,Marco Garcia 244,MALE,New Zealand,Oceania,1993-10-14,32,169,49,Left,Offensive,244,65,374,178,47.59,0,3,11,Active,29.4,256,75,1119,Minor,2024-12-31
+245,Marco Silva 245,MALE,Italy,Europe,2006-07-30,19,154,90,Right,Defensive,245,84,356,125,35.11,2,4,10,Active,41.0,215,56,919,Major,2024-12-31
+246,Victor Martin 246,MALE,India,Asia,1992-09-05,33,176,94,Left,All-round,246,102,367,208,56.68,0,4,8,Active,37.7,191,78,1706,None,2024-12-31
+247,Samuel Lopez 247,MALE,Canada,North America,1990-03-30,35,152,67,Right,Defensive,247,14,313,194,61.98,11,5,11,Active,28.3,276,63,1657,Major,2024-12-31
+248,Mei Silva 248,FEMALE,USA,North America,1985-02-22,40,179,72,Left,All-round,248,10,154,58,37.66,6,2,11,Retired,24.4,287,77,2147,Major,2024-12-31
+249,Samuel Garcia 249,MALE,Thailand,Asia,1986-07-29,39,174,66,Left,Defensive,249,63,123,84,68.29,9,3,8,Retired,44.2,276,53,1222,None,2024-12-31
+250,Emma Brown 250,FEMALE,Spain,Europe,1985-07-11,40,155,69,Right,Defensive,250,80,452,252,55.75,8,0,5,Retired,28.5,219,66,1846,Minor,2024-12-31
+251,Nina Sharma 251,FEMALE,Egypt,Africa,2000-03-14,25,187,83,Right,All-round,251,62,484,245,50.62,1,0,12,Active,21.7,217,57,2064,Minor,2024-12-31
+252,Anita Brown 252,FEMALE,Argentina,South America,2005-09-23,20,174,68,Left,Offensive,252,140,168,95,56.55,10,5,10,Active,32.6,289,64,1196,Major,2024-12-31
+253,Wei Silva 253,MALE,Australia,Oceania,1989-07-01,36,171,80,Right,Defensive,253,130,460,210,45.65,6,5,3,Retired,28.8,232,45,1541,Major,2024-12-31
+254,Victor Petrov 254,MALE,France,Europe,1990-09-16,35,156,71,Left,Defensive,254,118,472,301,63.77,8,5,8,Active,27.0,235,72,1289,Major,2024-12-31
+255,Victor Silva 255,MALE,Indonesia,Asia,1996-10-05,29,186,94,Left,All-round,255,7,219,122,55.71,13,1,8,Active,41.6,195,60,949,Major,2024-12-31
+256,Sofia Li 256,FEMALE,India,Asia,1996-11-19,29,190,79,Left,Offensive,256,50,473,217,45.88,6,0,10,Active,24.6,268,72,1723,None,2024-12-31
+257,Ivan Brown 257,MALE,Nigeria,Africa,1987-08-24,38,154,67,Right,Offensive,257,116,437,323,73.91,9,4,4,Retired,20.5,287,61,538,None,2024-12-31
+258,Arjun Martin 258,MALE,Spain,Europe,2004-12-14,21,160,48,Left,Offensive,258,122,469,320,68.23,10,3,11,Active,22.3,265,45,684,None,2024-12-31
+259,Samuel Brown 259,MALE,Italy,Europe,1992-06-19,33,189,55,Left,Defensive,259,8,281,125,44.48,2,4,10,Active,31.6,240,68,1027,Major,2024-12-31
+260,Samuel Martin 260,MALE,Thailand,Asia,2005-03-23,20,166,65,Left,Offensive,260,30,236,140,59.32,10,5,11,Active,43.7,196,63,2229,None,2024-12-31
+261,Sofia Singh 261,FEMALE,USA,North America,2004-12-21,21,166,50,Right,Defensive,261,117,380,250,65.79,9,5,7,Active,33.3,246,48,1248,None,2024-12-31
+262,Sofia Sharma 262,FEMALE,France,Europe,1991-08-20,34,193,50,Left,Offensive,262,3,98,34,34.69,1,2,8,Active,37.5,269,69,580,Minor,2024-12-31
+263,Alex Petrov 263,MALE,Canada,North America,1996-02-19,29,158,64,Left,All-round,263,109,405,250,61.73,10,4,9,Active,40.6,271,73,1242,Major,2024-12-31
+264,Nina Petrov 264,FEMALE,Australia,Oceania,1991-03-31,34,175,49,Left,Defensive,264,29,376,176,46.81,14,5,4,Active,29.2,282,71,1827,None,2024-12-31
+265,Anita Silva 265,FEMALE,New Zealand,Oceania,2000-10-05,25,155,54,Right,Offensive,265,77,190,104,54.74,7,3,12,Active,21.5,201,71,1318,Major,2024-12-31
+266,Nina Li 266,FEMALE,India,Asia,2002-06-17,23,158,46,Left,Offensive,266,141,154,62,40.26,11,4,10,Active,35.5,202,61,2378,Major,2024-12-31
+267,Victor Brown 267,MALE,Indonesia,Asia,1994-08-14,31,162,93,Left,All-round,267,33,163,117,71.78,3,3,11,Active,25.7,234,60,630,Minor,2024-12-31
+268,Alex Lopez 268,MALE,South Africa,Africa,2005-05-10,20,177,45,Left,All-round,268,141,412,258,62.62,6,1,3,Active,21.7,264,58,898,Major,2024-12-31
+269,Wei Singh 269,MALE,Chile,South America,1988-07-17,37,174,47,Left,All-round,269,21,135,87,64.44,10,1,5,Retired,23.4,253,55,1986,Major,2024-12-31
+270,Wei Silva 270,MALE,New Zealand,Oceania,2003-02-27,22,155,92,Right,All-round,270,72,437,283,64.76,13,3,11,Active,38.7,233,75,2322,Minor,2024-12-31
+271,Arjun Sharma 271,MALE,Italy,Europe,1993-05-12,32,166,91,Left,Offensive,271,140,219,119,54.34,8,0,10,Active,21.1,294,62,2052,Minor,2024-12-31
+272,Emma Sharma 272,FEMALE,Germany,Europe,2005-07-17,20,178,65,Right,All-round,272,3,303,125,41.25,8,3,4,Active,40.1,240,46,1476,Major,2024-12-31
+273,Marco Petrov 273,MALE,Thailand,Asia,2002-03-20,23,163,45,Left,Offensive,273,30,93,55,59.14,4,2,10,Active,38.1,264,51,914,None,2024-12-31
+274,Emma Brown 274,FEMALE,Australia,Oceania,1995-05-31,30,156,70,Left,All-round,274,87,239,135,56.49,5,1,6,Active,42.7,239,62,2161,Major,2024-12-31
+275,Emma Garcia 275,FEMALE,Nepal,Asia,1986-02-27,39,183,52,Left,Offensive,275,70,226,153,67.7,1,1,8,Retired,24.8,249,53,844,None,2024-12-31
+276,Nina Li 276,FEMALE,Canada,North America,1986-10-11,39,177,78,Right,Defensive,276,84,367,200,54.5,13,5,10,Retired,23.0,261,73,1491,Major,2024-12-31
+277,Sofia Petrov 277,FEMALE,Germany,Europe,1997-01-07,29,166,67,Left,Defensive,277,132,124,67,54.03,15,2,12,Active,32.1,289,70,2307,Minor,2024-12-31
+278,Marco Lopez 278,MALE,Chile,South America,1993-08-24,32,154,80,Right,All-round,278,15,296,130,43.92,5,0,6,Active,23.8,212,77,1657,Major,2024-12-31
+279,Mei Rossi 279,FEMALE,Thailand,Asia,1987-03-17,38,154,79,Left,Defensive,279,44,247,101,40.89,2,2,6,Retired,44.1,299,56,2241,None,2024-12-31
+280,Wei Petrov 280,MALE,India,Asia,1987-01-29,38,168,45,Left,All-round,280,71,292,195,66.78,4,0,9,Retired,30.4,293,45,1727,Minor,2024-12-31
+281,Nina Brown 281,FEMALE,Nepal,Asia,2006-07-26,19,179,66,Right,All-round,281,23,429,251,58.51,7,3,3,Active,44.8,282,73,1762,Minor,2024-12-31
+282,Ivan Garcia 282,MALE,Nigeria,Africa,2000-11-14,25,152,82,Left,Defensive,282,27,319,116,36.36,5,1,7,Active,25.3,259,72,681,Minor,2024-12-31
+283,Anita Li 283,FEMALE,USA,North America,1990-07-27,35,154,59,Left,Defensive,283,126,251,120,47.81,6,1,4,Active,21.1,220,76,1897,Minor,2024-12-31
+284,Nina Silva 284,FEMALE,Australia,Oceania,2002-10-25,23,181,75,Right,All-round,284,117,277,160,57.76,3,4,6,Active,36.2,192,63,1810,Major,2024-12-31
+285,Mei Martin 285,FEMALE,Thailand,Asia,2000-02-23,25,163,69,Left,All-round,285,144,151,71,47.02,6,5,7,Active,44.6,220,61,1019,Major,2024-12-31
+286,Victor Sharma 286,MALE,Germany,Europe,1991-04-03,34,153,90,Right,Offensive,286,23,251,112,44.62,8,4,10,Active,43.3,243,51,1379,Minor,2024-12-31
+287,Laura Garcia 287,FEMALE,Australia,Oceania,1986-10-22,39,155,74,Left,All-round,287,127,400,275,68.75,2,4,5,Retired,26.7,210,51,2384,Minor,2024-12-31
+288,Mei Petrov 288,FEMALE,Egypt,Africa,1995-01-13,31,177,57,Left,All-round,288,85,360,184,51.11,11,5,12,Active,34.9,196,74,665,Minor,2024-12-31
+289,Sofia Singh 289,FEMALE,New Zealand,Oceania,2005-01-16,21,150,79,Left,Defensive,289,65,432,248,57.41,3,3,6,Active,27.0,222,51,411,Major,2024-12-31
+290,Marco Brown 290,MALE,Spain,Europe,1999-07-24,26,162,83,Right,Defensive,290,71,413,177,42.86,1,3,9,Active,42.0,298,71,1065,Minor,2024-12-31
+291,Arjun Martin 291,MALE,New Zealand,Oceania,1985-06-22,40,177,55,Left,Offensive,291,85,348,219,62.93,1,3,4,Retired,23.0,253,67,2469,Minor,2024-12-31
+292,Laura Singh 292,FEMALE,Thailand,Asia,1998-10-17,27,172,81,Left,All-round,292,149,291,184,63.23,14,4,12,Active,44.0,200,59,1727,Major,2024-12-31
+293,Arjun Singh 293,MALE,Spain,Europe,1986-01-04,40,181,62,Right,All-round,293,72,321,114,35.51,3,4,11,Retired,34.8,260,46,490,None,2024-12-31
+294,Ivan Brown 294,MALE,Egypt,Africa,1998-08-25,27,160,79,Left,Defensive,294,24,94,58,61.7,13,3,3,Active,23.0,210,71,1410,None,2024-12-31
+295,Victor Silva 295,MALE,Chile,South America,1995-08-16,30,151,86,Left,All-round,295,147,385,261,67.79,7,1,7,Active,42.3,210,78,1344,None,2024-12-31
+296,Ivan Rossi 296,MALE,Thailand,Asia,1998-09-03,27,195,45,Left,Offensive,296,12,493,197,39.96,9,1,11,Active,39.2,206,77,1492,Minor,2024-12-31
+297,Victor Silva 297,MALE,Nigeria,Africa,1996-05-04,29,179,72,Left,Defensive,297,110,402,287,71.39,0,2,4,Active,38.3,235,62,1875,None,2024-12-31
+298,Alex Garcia 298,MALE,Italy,Europe,1999-06-04,26,192,77,Left,All-round,298,139,469,225,47.97,13,4,10,Active,28.8,211,63,2423,Minor,2024-12-31
+299,Wei Li 299,MALE,South Africa,Africa,1988-11-15,37,186,55,Left,Defensive,299,91,123,70,56.91,6,3,11,Retired,35.6,209,57,1328,Minor,2024-12-31
+300,Sofia Martin 300,FEMALE,Italy,Europe,1998-07-11,27,164,83,Right,Offensive,300,105,470,330,70.21,13,1,4,Active,42.9,229,46,1525,None,2024-12-31
+301,Arjun Li 301,MALE,India,Asia,1991-04-05,34,188,57,Right,Defensive,301,67,114,64,56.14,12,0,11,Active,24.0,257,58,2374,Major,2024-12-31
+302,Anita Martin 302,FEMALE,Germany,Europe,1988-12-12,37,179,45,Right,Defensive,302,17,358,204,56.98,15,3,9,Retired,31.9,206,73,937,Minor,2024-12-31
+303,Arjun Rossi 303,MALE,Indonesia,Asia,2003-09-20,22,185,57,Right,Offensive,303,33,304,174,57.24,6,1,4,Active,41.5,271,49,2237,Major,2024-12-31
+304,Daniel Singh 304,MALE,New Zealand,Oceania,1993-09-02,32,178,74,Right,Defensive,304,105,165,66,40.0,5,3,4,Active,42.5,258,56,1759,None,2024-12-31
+305,Nina Silva 305,FEMALE,Nigeria,Africa,1992-03-22,33,194,56,Left,Offensive,305,121,348,190,54.6,14,2,6,Active,42.0,290,55,1468,Major,2024-12-31
+306,Laura Rossi 306,FEMALE,Germany,Europe,2004-05-23,21,178,47,Left,Defensive,306,131,359,196,54.6,13,3,8,Active,25.0,288,65,927,Major,2024-12-31
+307,Mei Sharma 307,FEMALE,New Zealand,Oceania,1998-05-11,27,161,85,Right,Offensive,307,60,275,117,42.55,2,2,9,Active,42.9,259,66,885,Minor,2024-12-31
+308,Wei Brown 308,MALE,Canada,North America,1999-07-03,26,192,71,Right,All-round,308,115,152,55,36.18,12,1,8,Active,35.7,226,46,2236,None,2024-12-31
+309,Samuel Lopez 309,MALE,USA,North America,2003-12-16,22,187,83,Right,All-round,309,6,148,71,47.97,1,5,7,Active,20.0,273,56,1357,Major,2024-12-31
+310,Sofia Silva 310,FEMALE,Spain,Europe,1998-04-11,27,192,87,Right,Offensive,310,5,353,168,47.59,9,2,7,Active,42.7,264,58,2256,Major,2024-12-31
+311,Sofia Silva 311,FEMALE,Italy,Europe,2006-01-16,20,167,76,Right,Defensive,311,56,192,93,48.44,7,2,3,Active,25.1,300,63,1079,Major,2024-12-31
+312,Laura Li 312,FEMALE,France,Europe,1997-10-24,28,170,84,Right,All-round,312,121,316,168,53.16,2,3,8,Active,40.8,211,58,2048,Minor,2024-12-31
+313,Daniel Li 313,MALE,Thailand,Asia,2004-02-15,21,187,60,Right,All-round,313,2,454,161,35.46,6,1,4,Active,32.5,209,62,750,Minor,2024-12-31
+314,Alex Singh 314,MALE,India,Asia,1988-06-14,37,183,65,Right,Defensive,314,44,396,170,42.93,12,4,7,Retired,40.2,221,65,1988,Minor,2024-12-31
+315,Nina Petrov 315,FEMALE,New Zealand,Oceania,1985-05-22,40,170,93,Left,All-round,315,42,397,181,45.59,3,5,3,Retired,38.5,263,78,1332,Minor,2024-12-31
+316,Nina Li 316,FEMALE,Chile,South America,2002-05-20,23,162,61,Right,All-round,316,113,441,277,62.81,8,2,11,Active,32.7,205,74,449,Major,2024-12-31
+317,Mei Singh 317,FEMALE,South Africa,Africa,1991-04-22,34,167,76,Left,All-round,317,31,311,158,50.8,7,3,3,Active,29.9,296,47,1083,Major,2024-12-31
+318,Wei Singh 318,MALE,Germany,Europe,1991-11-27,34,166,71,Left,All-round,318,65,266,148,55.64,14,3,9,Active,24.7,259,78,442,Minor,2024-12-31
+319,Victor Brown 319,MALE,USA,North America,2001-07-16,24,178,86,Left,Offensive,319,43,313,191,61.02,5,0,8,Active,28.2,243,64,783,Major,2024-12-31
+320,Ivan Brown 320,MALE,New Zealand,Oceania,1991-07-15,34,166,60,Left,Offensive,320,26,199,103,51.76,1,2,4,Active,23.4,210,48,1877,Major,2024-12-31
+321,Daniel Li 321,MALE,France,Europe,1991-08-03,34,185,80,Left,Defensive,321,98,410,301,73.41,13,5,5,Active,27.7,297,66,1281,Minor,2024-12-31
+322,Mei Rossi 322,FEMALE,Nepal,Asia,1985-06-30,40,193,60,Left,Defensive,322,39,408,208,50.98,11,3,9,Retired,21.7,203,75,448,Minor,2024-12-31
+323,Nina Sharma 323,FEMALE,Nigeria,Africa,1997-04-12,28,174,47,Right,Defensive,323,3,320,212,66.25,12,2,11,Active,23.6,266,55,2451,Major,2024-12-31
+324,Ivan Sharma 324,MALE,Spain,Europe,1989-10-03,36,188,63,Right,Defensive,324,32,97,60,61.86,14,2,4,Retired,26.3,253,63,1683,Minor,2024-12-31
+325,Daniel Li 325,MALE,Australia,Oceania,1997-10-01,28,158,76,Right,Offensive,325,36,268,121,45.15,4,4,10,Active,24.5,259,63,2394,None,2024-12-31
+326,Wei Sharma 326,MALE,Nigeria,Africa,2005-05-21,20,193,66,Left,Defensive,326,87,183,65,35.52,11,0,3,Active,32.5,204,78,1785,None,2024-12-31
+327,Anita Li 327,FEMALE,Thailand,Asia,1996-11-16,29,195,64,Left,Offensive,327,20,212,123,58.02,12,4,9,Active,45.0,193,58,1390,Minor,2024-12-31
+328,Ivan Singh 328,MALE,Germany,Europe,1994-07-23,31,184,71,Left,Defensive,328,107,389,269,69.15,8,0,5,Active,42.6,228,66,1527,None,2024-12-31
+329,Nina Rossi 329,FEMALE,Canada,North America,1993-12-12,32,167,63,Right,Defensive,329,115,431,191,44.32,7,3,12,Active,24.5,198,45,694,Major,2024-12-31
+330,Emma Sharma 330,FEMALE,Australia,Oceania,1997-02-19,28,165,82,Left,All-round,330,103,447,289,64.65,3,1,11,Active,26.8,253,61,2133,None,2024-12-31
+331,Arjun Petrov 331,MALE,France,Europe,1992-12-31,33,167,59,Right,All-round,331,12,110,53,48.18,2,0,10,Active,20.2,267,45,2136,None,2024-12-31
+332,Alex Brown 332,MALE,Egypt,Africa,1988-11-07,37,193,88,Left,Offensive,332,142,203,90,44.33,14,1,11,Retired,25.7,264,65,2401,Major,2024-12-31
+333,Daniel Brown 333,MALE,Nepal,Asia,1991-12-04,34,161,75,Left,Offensive,333,68,389,214,55.01,9,1,5,Active,42.6,214,58,1444,None,2024-12-31
+334,Emma Li 334,FEMALE,Australia,Oceania,2003-06-26,22,160,88,Left,Defensive,334,109,247,179,72.47,4,0,9,Active,29.4,268,70,937,Minor,2024-12-31
+335,Wei Brown 335,MALE,France,Europe,1999-01-23,26,195,67,Left,All-round,335,149,172,71,41.28,11,4,8,Active,27.7,249,47,1892,Minor,2024-12-31
+336,Marco Petrov 336,MALE,Australia,Oceania,2002-03-03,23,164,50,Right,Offensive,336,7,288,162,56.25,2,0,6,Active,42.7,196,64,1169,None,2024-12-31
+337,Mei Garcia 337,FEMALE,Chile,South America,2005-02-03,20,193,78,Right,All-round,337,85,489,183,37.42,12,5,8,Active,33.9,209,66,737,None,2024-12-31
+338,Laura Singh 338,FEMALE,Nepal,Asia,2005-03-31,20,188,89,Right,Defensive,338,136,250,145,58.0,0,3,3,Active,40.4,222,65,2356,None,2024-12-31
+339,Mei Li 339,FEMALE,Chile,South America,1985-06-30,40,190,65,Left,All-round,339,65,322,125,38.82,8,3,5,Retired,22.7,255,72,811,Major,2024-12-31
+340,Laura Singh 340,FEMALE,Spain,Europe,1991-11-08,34,192,78,Left,Offensive,340,119,487,252,51.75,10,0,8,Active,20.5,211,73,424,Major,2024-12-31
+341,Ivan Martin 341,MALE,Argentina,South America,1994-05-10,31,153,63,Right,All-round,341,122,151,97,64.24,10,4,6,Active,28.2,280,53,917,None,2024-12-31
+342,Mei Brown 342,FEMALE,New Zealand,Oceania,1988-07-03,37,166,51,Right,All-round,342,109,385,176,45.71,4,1,9,Retired,28.3,210,75,1276,Minor,2024-12-31
+343,Victor Petrov 343,MALE,South Africa,Africa,1993-10-27,32,192,49,Left,All-round,343,128,126,81,64.29,7,5,6,Active,20.1,193,77,2258,Major,2024-12-31
+344,Anita Li 344,FEMALE,Spain,Europe,1998-04-25,27,187,93,Left,All-round,344,44,266,133,50.0,9,3,8,Active,38.1,281,63,811,Major,2024-12-31
+345,Sofia Li 345,FEMALE,India,Asia,1994-10-12,31,169,60,Left,Offensive,345,22,282,150,53.19,0,5,5,Active,44.9,267,62,2483,Major,2024-12-31
+346,Wei Lopez 346,MALE,Italy,Europe,1996-07-19,29,171,72,Right,Offensive,346,52,237,94,39.66,8,0,8,Active,23.8,279,46,1079,Minor,2024-12-31
+347,Alex Lopez 347,MALE,Nigeria,Africa,2005-08-17,20,150,80,Left,Offensive,347,35,500,309,61.8,15,4,4,Active,26.6,213,45,1863,None,2024-12-31
+348,Marco Martin 348,MALE,Thailand,Asia,1993-12-06,32,181,68,Left,All-round,348,119,228,129,56.58,9,0,9,Active,20.0,230,65,1767,Major,2024-12-31
+349,Mei Silva 349,FEMALE,Argentina,South America,1991-03-24,34,175,54,Left,Offensive,349,148,435,158,36.32,11,2,8,Active,29.3,219,71,1403,None,2024-12-31
+350,Sofia Rossi 350,FEMALE,India,Asia,2001-08-13,24,151,61,Right,Offensive,350,48,305,182,59.67,12,0,4,Active,33.7,192,74,737,None,2024-12-31
+351,Arjun Li 351,MALE,Nigeria,Africa,2001-10-13,24,170,64,Left,Offensive,351,57,429,262,61.07,7,3,12,Active,41.5,199,80,1284,None,2024-12-31
+352,Mei Lopez 352,FEMALE,Chile,South America,1988-09-03,37,167,84,Left,All-round,352,138,292,176,60.27,10,0,3,Retired,21.6,243,80,2003,Major,2024-12-31
+353,Emma Sharma 353,FEMALE,Spain,Europe,1986-12-02,39,150,87,Left,Defensive,353,73,362,140,38.67,14,0,6,Retired,39.7,284,79,2401,Major,2024-12-31
+354,Emma Martin 354,FEMALE,Thailand,Asia,1999-10-18,26,166,79,Left,Offensive,354,48,125,85,68.0,6,0,5,Active,44.2,198,57,978,Major,2024-12-31
+355,Samuel Sharma 355,MALE,Nepal,Asia,2005-06-02,20,192,82,Left,All-round,355,49,228,119,52.19,11,3,11,Active,23.4,300,56,1287,Major,2024-12-31
+356,Alex Sharma 356,MALE,Argentina,South America,1989-03-06,36,189,95,Right,Offensive,356,13,205,96,46.83,1,2,9,Retired,43.0,251,74,1645,Minor,2024-12-31
+357,Sofia Rossi 357,FEMALE,Nigeria,Africa,1993-04-03,32,163,76,Left,Defensive,357,109,391,263,67.26,0,0,9,Active,34.5,218,48,628,Major,2024-12-31
+358,Laura Martin 358,FEMALE,India,Asia,2005-11-08,20,186,71,Right,Offensive,358,32,207,140,67.63,9,3,11,Active,24.2,263,48,1724,Minor,2024-12-31
+359,Emma Petrov 359,FEMALE,New Zealand,Oceania,1992-07-03,33,193,72,Left,All-round,359,107,410,303,73.9,4,1,3,Active,22.7,245,53,1046,None,2024-12-31
+360,Mei Li 360,FEMALE,France,Europe,1987-08-09,38,167,79,Left,Defensive,360,37,343,218,63.56,13,5,6,Retired,39.5,232,58,1522,Major,2024-12-31
+361,Mei Sharma 361,FEMALE,New Zealand,Oceania,2000-04-08,25,158,88,Right,All-round,361,145,158,67,42.41,3,1,10,Active,33.1,255,47,1299,Major,2024-12-31
+362,Ivan Martin 362,MALE,Australia,Oceania,2001-06-24,24,181,91,Left,Defensive,362,140,88,52,59.09,11,5,9,Active,44.6,237,76,1031,Minor,2024-12-31
+363,Daniel Silva 363,MALE,Canada,North America,2003-07-07,22,178,83,Right,Offensive,363,59,92,34,36.96,15,0,5,Active,39.6,213,76,1722,Minor,2024-12-31
+364,Emma Garcia 364,FEMALE,Chile,South America,1990-02-17,35,195,59,Left,All-round,364,62,390,163,41.79,14,0,5,Active,38.8,197,65,1603,Minor,2024-12-31
+365,Anita Silva 365,FEMALE,India,Asia,1998-06-13,27,181,45,Left,Defensive,365,117,109,81,74.31,4,0,11,Active,44.2,232,67,775,None,2024-12-31
+366,Victor Li 366,MALE,India,Asia,1999-07-24,26,188,65,Right,Defensive,366,13,487,177,36.34,8,5,6,Active,29.5,288,75,2193,None,2024-12-31
+367,Emma Lopez 367,FEMALE,Nepal,Asia,2006-07-06,19,161,73,Right,Offensive,367,8,485,237,48.87,2,4,6,Active,34.1,196,80,1962,Minor,2024-12-31
+368,Samuel Li 368,MALE,Chile,South America,1997-03-06,28,173,45,Left,All-round,368,72,270,166,61.48,10,3,4,Active,29.3,207,58,1391,Minor,2024-12-31
+369,Anita Singh 369,FEMALE,Spain,Europe,1996-05-19,29,191,68,Left,Defensive,369,141,418,180,43.06,3,3,9,Active,25.1,289,49,689,Minor,2024-12-31
+370,Ivan Martin 370,MALE,New Zealand,Oceania,2005-12-19,20,194,47,Left,All-round,370,122,476,230,48.32,12,2,4,Active,24.0,240,73,1837,Major,2024-12-31
+371,Alex Sharma 371,MALE,Indonesia,Asia,1994-06-07,31,179,82,Left,All-round,371,89,325,134,41.23,13,2,11,Active,28.2,238,52,2046,None,2024-12-31
+372,Samuel Sharma 372,MALE,Spain,Europe,1992-01-10,34,161,59,Right,All-round,372,141,182,102,56.04,10,2,5,Active,43.6,192,50,423,Minor,2024-12-31
+373,Nina Brown 373,FEMALE,France,Europe,1994-06-17,31,170,59,Right,Defensive,373,116,219,81,36.99,2,4,10,Active,20.2,295,45,542,Major,2024-12-31
+374,Alex Brown 374,MALE,Chile,South America,1989-09-17,36,175,90,Left,Defensive,374,62,222,130,58.56,1,5,5,Retired,41.8,204,69,2084,Minor,2024-12-31
+375,Laura Li 375,FEMALE,Spain,Europe,1996-06-25,29,180,75,Left,All-round,375,132,396,152,38.38,9,0,8,Active,37.6,263,60,503,None,2024-12-31
+376,Anita Garcia 376,FEMALE,New Zealand,Oceania,1993-11-30,32,152,55,Right,Defensive,376,26,197,106,53.81,5,4,12,Active,30.0,263,70,727,Major,2024-12-31
+377,Samuel Singh 377,MALE,Spain,Europe,1995-10-05,30,184,68,Left,Offensive,377,80,112,84,75.0,1,3,5,Active,34.3,234,57,1474,None,2024-12-31
+378,Mei Sharma 378,FEMALE,Italy,Europe,1985-07-27,40,161,75,Right,Offensive,378,66,374,208,55.61,7,2,6,Retired,28.2,297,64,464,Minor,2024-12-31
+379,Nina Martin 379,FEMALE,France,Europe,2001-11-16,24,174,68,Left,All-round,379,71,481,231,48.02,4,0,4,Active,40.7,261,52,2073,None,2024-12-31
+380,Victor Singh 380,MALE,India,Asia,1988-03-28,37,182,68,Right,Offensive,380,150,331,236,71.3,14,1,3,Retired,25.7,212,53,497,Major,2024-12-31
+381,Laura Rossi 381,FEMALE,France,Europe,1992-09-10,33,160,51,Right,Defensive,381,3,428,245,57.24,10,0,11,Active,27.1,299,74,866,Minor,2024-12-31
+382,Marco Li 382,MALE,Italy,Europe,1991-09-13,34,156,95,Right,All-round,382,129,430,311,72.33,1,0,7,Active,37.5,258,59,1589,None,2024-12-31
+383,Alex Petrov 383,MALE,Nigeria,Africa,2003-02-04,22,156,56,Right,All-round,383,12,198,91,45.96,9,2,5,Active,31.9,217,52,1604,Minor,2024-12-31
+384,Daniel Singh 384,MALE,India,Asia,1999-08-12,26,158,73,Right,Offensive,384,7,304,138,45.39,5,3,3,Active,31.9,295,72,1468,Major,2024-12-31
+385,Victor Garcia 385,MALE,Egypt,Africa,1999-04-13,26,186,69,Right,Defensive,385,43,388,220,56.7,1,2,12,Active,25.7,221,54,1969,Major,2024-12-31
+386,Marco Rossi 386,MALE,USA,North America,1995-04-08,30,181,48,Right,All-round,386,138,207,115,55.56,2,5,11,Active,26.1,205,55,1763,Major,2024-12-31
+387,Marco Sharma 387,MALE,Chile,South America,2004-10-18,21,166,80,Left,Offensive,387,47,389,162,41.65,0,1,10,Active,25.6,270,63,1370,None,2024-12-31
+388,Mei Garcia 388,FEMALE,Argentina,South America,1994-08-13,31,181,86,Right,All-round,388,137,452,179,39.6,11,3,3,Active,20.8,198,75,1364,Minor,2024-12-31
+389,Wei Silva 389,MALE,Chile,South America,2002-12-03,23,160,54,Right,All-round,389,123,236,165,69.92,2,5,4,Active,43.1,256,79,1000,Minor,2024-12-31
+390,Samuel Brown 390,MALE,India,Asia,1986-11-11,39,156,46,Right,Offensive,390,83,381,206,54.07,7,5,9,Retired,42.2,280,70,1043,Minor,2024-12-31
+391,Alex Lopez 391,MALE,Chile,South America,1994-03-28,31,161,80,Left,Defensive,391,126,283,104,36.75,8,2,10,Active,21.5,226,59,1184,Minor,2024-12-31
+392,Wei Petrov 392,MALE,France,Europe,2000-05-02,25,191,57,Right,Offensive,392,92,191,117,61.26,10,0,11,Active,36.4,206,45,835,Minor,2024-12-31
+393,Victor Li 393,MALE,Argentina,South America,2000-04-01,25,178,59,Left,All-round,393,13,288,159,55.21,5,3,7,Active,40.0,268,74,1436,None,2024-12-31
+394,Anita Li 394,FEMALE,Germany,Europe,1994-03-19,31,186,90,Left,Offensive,394,98,85,39,45.88,7,3,12,Active,30.1,215,73,2500,Major,2024-12-31
+395,Ivan Garcia 395,MALE,Indonesia,Asia,1987-09-15,38,179,93,Left,Defensive,395,117,351,229,65.24,11,1,9,Retired,35.5,247,61,2103,None,2024-12-31
+396,Wei Sharma 396,MALE,Thailand,Asia,2003-03-30,22,168,64,Right,Defensive,396,104,497,269,54.12,12,4,8,Active,26.0,195,80,2324,Major,2024-12-31
+397,Mei Garcia 397,FEMALE,Indonesia,Asia,1992-02-14,33,181,84,Right,All-round,397,121,293,123,41.98,5,5,9,Active,38.8,237,45,974,None,2024-12-31
+398,Mei Li 398,FEMALE,USA,North America,2002-09-21,23,179,77,Right,Offensive,398,118,436,252,57.8,6,1,8,Active,36.8,243,45,2267,Major,2024-12-31
+399,Mei Garcia 399,FEMALE,France,Europe,2003-02-25,22,177,93,Left,Defensive,399,21,271,97,35.79,1,4,8,Active,34.6,264,54,996,Minor,2024-12-31
+400,Nina Petrov 400,FEMALE,USA,North America,2005-04-23,20,174,81,Right,All-round,400,75,477,223,46.75,1,1,4,Active,32.8,233,48,732,None,2024-12-31
+401,Anita Li 401,FEMALE,Thailand,Asia,1998-02-01,27,193,87,Right,All-round,401,142,228,156,68.42,10,4,5,Active,29.1,245,50,1887,None,2024-12-31
+402,Samuel Singh 402,MALE,New Zealand,Oceania,1998-06-09,27,195,45,Left,All-round,402,76,95,61,64.21,11,5,9,Active,20.8,249,76,1034,Major,2024-12-31
+403,Laura Sharma 403,FEMALE,India,Asia,2002-05-01,23,159,86,Right,Defensive,403,17,488,208,42.62,8,3,3,Active,33.4,299,58,1772,Major,2024-12-31
+404,Alex Lopez 404,MALE,Australia,Oceania,1995-10-08,30,162,68,Right,Defensive,404,47,262,166,63.36,2,4,4,Active,38.6,281,55,2490,Minor,2024-12-31
+405,Ivan Brown 405,MALE,Australia,Oceania,1998-09-08,27,185,78,Left,All-round,405,85,431,203,47.1,0,4,3,Active,29.4,273,54,490,Major,2024-12-31
+406,Mei Petrov 406,FEMALE,Italy,Europe,1991-01-26,34,193,92,Left,Defensive,406,9,461,213,46.2,2,0,4,Active,34.6,256,50,2243,Major,2024-12-31
+407,Nina Garcia 407,FEMALE,Indonesia,Asia,2004-06-09,21,176,89,Left,Offensive,407,16,400,180,45.0,6,1,6,Active,20.8,255,64,1838,Major,2024-12-31
+408,Wei Rossi 408,MALE,Germany,Europe,1996-10-20,29,176,70,Right,All-round,408,142,113,42,37.17,13,0,3,Active,26.8,237,69,2310,Minor,2024-12-31
+409,Sofia Petrov 409,FEMALE,Argentina,South America,1993-11-15,32,192,59,Left,Offensive,409,3,113,69,61.06,15,2,8,Active,39.3,223,70,2138,Minor,2024-12-31
+410,Mei Silva 410,FEMALE,Thailand,Asia,1996-12-29,29,161,47,Left,Offensive,410,112,221,122,55.2,10,3,11,Active,37.1,251,51,1554,None,2024-12-31
+411,Anita Silva 411,FEMALE,South Africa,Africa,1997-03-15,28,161,90,Left,All-round,411,3,329,205,62.31,8,1,10,Active,42.6,231,73,1401,Major,2024-12-31
+412,Mei Brown 412,FEMALE,Germany,Europe,1997-10-08,28,158,75,Left,Defensive,412,142,193,73,37.82,9,5,11,Active,29.4,211,76,1750,None,2024-12-31
+413,Arjun Rossi 413,MALE,Egypt,Africa,2004-03-10,21,186,80,Left,All-round,413,25,126,45,35.71,10,1,4,Active,30.8,277,79,933,Major,2024-12-31
+414,Marco Garcia 414,MALE,Thailand,Asia,1999-03-29,26,169,78,Right,Offensive,414,44,474,253,53.38,8,3,4,Active,20.8,291,71,1375,Major,2024-12-31
+415,Ivan Li 415,MALE,Nigeria,Africa,1991-02-20,34,152,80,Left,All-round,415,88,131,70,53.44,8,5,12,Active,35.8,198,70,1540,Major,2024-12-31
+416,Victor Silva 416,MALE,Spain,Europe,1993-09-08,32,185,88,Left,All-round,416,83,445,266,59.78,0,5,7,Active,29.8,258,69,620,Major,2024-12-31
+417,Arjun Singh 417,MALE,South Africa,Africa,2006-07-08,19,166,80,Right,Defensive,417,115,359,126,35.1,8,1,6,Active,40.0,276,46,1994,None,2024-12-31
+418,Mei Brown 418,FEMALE,Chile,South America,1994-08-19,31,151,57,Left,All-round,418,76,320,129,40.31,7,1,10,Active,21.4,206,45,1973,Major,2024-12-31
+419,Samuel Petrov 419,MALE,Canada,North America,1985-10-27,40,159,72,Left,Offensive,419,135,410,146,35.61,7,0,8,Retired,44.5,218,79,443,Major,2024-12-31
+420,Sofia Rossi 420,FEMALE,Thailand,Asia,1993-03-18,32,169,94,Left,All-round,420,97,163,81,49.69,10,5,3,Active,22.2,290,76,622,Minor,2024-12-31
+421,Emma Lopez 421,FEMALE,Nepal,Asia,1998-05-09,27,190,75,Right,Defensive,421,70,219,121,55.25,14,4,10,Active,24.9,232,75,1953,Minor,2024-12-31
+422,Anita Singh 422,FEMALE,France,Europe,2005-09-29,20,176,59,Right,Offensive,422,13,133,74,55.64,6,2,9,Active,40.2,266,73,1906,None,2024-12-31
+423,Sofia Li 423,FEMALE,Germany,Europe,2002-02-17,23,178,91,Right,Defensive,423,128,379,179,47.23,5,1,7,Active,32.1,265,66,943,Major,2024-12-31
+424,Victor Rossi 424,MALE,Australia,Oceania,1990-01-26,35,161,88,Left,Defensive,424,61,319,136,42.63,14,1,11,Active,42.1,261,59,2205,Minor,2024-12-31
+425,Samuel Li 425,MALE,Nepal,Asia,1989-06-23,36,162,78,Left,All-round,425,148,229,83,36.24,8,0,6,Retired,26.0,251,53,2377,Minor,2024-12-31
+426,Sofia Petrov 426,FEMALE,Germany,Europe,1992-07-11,33,179,77,Left,Offensive,426,13,144,57,39.58,14,4,5,Active,23.6,191,63,1666,None,2024-12-31
+427,Nina Brown 427,FEMALE,New Zealand,Oceania,2004-05-28,21,166,95,Left,All-round,427,3,467,298,63.81,3,3,6,Active,30.0,292,45,1521,Minor,2024-12-31
+428,Daniel Martin 428,MALE,USA,North America,1997-08-07,28,155,87,Left,Defensive,428,120,413,304,73.61,0,0,7,Active,35.8,243,70,1156,Major,2024-12-31
+429,Laura Garcia 429,FEMALE,South Africa,Africa,2004-12-21,21,153,82,Left,Defensive,429,53,175,126,72.0,10,3,7,Active,32.8,215,55,885,Minor,2024-12-31
+430,Ivan Lopez 430,MALE,Nepal,Asia,1994-02-06,31,172,61,Right,All-round,430,1,125,70,56.0,14,1,11,Active,29.2,210,80,2149,Major,2024-12-31
+431,Victor Sharma 431,MALE,Italy,Europe,1986-02-01,39,187,60,Right,Defensive,431,65,442,234,52.94,15,3,4,Retired,34.6,242,45,1991,Major,2024-12-31
+432,Samuel Singh 432,MALE,Argentina,South America,1993-06-06,32,194,85,Right,All-round,432,68,388,144,37.11,2,2,5,Active,25.3,201,78,2097,None,2024-12-31
+433,Daniel Lopez 433,MALE,Indonesia,Asia,2003-07-15,22,178,60,Right,All-round,433,124,195,95,48.72,0,1,12,Active,35.3,195,63,1422,Minor,2024-12-31
+434,Laura Singh 434,FEMALE,France,Europe,2004-06-13,21,167,90,Left,Offensive,434,74,135,69,51.11,5,3,10,Active,26.3,297,46,2124,Minor,2024-12-31
+435,Nina Petrov 435,FEMALE,Nigeria,Africa,1985-01-12,41,157,72,Left,All-round,435,99,324,138,42.59,9,2,3,Retired,25.0,201,45,1886,Major,2024-12-31
+436,Wei Sharma 436,MALE,Nigeria,Africa,2001-11-27,24,191,86,Right,All-round,436,122,145,75,51.72,14,4,4,Active,26.3,260,49,1068,Major,2024-12-31
+437,Samuel Li 437,MALE,France,Europe,2004-05-28,21,185,45,Right,All-round,437,96,363,163,44.9,1,4,6,Active,20.6,281,74,1354,None,2024-12-31
+438,Laura Singh 438,FEMALE,Canada,North America,2001-05-01,24,177,73,Left,Offensive,438,1,219,122,55.71,9,1,6,Active,31.9,209,50,821,None,2024-12-31
+439,Laura Silva 439,FEMALE,New Zealand,Oceania,1990-08-31,35,187,86,Left,All-round,439,85,92,54,58.7,0,2,6,Active,31.6,233,47,1044,Minor,2024-12-31
+440,Daniel Martin 440,MALE,Australia,Oceania,1998-08-09,27,173,82,Left,Defensive,440,125,464,194,41.81,11,0,3,Active,37.8,243,54,2263,Minor,2024-12-31
+441,Ivan Lopez 441,MALE,Thailand,Asia,1993-04-12,32,186,50,Left,Offensive,441,102,228,91,39.91,0,4,7,Active,40.0,289,46,1650,None,2024-12-31
+442,Anita Martin 442,FEMALE,Nigeria,Africa,1986-05-30,39,188,62,Left,All-round,442,147,296,192,64.86,10,5,10,Retired,31.6,295,77,2090,Major,2024-12-31
+443,Alex Singh 443,MALE,France,Europe,2006-06-02,19,155,82,Right,Offensive,443,132,258,182,70.54,8,5,6,Active,28.4,282,66,1135,Minor,2024-12-31
+444,Marco Singh 444,MALE,USA,North America,1988-07-09,37,194,73,Right,All-round,444,149,244,119,48.77,4,0,11,Retired,37.9,235,78,2315,Major,2024-12-31
+445,Mei Sharma 445,FEMALE,Chile,South America,1985-08-12,40,190,62,Right,Offensive,445,76,304,195,64.14,2,1,8,Retired,37.9,200,61,1432,None,2024-12-31
+446,Victor Li 446,MALE,USA,North America,2000-02-26,25,177,52,Left,Defensive,446,56,451,250,55.43,9,0,8,Active,39.7,224,57,644,Minor,2024-12-31
+447,Ivan Silva 447,MALE,Indonesia,Asia,1996-11-26,29,188,75,Right,All-round,447,57,188,116,61.7,9,0,3,Active,41.5,242,66,540,None,2024-12-31
+448,Arjun Rossi 448,MALE,New Zealand,Oceania,1986-06-21,39,194,58,Left,All-round,448,120,135,64,47.41,2,1,4,Retired,34.0,251,47,1415,Major,2024-12-31
+449,Marco Petrov 449,MALE,Chile,South America,1988-07-09,37,173,63,Left,Offensive,449,101,347,158,45.53,10,1,7,Retired,25.6,200,49,991,Minor,2024-12-31
+450,Mei Martin 450,FEMALE,Argentina,South America,2006-06-22,19,155,89,Right,All-round,450,117,258,185,71.71,7,1,5,Active,33.9,250,71,773,Minor,2024-12-31
+451,Victor Martin 451,MALE,Indonesia,Asia,1999-06-23,26,157,93,Left,Defensive,451,112,194,115,59.28,3,5,7,Active,35.4,200,79,1420,Minor,2024-12-31
+452,Wei Martin 452,MALE,Chile,South America,1989-02-11,36,152,48,Right,Defensive,452,111,479,196,40.92,1,3,11,Retired,39.7,249,46,2405,None,2024-12-31
+453,Anita Brown 453,FEMALE,Indonesia,Asia,2001-05-20,24,189,74,Left,All-round,453,63,153,77,50.33,11,2,6,Active,37.9,192,49,945,None,2024-12-31
+454,Laura Li 454,FEMALE,Indonesia,Asia,1998-01-19,27,188,85,Right,All-round,454,78,100,50,50.0,1,0,11,Active,25.2,200,51,947,Major,2024-12-31
+455,Daniel Rossi 455,MALE,Nigeria,Africa,1989-05-22,36,189,67,Right,Offensive,455,14,93,33,35.48,14,1,6,Retired,42.6,229,49,1852,None,2024-12-31
+456,Daniel Rossi 456,MALE,Thailand,Asia,2003-01-31,22,167,45,Left,Offensive,456,123,85,54,63.53,12,0,8,Active,25.6,288,45,525,None,2024-12-31
+457,Mei Sharma 457,FEMALE,Indonesia,Asia,2003-09-05,22,186,48,Right,Offensive,457,150,316,110,34.81,7,2,7,Active,30.3,287,58,1029,Minor,2024-12-31
+458,Daniel Silva 458,MALE,Spain,Europe,1995-04-06,30,187,83,Right,Offensive,458,147,108,81,75.0,4,4,6,Active,27.3,273,78,1319,Major,2024-12-31
+459,Nina Singh 459,FEMALE,Egypt,Africa,1995-06-16,30,159,60,Right,All-round,459,130,265,175,66.04,4,5,5,Active,24.4,273,64,1349,Major,2024-12-31
+460,Samuel Brown 460,MALE,Chile,South America,1996-04-06,29,175,78,Right,All-round,460,113,254,164,64.57,9,5,5,Active,39.4,207,53,1643,None,2024-12-31
+461,Arjun Martin 461,MALE,Spain,Europe,1991-04-18,34,151,94,Left,All-round,461,117,147,107,72.79,13,4,6,Active,31.1,216,57,769,Minor,2024-12-31
+462,Ivan Martin 462,MALE,Germany,Europe,2002-06-22,23,152,63,Left,Offensive,462,147,84,29,34.52,8,4,11,Active,39.3,285,56,1535,Minor,2024-12-31
+463,Marco Brown 463,MALE,Germany,Europe,1998-08-20,27,162,71,Right,All-round,463,5,219,117,53.42,12,3,6,Active,32.4,245,55,1222,None,2024-12-31
+464,Sofia Singh 464,FEMALE,USA,North America,1995-01-25,30,181,49,Left,Defensive,464,4,203,96,47.29,5,4,6,Active,42.4,274,79,1819,Minor,2024-12-31
+465,Daniel Petrov 465,MALE,Indonesia,Asia,1991-10-12,34,188,57,Right,All-round,465,100,293,141,48.12,11,0,11,Active,44.1,239,70,1038,None,2024-12-31
+466,Nina Brown 466,FEMALE,Indonesia,Asia,1991-02-14,34,169,56,Right,All-round,466,105,150,64,42.67,2,0,11,Active,38.5,289,48,1684,Minor,2024-12-31
+467,Sofia Silva 467,FEMALE,Australia,Oceania,1990-12-28,35,194,49,Right,Offensive,467,10,328,222,67.68,11,3,10,Active,24.7,243,51,1429,Major,2024-12-31
+468,Emma Rossi 468,FEMALE,Egypt,Africa,1998-07-16,27,192,76,Right,Defensive,468,16,223,128,57.4,8,3,8,Active,41.1,300,61,1556,Major,2024-12-31
+469,Marco Garcia 469,MALE,New Zealand,Oceania,2002-02-16,23,186,62,Right,Defensive,469,58,99,53,53.54,0,4,10,Active,44.4,273,63,1347,Major,2024-12-31
+470,Wei Martin 470,MALE,Thailand,Asia,1988-05-27,37,153,64,Right,Offensive,470,20,310,197,63.55,9,5,6,Retired,22.3,212,68,1120,Minor,2024-12-31
+471,Emma Garcia 471,FEMALE,Italy,Europe,1998-12-18,27,161,58,Right,All-round,471,150,463,282,60.91,8,5,4,Active,34.9,295,73,622,Minor,2024-12-31
+472,Nina Li 472,FEMALE,South Africa,Africa,1997-03-27,28,155,92,Right,All-round,472,132,329,177,53.8,14,5,4,Active,28.1,230,48,943,Minor,2024-12-31
+473,Emma Singh 473,FEMALE,Indonesia,Asia,1998-07-30,27,157,48,Left,Defensive,473,105,407,166,40.79,11,3,10,Active,25.1,234,67,1496,None,2024-12-31
+474,Samuel Brown 474,MALE,Egypt,Africa,1997-03-15,28,151,52,Right,Defensive,474,32,394,202,51.27,5,5,4,Active,42.6,271,66,2296,Major,2024-12-31
+475,Daniel Petrov 475,MALE,France,Europe,1999-07-03,26,178,59,Right,All-round,475,46,487,333,68.38,0,1,8,Active,36.9,200,54,1468,None,2024-12-31
+476,Sofia Brown 476,FEMALE,Indonesia,Asia,1994-10-10,31,150,73,Left,All-round,476,36,215,76,35.35,10,4,8,Active,44.0,282,64,632,Major,2024-12-31
+477,Samuel Li 477,MALE,Chile,South America,1993-02-28,32,187,73,Right,All-round,477,5,206,127,61.65,7,0,12,Active,24.2,245,47,1396,None,2024-12-31
+478,Alex Li 478,MALE,Egypt,Africa,1990-01-09,36,193,52,Left,Defensive,478,36,462,277,59.96,3,5,6,Active,33.8,288,77,539,None,2024-12-31
+479,Sofia Brown 479,FEMALE,New Zealand,Oceania,2005-09-25,20,158,47,Left,Defensive,479,112,250,90,36.0,7,3,12,Active,31.2,257,59,908,Major,2024-12-31
+480,Anita Martin 480,FEMALE,Australia,Oceania,2000-07-09,25,162,54,Right,Defensive,480,141,159,103,64.78,13,1,5,Active,38.6,215,61,1997,None,2024-12-31
+481,Victor Sharma 481,MALE,Australia,Oceania,1986-10-28,39,181,77,Right,Offensive,481,149,87,65,74.71,6,4,5,Retired,37.6,257,74,1046,Minor,2024-12-31
+482,Samuel Rossi 482,MALE,Nigeria,Africa,1989-05-23,36,150,74,Left,All-round,482,29,282,162,57.45,13,4,3,Retired,44.6,267,74,719,Minor,2024-12-31
+483,Nina Brown 483,FEMALE,France,Europe,2005-05-10,20,169,61,Right,All-round,483,119,500,246,49.2,4,5,5,Active,34.2,284,76,2297,None,2024-12-31
+484,Arjun Lopez 484,MALE,Canada,North America,1990-12-16,35,152,63,Right,Offensive,484,103,326,132,40.49,8,4,3,Active,31.7,204,78,659,Minor,2024-12-31
+485,Samuel Sharma 485,MALE,Indonesia,Asia,2004-02-05,21,152,64,Left,Defensive,485,4,141,96,68.09,12,2,12,Active,25.7,253,62,926,Minor,2024-12-31
+486,Alex Silva 486,MALE,New Zealand,Oceania,1994-09-24,31,188,54,Left,All-round,486,103,219,90,41.1,4,0,8,Active,40.0,242,67,1292,Minor,2024-12-31
+487,Marco Garcia 487,MALE,India,Asia,2005-08-05,20,156,75,Left,Defensive,487,18,152,71,46.71,15,0,3,Active,41.3,292,47,1871,Minor,2024-12-31
+488,Nina Martin 488,FEMALE,Indonesia,Asia,2001-05-27,24,165,52,Right,Offensive,488,131,333,149,44.74,2,2,6,Active,29.1,299,53,1700,Minor,2024-12-31
+489,Daniel Garcia 489,MALE,Australia,Oceania,1988-12-06,37,176,60,Right,Defensive,489,36,217,153,70.51,0,3,10,Retired,36.4,247,55,785,Major,2024-12-31
+490,Samuel Sharma 490,MALE,Spain,Europe,1997-05-21,28,180,92,Left,Offensive,490,150,144,86,59.72,15,1,4,Active,31.3,249,55,2200,Minor,2024-12-31
+491,Samuel Singh 491,MALE,Thailand,Asia,2004-04-06,21,172,86,Right,Defensive,491,146,211,150,71.09,13,4,12,Active,24.1,194,52,1944,Minor,2024-12-31
+492,Mei Lopez 492,FEMALE,Italy,Europe,1991-12-24,34,173,85,Left,Offensive,492,8,396,273,68.94,6,0,6,Active,26.0,199,53,1244,Minor,2024-12-31
+493,Emma Singh 493,FEMALE,Thailand,Asia,1990-03-31,35,163,74,Right,Offensive,493,139,340,231,67.94,11,5,6,Active,34.7,282,55,601,None,2024-12-31
+494,Ivan Li 494,MALE,Thailand,Asia,2000-09-12,25,176,95,Left,Defensive,494,96,191,101,52.88,9,2,4,Active,41.4,239,47,1573,Major,2024-12-31
+495,Nina Petrov 495,FEMALE,Argentina,South America,1986-05-13,39,158,94,Left,All-round,495,145,311,198,63.67,6,4,3,Retired,24.6,294,53,2278,Major,2024-12-31
+496,Ivan Martin 496,MALE,South Africa,Africa,2001-03-17,24,154,94,Right,Defensive,496,124,481,264,54.89,9,4,8,Active,36.9,300,80,1921,Major,2024-12-31
+497,Alex Singh 497,MALE,Egypt,Africa,1991-08-16,34,170,50,Left,All-round,497,130,164,76,46.34,9,4,10,Active,37.0,257,66,1368,Major,2024-12-31
+498,Mei Rossi 498,FEMALE,New Zealand,Oceania,1998-09-03,27,160,71,Left,Offensive,498,119,386,282,73.06,11,1,4,Active,20.6,277,59,2139,None,2024-12-31
+499,Mei Brown 499,FEMALE,USA,North America,1992-05-02,33,182,45,Left,Defensive,499,107,421,181,42.99,14,0,4,Active,25.5,268,77,1809,Major,2024-12-31
+500,Sofia Martin 500,FEMALE,Argentina,South America,1990-01-15,36,150,48,Right,All-round,500,145,379,280,73.88,3,1,5,Active,27.0,258,65,464,Major,2024-12-31
+501,Arjun Silva 501,MALE,France,Europe,2002-02-27,23,190,92,Right,Offensive,501,67,368,251,68.21,6,3,4,Active,27.2,274,68,1592,Minor,2024-12-31
+502,Sofia Brown 502,FEMALE,New Zealand,Oceania,1989-07-21,36,187,92,Left,Defensive,502,49,114,43,37.72,14,2,12,Retired,22.7,229,75,1569,Minor,2024-12-31
+503,Ivan Singh 503,MALE,Argentina,South America,1992-07-20,33,177,85,Right,Defensive,503,99,143,63,44.06,1,3,7,Active,22.3,281,51,995,None,2024-12-31
+504,Mei Garcia 504,FEMALE,USA,North America,1988-12-27,37,181,45,Right,Offensive,504,41,269,197,73.23,8,5,4,Retired,35.8,280,45,791,Major,2024-12-31
+505,Emma Rossi 505,FEMALE,Australia,Oceania,1995-05-23,30,165,69,Right,Offensive,505,87,334,159,47.6,6,5,11,Active,22.4,191,73,1924,None,2024-12-31
+506,Ivan Silva 506,MALE,Argentina,South America,1995-03-02,30,156,48,Right,Defensive,506,126,351,222,63.25,5,4,4,Active,22.4,200,65,1473,None,2024-12-31
+507,Anita Sharma 507,FEMALE,Spain,Europe,1998-12-04,27,170,45,Right,Defensive,507,46,372,131,35.22,1,5,6,Active,33.7,265,65,856,Major,2024-12-31
+508,Alex Brown 508,MALE,South Africa,Africa,1992-04-20,33,163,74,Right,Defensive,508,117,381,149,39.11,2,0,12,Active,38.8,250,77,1832,Minor,2024-12-31
+509,Sofia Singh 509,FEMALE,Egypt,Africa,2001-09-26,24,182,90,Right,All-round,509,44,272,176,64.71,1,4,3,Active,37.9,281,79,1621,None,2024-12-31
+510,Wei Singh 510,MALE,New Zealand,Oceania,1989-08-02,36,193,52,Right,Defensive,510,86,353,192,54.39,9,2,10,Retired,35.8,247,66,2225,Major,2024-12-31
+511,Nina Garcia 511,FEMALE,Indonesia,Asia,1998-04-06,27,178,74,Left,Offensive,511,101,232,167,71.98,11,3,4,Active,41.8,298,45,1589,Minor,2024-12-31
+512,Laura Singh 512,FEMALE,Nepal,Asia,2004-02-03,21,195,81,Left,Defensive,512,58,327,219,66.97,10,1,8,Active,39.1,266,69,1799,Major,2024-12-31
+513,Anita Sharma 513,FEMALE,New Zealand,Oceania,1987-10-13,38,192,45,Left,All-round,513,98,247,132,53.44,12,1,12,Retired,23.7,203,49,2447,Major,2024-12-31
+514,Victor Rossi 514,MALE,Australia,Oceania,1992-06-21,33,180,59,Right,Offensive,514,146,231,104,45.02,0,2,9,Active,43.5,212,54,2484,None,2024-12-31
+515,Nina Garcia 515,FEMALE,Indonesia,Asia,1985-11-18,40,166,78,Left,All-round,515,11,154,84,54.55,1,1,9,Retired,29.9,295,48,2343,Minor,2024-12-31
+516,Samuel Petrov 516,MALE,Nigeria,Africa,2000-09-26,25,153,50,Right,Offensive,516,118,387,168,43.41,12,3,6,Active,44.6,219,66,1544,Minor,2024-12-31
+517,Emma Petrov 517,FEMALE,Australia,Oceania,2006-08-30,19,186,63,Right,Offensive,517,33,253,143,56.52,8,1,3,Active,42.2,294,79,1804,None,2024-12-31
+518,Laura Rossi 518,FEMALE,Italy,Europe,1996-07-15,29,180,47,Right,Defensive,518,118,421,194,46.08,2,2,7,Active,20.8,255,55,1854,None,2024-12-31
+519,Wei Singh 519,MALE,Thailand,Asia,1990-08-01,35,152,95,Left,Defensive,519,135,339,253,74.63,14,0,6,Active,31.6,274,50,1840,None,2024-12-31
+520,Sofia Petrov 520,FEMALE,Egypt,Africa,1991-06-17,34,182,70,Right,Defensive,520,146,243,127,52.26,3,3,3,Active,25.9,222,75,2089,Major,2024-12-31
+521,Marco Garcia 521,MALE,Nigeria,Africa,1992-01-07,34,169,91,Left,Defensive,521,47,283,172,60.78,4,0,7,Active,26.4,270,72,1056,None,2024-12-31
+522,Mei Lopez 522,FEMALE,USA,North America,2000-04-14,25,182,72,Left,Offensive,522,66,339,148,43.66,3,4,10,Active,43.2,256,69,523,Major,2024-12-31
+523,Marco Silva 523,MALE,Spain,Europe,2002-07-01,23,157,85,Right,All-round,523,101,170,67,39.41,2,1,11,Active,32.6,287,49,795,Major,2024-12-31
+524,Arjun Martin 524,MALE,Thailand,Asia,1988-09-05,37,163,70,Left,Defensive,524,126,433,239,55.2,2,4,7,Retired,39.5,249,72,2027,None,2024-12-31
+525,Ivan Garcia 525,MALE,Nigeria,Africa,1994-01-06,32,176,57,Right,Defensive,525,34,358,173,48.32,6,1,6,Active,38.7,272,57,1107,Minor,2024-12-31
+526,Anita Martin 526,FEMALE,Argentina,South America,2004-11-22,21,169,55,Left,Offensive,526,126,290,159,54.83,6,1,12,Active,26.7,256,79,2087,Major,2024-12-31
+527,Mei Martin 527,FEMALE,Nigeria,Africa,1999-10-14,26,186,81,Right,All-round,527,123,492,234,47.56,1,4,10,Active,44.1,216,54,688,Minor,2024-12-31
+528,Victor Lopez 528,MALE,USA,North America,2002-02-10,23,154,84,Left,Offensive,528,107,413,159,38.5,14,1,7,Active,24.1,242,65,2051,None,2024-12-31
+529,Ivan Singh 529,MALE,Indonesia,Asia,2003-09-23,22,192,56,Right,All-round,529,14,285,101,35.44,3,0,6,Active,35.3,278,46,1329,None,2024-12-31
+530,Wei Sharma 530,MALE,Argentina,South America,1997-12-11,28,173,82,Left,Defensive,530,22,395,201,50.89,2,5,8,Active,28.0,272,62,513,Major,2024-12-31
+531,Alex Lopez 531,MALE,Spain,Europe,1996-11-17,29,186,47,Right,Offensive,531,20,331,153,46.22,6,5,8,Active,40.4,215,48,1171,None,2024-12-31
+532,Emma Rossi 532,FEMALE,Spain,Europe,1991-01-25,34,168,91,Right,All-round,532,34,455,310,68.13,10,2,11,Active,21.9,241,58,508,Minor,2024-12-31
+533,Mei Rossi 533,FEMALE,Egypt,Africa,2006-03-31,19,170,76,Left,Defensive,533,11,263,111,42.21,12,4,4,Active,35.6,239,59,684,Major,2024-12-31
+534,Daniel Silva 534,MALE,Chile,South America,1986-09-29,39,181,86,Left,All-round,534,70,460,223,48.48,5,1,5,Retired,33.5,240,76,1072,None,2024-12-31
+535,Samuel Li 535,MALE,Italy,Europe,2006-05-22,19,169,53,Left,All-round,535,22,194,98,50.52,2,5,11,Active,21.4,192,51,466,None,2024-12-31
+536,Ivan Brown 536,MALE,Nepal,Asia,2001-05-05,24,175,74,Right,Defensive,536,13,415,234,56.39,10,3,3,Active,43.4,266,51,2273,Minor,2024-12-31
+537,Laura Silva 537,FEMALE,Thailand,Asia,1988-03-05,37,190,49,Left,All-round,537,37,432,266,61.57,12,0,5,Retired,25.9,203,60,2200,None,2024-12-31
+538,Arjun Lopez 538,MALE,Chile,South America,2004-09-01,21,185,49,Left,Defensive,538,12,313,133,42.49,15,2,10,Active,35.3,284,56,1407,Major,2024-12-31
+539,Daniel Silva 539,MALE,Nepal,Asia,1996-11-22,29,162,46,Right,Offensive,539,128,414,226,54.59,14,4,5,Active,24.4,300,69,1137,Minor,2024-12-31
+540,Daniel Lopez 540,MALE,New Zealand,Oceania,1997-10-11,28,188,77,Left,Offensive,540,74,306,135,44.12,13,0,5,Active,38.9,286,56,673,Minor,2024-12-31
+541,Daniel Silva 541,MALE,Australia,Oceania,1991-09-27,34,175,89,Right,Offensive,541,123,465,207,44.52,14,3,4,Active,20.8,295,75,707,Major,2024-12-31
+542,Victor Brown 542,MALE,Spain,Europe,1986-12-31,39,171,79,Left,All-round,542,75,433,283,65.36,7,2,5,Retired,36.2,284,45,451,None,2024-12-31
+543,Alex Sharma 543,MALE,Canada,North America,1993-03-10,32,167,57,Left,Offensive,543,114,209,77,36.84,5,2,4,Active,39.3,193,65,2148,Minor,2024-12-31
+544,Arjun Rossi 544,MALE,South Africa,Africa,1994-08-04,31,160,83,Left,All-round,544,129,174,113,64.94,4,2,12,Active,39.6,209,49,873,Major,2024-12-31
+545,Emma Martin 545,FEMALE,USA,North America,1991-02-10,34,186,87,Left,Defensive,545,148,302,118,39.07,5,3,8,Active,36.3,265,63,2051,Minor,2024-12-31
+546,Daniel Garcia 546,MALE,Indonesia,Asia,1986-05-30,39,168,95,Left,Offensive,546,20,164,114,69.51,7,4,12,Retired,44.4,213,77,477,Major,2024-12-31
+547,Arjun Sharma 547,MALE,Germany,Europe,2004-12-26,21,168,56,Left,All-round,547,121,311,114,36.66,14,0,5,Active,23.6,200,79,1175,Major,2024-12-31
+548,Daniel Sharma 548,MALE,New Zealand,Oceania,2003-11-17,22,164,90,Right,Defensive,548,101,169,77,45.56,14,4,9,Active,28.2,231,63,876,Minor,2024-12-31
+549,Victor Li 549,MALE,Nigeria,Africa,1998-07-28,27,150,61,Right,Offensive,549,44,386,211,54.66,11,1,3,Active,31.8,224,79,2216,Major,2024-12-31
+550,Victor Petrov 550,MALE,Italy,Europe,2005-11-23,20,193,77,Left,Defensive,550,128,217,91,41.94,12,2,12,Active,43.9,298,56,1868,Major,2024-12-31
+551,Marco Petrov 551,MALE,Germany,Europe,2006-04-09,19,174,92,Right,Offensive,551,150,372,244,65.59,6,1,7,Active,42.9,214,52,2102,Minor,2024-12-31
+552,Daniel Martin 552,MALE,New Zealand,Oceania,1998-11-08,27,193,58,Left,Offensive,552,43,144,73,50.69,10,3,9,Active,37.0,218,50,616,None,2024-12-31
+553,Alex Petrov 553,MALE,South Africa,Africa,2002-09-18,23,161,87,Left,Offensive,553,141,155,63,40.65,15,2,7,Active,34.4,230,58,929,Minor,2024-12-31
+554,Samuel Brown 554,MALE,Nepal,Asia,2004-01-20,21,156,49,Right,Offensive,554,25,336,174,51.79,2,4,3,Active,33.4,294,70,1663,Major,2024-12-31
+555,Anita Garcia 555,FEMALE,Australia,Oceania,1998-08-30,27,169,52,Right,All-round,555,32,153,83,54.25,12,5,6,Active,35.7,243,66,980,Major,2024-12-31
+556,Emma Rossi 556,FEMALE,Nepal,Asia,2003-12-09,22,154,82,Left,Offensive,556,125,206,74,35.92,14,0,9,Active,28.0,253,58,1581,None,2024-12-31
+557,Arjun Garcia 557,MALE,France,Europe,1996-10-05,29,154,64,Left,All-round,557,67,493,286,58.01,9,4,7,Active,24.4,281,70,667,Minor,2024-12-31
+558,Ivan Petrov 558,MALE,Argentina,South America,2001-04-28,24,178,50,Right,Defensive,558,48,337,167,49.55,5,5,10,Active,20.1,248,69,1899,Major,2024-12-31
+559,Anita Sharma 559,FEMALE,Spain,Europe,1993-10-02,32,150,87,Left,Defensive,559,56,305,180,59.02,7,3,5,Active,22.6,207,79,639,Minor,2024-12-31
+560,Emma Lopez 560,FEMALE,Argentina,South America,1989-09-15,36,159,48,Left,All-round,560,54,433,187,43.19,1,0,9,Retired,32.1,258,51,2355,Minor,2024-12-31
+561,Nina Lopez 561,FEMALE,Italy,Europe,1985-10-03,40,172,61,Right,Offensive,561,1,365,234,64.11,14,3,5,Retired,34.9,284,62,2156,Minor,2024-12-31
+562,Arjun Brown 562,MALE,Thailand,Asia,2004-11-25,21,172,57,Left,All-round,562,141,428,259,60.51,13,1,11,Active,36.4,288,78,1018,None,2024-12-31
+563,Sofia Li 563,FEMALE,Canada,North America,2001-02-17,24,171,74,Right,All-round,563,27,340,132,38.82,13,2,10,Active,32.0,218,78,2457,Minor,2024-12-31
+564,Marco Rossi 564,MALE,Italy,Europe,1987-01-20,38,193,50,Right,All-round,564,133,465,347,74.62,11,2,5,Retired,37.5,242,46,707,None,2024-12-31
+565,Emma Silva 565,FEMALE,Argentina,South America,2004-12-02,21,175,60,Left,Defensive,565,107,297,120,40.4,4,2,5,Active,22.4,291,66,566,Major,2024-12-31
+566,Ivan Silva 566,MALE,Australia,Oceania,1997-05-11,28,192,64,Left,All-round,566,88,177,124,70.06,11,0,4,Active,44.6,240,56,1877,Major,2024-12-31
+567,Wei Lopez 567,MALE,Spain,Europe,1986-06-25,39,190,95,Left,Offensive,567,107,428,195,45.56,2,5,9,Retired,28.3,229,70,2472,Major,2024-12-31
+568,Sofia Petrov 568,FEMALE,Italy,Europe,1985-12-31,40,174,84,Left,Offensive,568,69,426,278,65.26,7,0,5,Retired,24.3,244,54,581,None,2024-12-31
+569,Daniel Li 569,MALE,USA,North America,1995-05-30,30,167,66,Right,Defensive,569,140,363,195,53.72,4,0,4,Active,29.9,271,57,562,Major,2024-12-31
+570,Laura Singh 570,FEMALE,Thailand,Asia,1989-03-11,36,159,95,Right,Offensive,570,65,469,310,66.1,7,4,8,Retired,41.5,248,63,703,None,2024-12-31
+571,Samuel Martin 571,MALE,Australia,Oceania,2004-07-02,21,171,69,Right,Defensive,571,53,347,190,54.76,14,1,8,Active,33.0,261,77,2202,Major,2024-12-31
+572,Marco Garcia 572,MALE,Argentina,South America,1993-09-30,32,178,66,Right,Offensive,572,125,364,175,48.08,8,5,6,Active,24.2,243,58,434,Minor,2024-12-31
+573,Anita Lopez 573,FEMALE,India,Asia,1986-08-02,39,188,78,Right,All-round,573,15,236,177,75.0,2,2,11,Retired,21.7,278,56,1518,Major,2024-12-31
+574,Wei Sharma 574,MALE,USA,North America,1990-07-22,35,158,71,Left,Offensive,574,70,175,71,40.57,0,2,4,Active,24.3,262,60,630,Major,2024-12-31
+575,Laura Petrov 575,FEMALE,USA,North America,1999-04-24,26,186,81,Left,All-round,575,48,489,308,62.99,11,1,6,Active,38.9,274,50,996,Major,2024-12-31
+576,Nina Petrov 576,FEMALE,Chile,South America,1995-11-25,30,177,67,Left,All-round,576,77,272,128,47.06,15,3,8,Active,22.6,227,74,1463,None,2024-12-31
+577,Laura Lopez 577,FEMALE,Indonesia,Asia,1986-04-16,39,187,70,Right,Offensive,577,52,417,178,42.69,7,3,6,Retired,27.2,212,46,2060,None,2024-12-31
+578,Ivan Li 578,MALE,Germany,Europe,2003-05-30,22,182,51,Right,Defensive,578,10,400,188,47.0,2,1,11,Active,38.4,224,70,2325,None,2024-12-31
+579,Ivan Rossi 579,MALE,Spain,Europe,1995-10-24,30,184,76,Right,Defensive,579,122,120,88,73.33,3,5,10,Active,41.4,220,65,1457,Minor,2024-12-31
+580,Victor Singh 580,MALE,Indonesia,Asia,1999-03-26,26,183,45,Left,Defensive,580,75,374,280,74.87,0,3,7,Active,26.6,298,73,1526,Major,2024-12-31
+581,Arjun Martin 581,MALE,Australia,Oceania,1990-06-24,35,154,58,Right,Defensive,581,7,380,269,70.79,12,1,10,Active,43.2,220,60,2438,None,2024-12-31
+582,Samuel Martin 582,MALE,India,Asia,2002-06-10,23,182,60,Right,Offensive,582,124,119,65,54.62,8,3,4,Active,40.3,233,77,616,Minor,2024-12-31
+583,Mei Garcia 583,FEMALE,South Africa,Africa,1996-04-08,29,191,81,Left,Defensive,583,5,154,91,59.09,4,2,5,Active,35.2,209,69,498,None,2024-12-31
+584,Emma Garcia 584,FEMALE,India,Asia,2002-09-26,23,178,72,Right,Defensive,584,54,344,219,63.66,2,0,4,Active,20.3,271,45,1340,Minor,2024-12-31
+585,Ivan Silva 585,MALE,Indonesia,Asia,1990-09-02,35,175,51,Right,Offensive,585,33,160,91,56.88,1,1,4,Active,37.4,263,61,1484,None,2024-12-31
+586,Daniel Martin 586,MALE,New Zealand,Oceania,1991-05-12,34,185,65,Right,All-round,586,62,412,236,57.28,8,1,8,Active,20.5,249,47,944,None,2024-12-31
+587,Victor Lopez 587,MALE,Chile,South America,1994-08-06,31,185,55,Right,Offensive,587,63,491,279,56.82,11,4,4,Active,29.9,295,64,1567,Major,2024-12-31
+588,Arjun Petrov 588,MALE,France,Europe,2000-10-09,25,182,66,Right,Offensive,588,135,355,224,63.1,13,5,8,Active,44.0,197,76,2157,Minor,2024-12-31
+589,Samuel Silva 589,MALE,Australia,Oceania,2005-02-26,20,172,83,Right,Defensive,589,123,346,194,56.07,11,1,9,Active,33.1,224,49,1215,None,2024-12-31
+590,Marco Rossi 590,MALE,New Zealand,Oceania,2001-08-20,24,157,65,Left,Offensive,590,14,306,197,64.38,7,4,11,Active,28.5,191,60,1106,Major,2024-12-31
+591,Marco Li 591,MALE,France,Europe,1985-11-30,40,191,66,Left,All-round,591,125,452,233,51.55,0,3,5,Retired,32.8,203,55,458,Major,2024-12-31
+592,Mei Lopez 592,FEMALE,Germany,Europe,2001-11-27,24,194,86,Right,Defensive,592,142,230,145,63.04,1,4,8,Active,27.5,200,72,847,None,2024-12-31
+593,Laura Sharma 593,FEMALE,Germany,Europe,1999-05-24,26,187,80,Left,Offensive,593,64,413,190,46.0,14,4,11,Active,22.6,216,68,737,Minor,2024-12-31
+594,Mei Li 594,FEMALE,USA,North America,2000-01-15,26,158,55,Right,Offensive,594,131,350,222,63.43,2,1,7,Active,28.0,194,71,873,Major,2024-12-31
+595,Alex Sharma 595,MALE,India,Asia,1991-03-01,34,163,86,Left,Defensive,595,100,400,239,59.75,5,2,8,Active,37.2,262,74,1110,Major,2024-12-31
+596,Wei Silva 596,MALE,Canada,North America,1995-05-22,30,194,46,Left,Offensive,596,79,423,227,53.66,0,1,9,Active,44.5,294,62,1798,None,2024-12-31
+597,Arjun Petrov 597,MALE,Nigeria,Africa,1993-04-22,32,156,79,Left,Offensive,597,81,338,247,73.08,14,5,6,Active,30.1,267,48,522,None,2024-12-31
+598,Ivan Rossi 598,MALE,Indonesia,Asia,1994-10-12,31,162,52,Right,Defensive,598,85,234,105,44.87,1,1,11,Active,30.6,209,71,2175,Major,2024-12-31
+599,Marco Rossi 599,MALE,USA,North America,1989-07-04,36,176,75,Right,All-round,599,26,450,222,49.33,0,4,5,Retired,35.8,273,56,2106,Major,2024-12-31
+600,Anita Brown 600,FEMALE,Spain,Europe,1997-11-18,28,177,68,Right,All-round,600,74,229,170,74.24,4,4,8,Active,31.4,291,60,2346,None,2024-12-31
+601,Emma Sharma 601,FEMALE,Spain,Europe,2005-04-01,20,159,77,Left,Defensive,601,98,172,123,71.51,14,3,7,Active,30.1,249,78,1356,Major,2024-12-31
+602,Daniel Garcia 602,MALE,Nepal,Asia,1988-08-31,37,183,67,Right,Defensive,602,20,475,186,39.16,8,4,11,Retired,21.3,193,72,1388,Major,2024-12-31
+603,Ivan Lopez 603,MALE,Chile,South America,1989-09-18,36,194,46,Left,Defensive,603,98,163,61,37.42,13,5,10,Retired,32.8,292,78,2372,Major,2024-12-31
+604,Laura Li 604,FEMALE,Italy,Europe,1985-12-25,40,153,68,Left,All-round,604,87,485,192,39.59,2,3,12,Retired,43.1,225,66,1777,Minor,2024-12-31
+605,Wei Petrov 605,MALE,Indonesia,Asia,1992-03-25,33,162,86,Left,All-round,605,90,148,81,54.73,1,1,8,Active,34.7,295,69,1927,None,2024-12-31
+606,Ivan Martin 606,MALE,Indonesia,Asia,1998-11-21,27,175,46,Left,Offensive,606,55,415,236,56.87,8,1,4,Active,29.9,274,50,921,Minor,2024-12-31
+607,Ivan Lopez 607,MALE,Italy,Europe,1997-11-05,28,182,90,Right,All-round,607,11,358,209,58.38,6,4,4,Active,41.5,276,60,2314,Minor,2024-12-31
+608,Laura Petrov 608,FEMALE,New Zealand,Oceania,1992-04-06,33,168,61,Right,Defensive,608,81,201,121,60.2,4,3,10,Active,21.9,197,54,1715,Major,2024-12-31
+609,Ivan Lopez 609,MALE,Nigeria,Africa,1998-02-09,27,158,88,Right,All-round,609,1,365,139,38.08,4,2,10,Active,38.8,290,46,2403,None,2024-12-31
+610,Anita Silva 610,FEMALE,Chile,South America,2004-07-27,21,150,59,Left,Offensive,610,94,468,337,72.01,8,2,3,Active,38.2,266,51,1689,Major,2024-12-31
+611,Emma Rossi 611,FEMALE,Indonesia,Asia,1988-01-31,37,194,50,Left,Defensive,611,22,377,190,50.4,14,3,6,Retired,23.7,245,46,757,Minor,2024-12-31
+612,Wei Rossi 612,MALE,Indonesia,Asia,1985-06-10,40,152,77,Right,Defensive,612,94,150,85,56.67,6,5,7,Retired,42.8,252,54,589,Major,2024-12-31
+613,Ivan Petrov 613,MALE,France,Europe,1999-06-21,26,173,83,Right,All-round,613,99,118,85,72.03,15,2,8,Active,29.8,230,54,2216,Minor,2024-12-31
+614,Emma Brown 614,FEMALE,Germany,Europe,2006-02-02,19,153,54,Right,Defensive,614,88,389,195,50.13,15,3,8,Active,36.4,253,77,1598,None,2024-12-31
+615,Samuel Martin 615,MALE,South Africa,Africa,1991-02-01,34,165,48,Left,Offensive,615,59,427,264,61.83,0,3,8,Active,32.0,252,75,2370,Minor,2024-12-31
+616,Ivan Sharma 616,MALE,Spain,Europe,2002-07-06,23,195,78,Left,Offensive,616,122,496,365,73.59,11,3,4,Active,28.3,250,68,905,Major,2024-12-31
+617,Mei Silva 617,FEMALE,Nepal,Asia,1992-08-17,33,150,68,Left,Offensive,617,82,431,265,61.48,2,2,5,Active,20.7,224,56,1753,Major,2024-12-31
+618,Nina Silva 618,FEMALE,New Zealand,Oceania,2006-11-26,19,182,49,Right,Defensive,618,81,276,103,37.32,6,1,6,Active,35.2,279,48,1153,Minor,2024-12-31
+619,Mei Sharma 619,FEMALE,Australia,Oceania,1992-12-01,33,158,94,Left,Defensive,619,76,150,112,74.67,0,4,9,Active,30.8,257,48,1723,None,2024-12-31
+620,Anita Sharma 620,FEMALE,Germany,Europe,1993-04-18,32,160,94,Right,All-round,620,53,211,145,68.72,5,2,11,Active,36.0,245,73,1850,None,2024-12-31
+621,Samuel Brown 621,MALE,South Africa,Africa,2000-02-04,25,167,45,Left,Defensive,621,23,259,184,71.04,2,2,9,Active,24.9,228,58,1469,Minor,2024-12-31
+622,Daniel Brown 622,MALE,Canada,North America,1986-10-06,39,161,61,Left,Offensive,622,127,123,47,38.21,0,5,6,Retired,32.9,223,63,493,Minor,2024-12-31
+623,Emma Brown 623,FEMALE,Egypt,Africa,1988-05-22,37,150,59,Right,Offensive,623,17,467,239,51.18,15,3,3,Retired,40.0,235,73,833,Minor,2024-12-31
+624,Nina Garcia 624,FEMALE,Chile,South America,2005-08-24,20,178,56,Left,Offensive,624,72,477,212,44.44,0,4,5,Active,21.8,297,74,2435,Major,2024-12-31
+625,Laura Martin 625,FEMALE,Canada,North America,1990-03-15,35,190,66,Left,Offensive,625,78,328,225,68.6,1,5,4,Active,26.2,217,78,1389,None,2024-12-31
+626,Anita Martin 626,FEMALE,France,Europe,1997-12-23,28,158,48,Right,Defensive,626,46,222,110,49.55,15,1,12,Active,40.3,268,58,2427,Major,2024-12-31
+627,Mei Sharma 627,FEMALE,Egypt,Africa,1988-02-01,37,185,48,Left,Offensive,627,17,97,59,60.82,0,3,11,Retired,20.7,279,48,1132,Minor,2024-12-31
+628,Emma Li 628,FEMALE,Egypt,Africa,1990-05-28,35,160,82,Left,Offensive,628,121,410,218,53.17,8,1,3,Active,36.0,235,53,1600,Major,2024-12-31
+629,Victor Silva 629,MALE,France,Europe,1986-03-06,39,161,53,Right,Offensive,629,9,150,101,67.33,2,1,7,Retired,43.5,288,70,1300,None,2024-12-31
+630,Emma Rossi 630,FEMALE,Germany,Europe,1999-05-06,26,180,72,Right,All-round,630,36,346,154,44.51,12,2,6,Active,20.8,228,77,1447,None,2024-12-31
+631,Ivan Singh 631,MALE,Germany,Europe,1989-02-21,36,183,55,Left,Offensive,631,61,357,213,59.66,15,4,3,Retired,21.3,289,77,2025,None,2024-12-31
+632,Victor Singh 632,MALE,New Zealand,Oceania,1986-05-22,39,158,92,Left,Offensive,632,3,207,143,69.08,0,5,10,Retired,20.3,235,69,672,None,2024-12-31
+633,Alex Martin 633,MALE,New Zealand,Oceania,1990-05-19,35,178,73,Right,Offensive,633,112,278,140,50.36,7,5,12,Active,36.8,202,50,999,None,2024-12-31
+634,Laura Martin 634,FEMALE,Australia,Oceania,2002-10-09,23,175,79,Left,All-round,634,132,393,220,55.98,1,5,5,Active,34.7,203,57,1931,None,2024-12-31
+635,Marco Garcia 635,MALE,Italy,Europe,1998-11-14,27,188,50,Left,Defensive,635,104,316,206,65.19,4,4,4,Active,29.8,270,65,2368,None,2024-12-31
+636,Victor Sharma 636,MALE,Italy,Europe,1996-02-10,29,191,55,Left,All-round,636,66,161,103,63.98,10,3,7,Active,40.1,218,62,1194,Minor,2024-12-31
+637,Sofia Lopez 637,FEMALE,Indonesia,Asia,1998-05-14,27,158,71,Left,Defensive,637,23,223,115,51.57,7,1,8,Active,35.2,217,65,1329,Major,2024-12-31
+638,Mei Lopez 638,FEMALE,France,Europe,1991-08-20,34,173,72,Left,Defensive,638,45,127,62,48.82,14,2,6,Active,33.1,248,78,2236,None,2024-12-31
+639,Emma Lopez 639,FEMALE,Chile,South America,1994-03-08,31,161,65,Right,All-round,639,61,269,162,60.22,10,5,4,Active,32.9,206,69,1460,Minor,2024-12-31
+640,Arjun Silva 640,MALE,Indonesia,Asia,1997-06-23,28,187,75,Right,Defensive,640,96,458,227,49.56,11,4,10,Active,20.9,216,60,1919,None,2024-12-31
+641,Arjun Petrov 641,MALE,Nepal,Asia,1999-02-02,26,162,64,Right,All-round,641,21,333,248,74.47,7,5,5,Active,41.6,292,58,1943,None,2024-12-31
+642,Alex Li 642,MALE,Thailand,Asia,2001-05-15,24,161,70,Left,Defensive,642,137,96,53,55.21,12,2,8,Active,39.4,299,55,627,Minor,2024-12-31
+643,Emma Lopez 643,FEMALE,South Africa,Africa,1990-12-16,35,189,59,Left,Offensive,643,41,174,96,55.17,8,5,8,Active,35.4,204,78,572,Major,2024-12-31
+644,Nina Li 644,FEMALE,Indonesia,Asia,2004-09-02,21,179,89,Left,Defensive,644,140,306,107,34.97,11,3,11,Active,23.4,288,69,1413,Minor,2024-12-31
+645,Ivan Garcia 645,MALE,South Africa,Africa,2000-10-11,25,167,76,Right,Offensive,645,97,412,302,73.3,6,3,10,Active,44.0,196,59,1873,None,2024-12-31
+646,Samuel Martin 646,MALE,France,Europe,1993-08-12,32,186,85,Left,Defensive,646,70,356,139,39.04,1,0,12,Active,34.0,277,55,1532,None,2024-12-31
+647,Arjun Brown 647,MALE,Germany,Europe,1986-07-11,39,156,66,Left,All-round,647,106,168,80,47.62,12,3,6,Retired,20.2,242,75,1792,Minor,2024-12-31
+648,Alex Brown 648,MALE,Nigeria,Africa,1985-10-20,40,150,50,Right,All-round,648,26,219,117,53.42,13,5,5,Retired,41.7,259,55,2200,Major,2024-12-31
+649,Marco Garcia 649,MALE,USA,North America,1997-04-14,28,164,94,Left,All-round,649,1,117,46,39.32,15,3,11,Active,31.8,205,66,1376,Minor,2024-12-31
+650,Laura Silva 650,FEMALE,Nepal,Asia,1989-04-29,36,180,72,Right,All-round,650,3,312,125,40.06,8,4,6,Retired,23.1,273,60,2223,None,2024-12-31
+651,Marco Singh 651,MALE,Nigeria,Africa,1998-06-25,27,169,60,Right,Offensive,651,4,221,104,47.06,4,1,8,Active,22.6,293,80,1681,Minor,2024-12-31
+652,Victor Singh 652,MALE,Germany,Europe,1996-11-25,29,180,57,Left,Defensive,652,45,196,85,43.37,9,2,8,Active,24.8,278,49,1755,None,2024-12-31
+653,Daniel Singh 653,MALE,USA,North America,1991-08-24,34,156,78,Right,All-round,653,38,472,223,47.25,0,0,11,Active,21.9,282,65,1041,Minor,2024-12-31
+654,Alex Sharma 654,MALE,Nigeria,Africa,1992-04-14,33,164,88,Right,Offensive,654,78,384,203,52.86,14,2,12,Active,27.0,212,49,1034,Minor,2024-12-31
+655,Wei Brown 655,MALE,Spain,Europe,1991-08-08,34,190,76,Right,Offensive,655,129,284,138,48.59,14,2,3,Active,32.6,210,63,760,Major,2024-12-31
+656,Mei Li 656,FEMALE,Spain,Europe,1996-08-17,29,160,66,Right,Offensive,656,18,387,214,55.3,8,0,8,Active,41.6,214,58,1732,Major,2024-12-31
+657,Wei Silva 657,MALE,Canada,North America,2003-01-19,22,188,88,Left,Defensive,657,15,360,175,48.61,14,2,6,Active,33.1,294,55,1595,None,2024-12-31
+658,Victor Lopez 658,MALE,Australia,Oceania,1988-06-06,37,172,84,Left,All-round,658,19,368,180,48.91,6,1,11,Retired,39.4,213,59,1487,Minor,2024-12-31
+659,Daniel Singh 659,MALE,Italy,Europe,1988-01-19,37,168,89,Left,Offensive,659,47,361,215,59.56,9,1,8,Retired,35.4,233,61,2153,Minor,2024-12-31
+660,Daniel Lopez 660,MALE,Nigeria,Africa,2004-07-22,21,184,63,Left,Offensive,660,57,240,127,52.92,5,4,7,Active,26.5,290,63,818,Minor,2024-12-31
+661,Victor Garcia 661,MALE,Australia,Oceania,2004-06-20,21,172,47,Right,Offensive,661,30,369,146,39.57,13,4,12,Active,34.9,298,70,2495,Major,2024-12-31
+662,Alex Brown 662,MALE,Italy,Europe,1991-11-21,34,173,83,Right,Defensive,662,85,83,58,69.88,15,2,3,Active,25.1,192,65,2159,Minor,2024-12-31
+663,Anita Singh 663,FEMALE,South Africa,Africa,1988-11-01,37,174,63,Left,Offensive,663,62,118,75,63.56,5,2,10,Retired,42.9,252,65,1094,Minor,2024-12-31
+664,Ivan Singh 664,MALE,South Africa,Africa,1992-04-08,33,173,95,Left,Defensive,664,76,193,73,37.82,9,4,8,Active,32.6,200,59,2175,None,2024-12-31
+665,Nina Garcia 665,FEMALE,New Zealand,Oceania,2006-08-15,19,165,77,Right,Offensive,665,57,311,120,38.59,2,1,5,Active,27.7,263,45,2133,Major,2024-12-31
+666,Marco Sharma 666,MALE,Argentina,South America,1995-12-23,30,164,58,Right,All-round,666,130,175,87,49.71,5,0,5,Active,26.3,269,57,400,Minor,2024-12-31
+667,Anita Sharma 667,FEMALE,India,Asia,1992-08-02,33,188,64,Left,Defensive,667,6,139,93,66.91,8,3,3,Active,42.7,209,75,1862,Major,2024-12-31
+668,Ivan Petrov 668,MALE,Australia,Oceania,1997-04-15,28,152,49,Right,Offensive,668,100,418,235,56.22,6,5,8,Active,29.1,228,65,1778,Minor,2024-12-31
+669,Daniel Sharma 669,MALE,Indonesia,Asia,1996-07-28,29,170,80,Right,Offensive,669,65,289,103,35.64,0,5,3,Active,42.0,203,79,1134,Minor,2024-12-31
+670,Alex Lopez 670,MALE,France,Europe,1992-11-25,33,166,55,Right,Offensive,670,149,297,144,48.48,3,4,9,Active,24.2,231,68,2039,None,2024-12-31
+671,Anita Singh 671,FEMALE,New Zealand,Oceania,1997-12-22,28,155,52,Left,Defensive,671,113,401,231,57.61,13,5,6,Active,37.6,283,65,1987,Major,2024-12-31
+672,Daniel Sharma 672,MALE,Chile,South America,1989-10-14,36,151,80,Right,Defensive,672,33,200,70,35.0,10,4,3,Retired,25.7,190,80,1144,Major,2024-12-31
+673,Marco Martin 673,MALE,Germany,Europe,1994-04-26,31,169,74,Left,Defensive,673,118,456,332,72.81,10,0,8,Active,37.4,237,75,892,None,2024-12-31
+674,Samuel Silva 674,MALE,South Africa,Africa,1993-03-28,32,192,65,Left,All-round,674,134,347,169,48.7,12,3,10,Active,33.8,277,65,2249,None,2024-12-31
+675,Samuel Li 675,MALE,New Zealand,Oceania,2002-09-02,23,151,56,Right,All-round,675,6,353,258,73.09,2,4,12,Active,24.6,208,50,1249,Major,2024-12-31
+676,Sofia Silva 676,FEMALE,Nigeria,Africa,1989-11-17,36,175,55,Left,Offensive,676,41,231,122,52.81,13,2,3,Retired,40.5,230,51,921,None,2024-12-31
+677,Marco Lopez 677,MALE,France,Europe,1992-04-16,33,151,48,Right,All-round,677,57,472,325,68.86,10,0,4,Active,21.7,254,68,516,Major,2024-12-31
+678,Alex Sharma 678,MALE,Italy,Europe,2005-11-01,20,176,55,Left,Defensive,678,37,388,137,35.31,1,5,12,Active,27.0,200,51,2333,Minor,2024-12-31
+679,Mei Lopez 679,FEMALE,Nepal,Asia,2002-01-07,24,182,56,Right,Offensive,679,42,461,168,36.44,13,3,9,Active,35.5,241,45,1956,None,2024-12-31
+680,Emma Rossi 680,FEMALE,Thailand,Asia,2002-08-12,23,191,59,Right,All-round,680,110,432,213,49.31,14,0,11,Active,35.1,230,48,1454,None,2024-12-31
+681,Emma Brown 681,FEMALE,Nepal,Asia,1988-04-09,37,153,81,Right,All-round,681,57,303,171,56.44,6,4,5,Retired,23.1,231,67,1458,Major,2024-12-31
+682,Victor Li 682,MALE,South Africa,Africa,1998-06-18,27,155,45,Right,Defensive,682,35,387,244,63.05,14,3,7,Active,25.0,196,69,1374,Major,2024-12-31
+683,Anita Li 683,FEMALE,Italy,Europe,1992-01-24,33,155,46,Right,Defensive,683,79,386,271,70.21,7,4,9,Active,22.4,269,71,1094,Major,2024-12-31
+684,Alex Martin 684,MALE,Italy,Europe,1993-08-30,32,166,89,Left,Offensive,684,55,322,166,51.55,6,4,5,Active,24.5,231,71,843,Major,2024-12-31
+685,Alex Garcia 685,MALE,Nigeria,Africa,1992-09-08,33,194,63,Right,All-round,685,36,332,144,43.37,12,5,12,Active,30.5,213,66,1923,Minor,2024-12-31
+686,Samuel Garcia 686,MALE,Nigeria,Africa,1986-06-10,39,182,58,Right,Offensive,686,44,408,278,68.14,0,2,7,Retired,36.0,298,69,467,None,2024-12-31
+687,Emma Martin 687,FEMALE,France,Europe,1995-02-16,30,156,76,Left,All-round,687,74,434,254,58.53,3,3,4,Active,20.8,253,58,547,None,2024-12-31
+688,Samuel Li 688,MALE,Egypt,Africa,2005-09-28,20,175,92,Left,Offensive,688,82,158,87,55.06,1,1,9,Active,39.4,198,78,1752,Major,2024-12-31
+689,Ivan Rossi 689,MALE,Chile,South America,2003-07-19,22,170,87,Right,Offensive,689,17,385,222,57.66,6,3,11,Active,21.9,199,67,2269,Minor,2024-12-31
+690,Laura Petrov 690,FEMALE,Germany,Europe,2003-03-13,22,184,51,Right,Offensive,690,96,255,162,63.53,2,2,7,Active,40.1,251,48,1865,Minor,2024-12-31
+691,Emma Singh 691,FEMALE,Canada,North America,1987-02-26,38,157,87,Left,All-round,691,62,483,187,38.72,11,5,10,Retired,28.6,214,75,1960,Minor,2024-12-31
+692,Victor Rossi 692,MALE,Nepal,Asia,1999-02-19,26,179,84,Left,Defensive,692,119,417,147,35.25,8,1,11,Active,32.5,236,52,2004,None,2024-12-31
+693,Emma Silva 693,FEMALE,India,Asia,1998-01-01,28,192,74,Right,All-round,693,101,249,118,47.39,7,3,7,Active,32.9,251,71,1854,Minor,2024-12-31
+694,Daniel Singh 694,MALE,Germany,Europe,2001-03-25,24,174,95,Right,Defensive,694,14,194,76,39.18,3,1,10,Active,26.3,207,77,2284,Major,2024-12-31
+695,Wei Singh 695,MALE,Argentina,South America,1989-11-21,36,189,45,Right,Defensive,695,124,295,205,69.49,4,0,7,Retired,41.9,239,65,2106,Major,2024-12-31
+696,Marco Rossi 696,MALE,New Zealand,Oceania,1995-06-24,30,168,80,Right,Defensive,696,80,343,177,51.6,15,4,12,Active,26.7,240,50,2385,Major,2024-12-31
+697,Wei Li 697,MALE,South Africa,Africa,2001-03-23,24,169,52,Right,Defensive,697,63,165,86,52.12,0,2,7,Active,26.4,297,46,864,Major,2024-12-31
+698,Wei Petrov 698,MALE,Argentina,South America,1997-05-12,28,171,53,Left,Defensive,698,85,483,231,47.83,15,1,10,Active,38.1,299,52,1141,Minor,2024-12-31
+699,Sofia Silva 699,FEMALE,South Africa,Africa,2006-01-23,19,169,61,Left,Defensive,699,107,134,55,41.04,6,5,9,Active,41.4,214,46,1755,Minor,2024-12-31
+700,Ivan Sharma 700,MALE,India,Asia,1993-07-01,32,175,71,Right,Offensive,700,77,92,46,50.0,14,1,5,Active,26.0,270,50,403,Minor,2024-12-31
+701,Emma Garcia 701,FEMALE,Nigeria,Africa,2004-04-17,21,164,80,Left,Offensive,701,24,457,300,65.65,10,2,12,Active,27.6,288,45,1192,None,2024-12-31
+702,Victor Petrov 702,MALE,India,Asia,1993-03-22,32,177,62,Right,Offensive,702,68,395,229,57.97,7,4,4,Active,21.6,210,62,434,None,2024-12-31
+703,Wei Singh 703,MALE,New Zealand,Oceania,2002-04-13,23,153,90,Right,Defensive,703,76,490,242,49.39,1,2,10,Active,22.8,247,50,2240,Minor,2024-12-31
+704,Emma Li 704,FEMALE,Thailand,Asia,1997-03-19,28,151,52,Left,All-round,704,39,481,171,35.55,7,5,11,Active,25.2,267,45,444,Major,2024-12-31
+705,Daniel Rossi 705,MALE,Egypt,Africa,2006-09-24,19,168,55,Right,Defensive,705,96,165,72,43.64,3,2,7,Active,43.2,197,70,1965,Major,2024-12-31
+706,Samuel Rossi 706,MALE,Thailand,Asia,1988-03-24,37,188,85,Right,All-round,706,119,83,58,69.88,15,1,7,Retired,30.6,236,57,501,Minor,2024-12-31
+707,Victor Rossi 707,MALE,Nigeria,Africa,2005-11-19,20,191,82,Right,Offensive,707,119,129,68,52.71,2,1,12,Active,44.6,206,66,1136,Minor,2024-12-31
+708,Alex Sharma 708,MALE,Nepal,Asia,1986-03-19,39,176,51,Right,Defensive,708,51,362,187,51.66,15,5,5,Retired,20.1,200,76,1776,Major,2024-12-31
+709,Samuel Sharma 709,MALE,Australia,Oceania,2000-09-22,25,177,83,Right,Defensive,709,150,500,296,59.2,1,3,5,Active,37.3,202,66,1876,Minor,2024-12-31
+710,Arjun Garcia 710,MALE,Spain,Europe,1993-01-21,32,177,65,Left,Offensive,710,62,150,61,40.67,10,4,8,Active,37.6,282,71,896,Major,2024-12-31
+711,Wei Silva 711,MALE,Thailand,Asia,1996-07-23,29,152,45,Left,All-round,711,117,313,211,67.41,3,3,3,Active,33.9,204,79,2483,None,2024-12-31
+712,Marco Petrov 712,MALE,Canada,North America,1996-04-20,29,171,90,Left,Offensive,712,120,349,233,66.76,5,2,12,Active,32.4,289,58,2192,Minor,2024-12-31
+713,Samuel Martin 713,MALE,Italy,Europe,2000-08-22,25,172,49,Left,All-round,713,88,238,163,68.49,14,3,11,Active,40.4,268,49,1894,Major,2024-12-31
+714,Ivan Rossi 714,MALE,Argentina,South America,1995-04-22,30,180,78,Right,All-round,714,76,480,286,59.58,15,1,4,Active,32.1,277,45,2385,None,2024-12-31
+715,Emma Singh 715,FEMALE,Chile,South America,1986-04-22,39,171,61,Right,All-round,715,135,149,84,56.38,12,2,4,Retired,32.8,278,51,1477,Major,2024-12-31
+716,Anita Brown 716,FEMALE,Germany,Europe,1989-11-16,36,173,56,Left,All-round,716,59,478,188,39.33,10,5,7,Retired,20.7,192,57,1528,None,2024-12-31
+717,Ivan Petrov 717,MALE,New Zealand,Oceania,1991-01-18,34,158,89,Left,Defensive,717,85,254,175,68.9,0,2,9,Active,39.1,249,56,1043,Minor,2024-12-31
+718,Nina Brown 718,FEMALE,Argentina,South America,1995-04-04,30,159,60,Right,Offensive,718,36,251,110,43.82,9,1,4,Active,34.5,293,68,874,Major,2024-12-31
+719,Laura Li 719,FEMALE,Australia,Oceania,2000-08-26,25,161,56,Left,Defensive,719,91,463,210,45.36,0,0,12,Active,44.0,205,77,2223,None,2024-12-31
+720,Nina Brown 720,FEMALE,South Africa,Africa,2003-08-19,22,171,55,Left,Offensive,720,64,402,248,61.69,6,1,9,Active,35.0,214,51,739,None,2024-12-31
+721,Wei Sharma 721,MALE,Thailand,Asia,1988-08-26,37,162,92,Left,All-round,721,63,484,294,60.74,2,2,12,Retired,38.3,273,65,2303,None,2024-12-31
+722,Victor Sharma 722,MALE,Australia,Oceania,1986-01-27,39,181,58,Left,All-round,722,128,285,162,56.84,10,3,9,Retired,35.5,216,77,1426,Minor,2024-12-31
+723,Arjun Silva 723,MALE,Thailand,Asia,1999-08-29,26,179,56,Left,Offensive,723,2,111,72,64.86,8,5,10,Active,25.5,294,62,1786,Major,2024-12-31
+724,Wei Singh 724,MALE,New Zealand,Oceania,1999-03-05,26,183,74,Left,Defensive,724,29,400,230,57.5,2,2,5,Active,27.3,213,77,877,Major,2024-12-31
+725,Arjun Garcia 725,MALE,New Zealand,Oceania,2004-04-04,21,152,67,Left,Offensive,725,61,438,315,71.92,8,5,4,Active,42.7,277,67,2405,Minor,2024-12-31
+726,Daniel Silva 726,MALE,Italy,Europe,1993-06-25,32,167,61,Right,All-round,726,138,377,183,48.54,2,0,6,Active,42.8,200,57,903,Minor,2024-12-31
+727,Emma Singh 727,FEMALE,South Africa,Africa,2004-02-22,21,159,57,Right,Offensive,727,83,472,294,62.29,7,1,4,Active,27.0,242,47,1234,Minor,2024-12-31
+728,Sofia Brown 728,FEMALE,Chile,South America,1989-01-22,36,157,92,Left,Defensive,728,133,340,192,56.47,15,5,6,Retired,38.4,297,62,1161,Minor,2024-12-31
+729,Nina Rossi 729,FEMALE,France,Europe,1988-12-13,37,160,93,Right,Defensive,729,89,443,180,40.63,8,0,5,Retired,21.8,194,63,2423,None,2024-12-31
+730,Mei Garcia 730,FEMALE,Australia,Oceania,2004-12-05,21,188,73,Right,All-round,730,112,377,263,69.76,10,5,8,Active,36.9,207,68,2215,Major,2024-12-31
+731,Wei Sharma 731,MALE,Canada,North America,2000-02-08,25,160,73,Right,All-round,731,74,450,212,47.11,0,3,5,Active,28.9,220,58,444,Major,2024-12-31
+732,Nina Garcia 732,FEMALE,Nepal,Asia,1993-05-07,32,177,63,Right,Offensive,732,123,407,192,47.17,4,0,8,Active,42.1,248,61,2083,Minor,2024-12-31
+733,Mei Garcia 733,FEMALE,Chile,South America,1989-10-29,36,171,70,Right,Offensive,733,74,375,170,45.33,0,3,7,Retired,42.4,197,52,512,None,2024-12-31
+734,Nina Garcia 734,FEMALE,Nepal,Asia,1992-12-25,33,187,63,Left,Offensive,734,23,254,171,67.32,9,0,7,Active,41.0,191,60,1189,Minor,2024-12-31
+735,Mei Brown 735,FEMALE,Italy,Europe,1989-12-14,36,188,57,Left,Defensive,735,63,395,264,66.84,14,2,3,Retired,40.5,247,56,1193,Major,2024-12-31
+736,Mei Sharma 736,FEMALE,India,Asia,2004-10-06,21,166,53,Left,All-round,736,95,307,171,55.7,4,4,7,Active,32.6,204,80,2243,Major,2024-12-31
+737,Anita Petrov 737,FEMALE,South Africa,Africa,1998-04-08,27,186,46,Right,Defensive,737,90,334,137,41.02,0,1,12,Active,25.1,196,73,1449,Minor,2024-12-31
+738,Sofia Petrov 738,FEMALE,Indonesia,Asia,1990-08-25,35,178,71,Right,Offensive,738,145,350,226,64.57,2,0,9,Active,32.2,194,77,2276,Major,2024-12-31
+739,Anita Garcia 739,FEMALE,Nepal,Asia,2003-02-12,22,183,68,Left,All-round,739,116,333,160,48.05,0,4,8,Active,43.1,213,79,1059,None,2024-12-31
+740,Daniel Li 740,MALE,Argentina,South America,1994-02-27,31,190,48,Right,All-round,740,67,344,181,52.62,7,2,5,Active,29.1,297,50,1960,Minor,2024-12-31
+741,Victor Rossi 741,MALE,Thailand,Asia,1997-08-04,28,185,57,Left,Defensive,741,113,198,79,39.9,10,5,12,Active,39.9,226,52,2479,None,2024-12-31
+742,Arjun Brown 742,MALE,Germany,Europe,1998-06-08,27,190,71,Left,Offensive,742,38,415,219,52.77,0,5,12,Active,25.0,226,74,1743,Major,2024-12-31
+743,Daniel Lopez 743,MALE,Australia,Oceania,2000-08-25,25,159,79,Right,All-round,743,30,375,224,59.73,9,0,8,Active,29.0,199,58,1764,Major,2024-12-31
+744,Alex Brown 744,MALE,Argentina,South America,1991-03-19,34,174,78,Right,Defensive,744,142,230,85,36.96,15,3,9,Active,38.2,253,78,2065,None,2024-12-31
+745,Alex Silva 745,MALE,Nepal,Asia,1994-12-25,31,186,83,Left,Offensive,745,119,442,187,42.31,14,4,3,Active,42.6,267,74,1776,None,2024-12-31
+746,Nina Petrov 746,FEMALE,France,Europe,1997-11-02,28,151,73,Right,Offensive,746,141,151,66,43.71,1,1,4,Active,34.5,291,78,1174,Major,2024-12-31
+747,Nina Petrov 747,FEMALE,India,Asia,1991-05-14,34,175,75,Right,Defensive,747,3,129,57,44.19,7,0,6,Active,25.8,255,64,796,Major,2024-12-31
+748,Ivan Li 748,MALE,Argentina,South America,1997-10-22,28,178,66,Right,Defensive,748,56,135,61,45.19,5,2,8,Active,29.4,225,63,2365,Major,2024-12-31
+749,Alex Martin 749,MALE,USA,North America,1985-07-15,40,183,51,Left,Defensive,749,137,382,246,64.4,13,2,9,Retired,31.5,281,67,2195,None,2024-12-31
+750,Anita Brown 750,FEMALE,Chile,South America,2001-12-19,24,178,66,Right,Offensive,750,28,154,84,54.55,7,5,3,Active,27.0,232,49,1764,Major,2024-12-31
+751,Emma Silva 751,FEMALE,Italy,Europe,1992-05-25,33,167,82,Right,Offensive,751,41,267,182,68.16,12,3,4,Active,43.7,277,51,1368,None,2024-12-31
+752,Laura Rossi 752,FEMALE,South Africa,Africa,2003-10-15,22,178,83,Left,Defensive,752,147,93,68,73.12,0,3,12,Active,44.3,288,78,1335,Major,2024-12-31
+753,Marco Petrov 753,MALE,South Africa,Africa,1986-08-07,39,163,94,Right,Defensive,753,133,337,198,58.75,13,5,9,Retired,37.6,295,47,1864,Major,2024-12-31
+754,Emma Lopez 754,FEMALE,Egypt,Africa,1995-09-15,30,150,95,Right,All-round,754,73,469,232,49.47,13,3,10,Active,37.3,249,54,994,Major,2024-12-31
+755,Marco Li 755,MALE,Argentina,South America,2001-10-31,24,155,95,Right,Offensive,755,11,480,274,57.08,10,0,9,Active,27.1,217,58,1080,Minor,2024-12-31
+756,Sofia Sharma 756,FEMALE,Germany,Europe,2002-03-29,23,177,54,Right,All-round,756,17,409,205,50.12,2,3,12,Active,33.8,264,67,1938,None,2024-12-31
+757,Nina Rossi 757,FEMALE,New Zealand,Oceania,1992-01-31,33,182,54,Right,Offensive,757,94,287,201,70.03,15,2,11,Active,32.4,265,72,1152,None,2024-12-31
+758,Samuel Petrov 758,MALE,Spain,Europe,1998-07-09,27,185,80,Left,Offensive,758,98,330,145,43.94,9,5,11,Active,33.2,195,45,554,Major,2024-12-31
+759,Marco Garcia 759,MALE,South Africa,Africa,1995-11-22,30,194,95,Right,All-round,759,40,174,83,47.7,14,1,10,Active,31.3,253,68,587,Minor,2024-12-31
+760,Marco Sharma 760,MALE,India,Asia,2004-01-06,22,150,53,Right,Offensive,760,123,295,220,74.58,10,2,8,Active,29.9,260,47,1784,None,2024-12-31
+761,Emma Li 761,FEMALE,Chile,South America,2005-08-24,20,179,48,Left,Offensive,761,91,148,77,52.03,0,0,6,Active,32.9,295,63,484,Major,2024-12-31
+762,Sofia Li 762,FEMALE,Chile,South America,1993-09-26,32,194,59,Right,Offensive,762,141,423,236,55.79,4,0,10,Active,36.1,193,68,1642,Minor,2024-12-31
+763,Ivan Garcia 763,MALE,France,Europe,1985-06-14,40,162,67,Left,Defensive,763,103,387,155,40.05,7,5,11,Retired,39.0,252,78,2237,Major,2024-12-31
+764,Marco Garcia 764,MALE,India,Asia,1996-11-13,29,180,67,Right,Offensive,764,134,409,303,74.08,12,4,11,Active,22.8,253,71,543,Major,2024-12-31
+765,Laura Rossi 765,FEMALE,Nepal,Asia,1987-06-20,38,158,84,Left,All-round,765,124,382,165,43.19,10,5,7,Retired,41.6,293,58,1896,Major,2024-12-31
+766,Daniel Garcia 766,MALE,Indonesia,Asia,1992-05-19,33,190,82,Left,All-round,766,95,456,331,72.59,5,2,8,Active,24.8,190,74,2284,None,2024-12-31
+767,Emma Petrov 767,FEMALE,Indonesia,Asia,1996-12-08,29,151,75,Right,Offensive,767,49,165,114,69.09,8,3,5,Active,24.3,204,72,667,Major,2024-12-31
+768,Daniel Garcia 768,MALE,Thailand,Asia,1986-12-14,39,153,73,Left,Offensive,768,4,95,43,45.26,10,1,12,Retired,29.7,256,49,1423,Major,2024-12-31
+769,Daniel Garcia 769,MALE,Chile,South America,1987-05-23,38,186,46,Left,Defensive,769,78,134,51,38.06,3,1,5,Retired,23.0,226,80,1775,Major,2024-12-31
+770,Daniel Lopez 770,MALE,Germany,Europe,2003-07-03,22,153,88,Left,Offensive,770,111,163,76,46.63,1,4,9,Active,26.2,243,76,1847,None,2024-12-31
+771,Anita Garcia 771,FEMALE,Germany,Europe,1995-08-20,30,187,50,Right,All-round,771,95,262,193,73.66,1,3,3,Active,28.5,271,77,697,None,2024-12-31
+772,Mei Lopez 772,FEMALE,Italy,Europe,1992-06-09,33,170,45,Right,Defensive,772,15,407,259,63.64,3,1,6,Active,36.6,294,60,741,Minor,2024-12-31
+773,Nina Garcia 773,FEMALE,South Africa,Africa,1988-08-06,37,194,79,Left,Offensive,773,131,326,214,65.64,2,4,7,Retired,44.2,224,49,547,None,2024-12-31
+774,Daniel Garcia 774,MALE,Australia,Oceania,2002-01-05,24,155,91,Right,Offensive,774,12,212,121,57.08,15,4,4,Active,38.9,237,76,2004,None,2024-12-31
+775,Alex Singh 775,MALE,France,Europe,2004-11-05,21,190,81,Left,Offensive,775,53,401,206,51.37,7,4,8,Active,20.2,198,62,1283,Major,2024-12-31
+776,Wei Garcia 776,MALE,Canada,North America,2004-07-27,21,188,75,Right,All-round,776,89,269,166,61.71,11,0,8,Active,26.7,201,59,2374,Major,2024-12-31
+777,Ivan Martin 777,MALE,South Africa,Africa,1993-04-19,32,157,75,Left,All-round,777,85,252,103,40.87,6,4,8,Active,20.6,282,75,2095,None,2024-12-31
+778,Ivan Lopez 778,MALE,Canada,North America,2003-09-03,22,184,74,Left,All-round,778,63,246,137,55.69,2,1,7,Active,40.8,204,78,401,None,2024-12-31
+779,Anita Li 779,FEMALE,Indonesia,Asia,2005-06-02,20,185,49,Left,Offensive,779,18,119,67,56.3,7,1,3,Active,40.6,203,58,2356,None,2024-12-31
+780,Arjun Brown 780,MALE,Italy,Europe,1990-02-25,35,192,67,Right,Offensive,780,28,209,120,57.42,9,3,12,Active,42.3,296,45,690,Major,2024-12-31
+781,Daniel Singh 781,MALE,Italy,Europe,2006-10-04,19,169,70,Right,All-round,781,94,126,69,54.76,7,5,12,Active,24.9,214,66,2106,None,2024-12-31
+782,Samuel Singh 782,MALE,Chile,South America,1988-11-10,37,160,59,Left,All-round,782,150,221,83,37.56,15,1,5,Retired,21.3,271,75,492,Minor,2024-12-31
+783,Emma Lopez 783,FEMALE,Thailand,Asia,2000-08-19,25,170,54,Right,All-round,783,94,435,283,65.06,14,1,7,Active,26.8,292,45,596,Major,2024-12-31
+784,Samuel Petrov 784,MALE,Nepal,Asia,2000-05-24,25,171,70,Left,All-round,784,89,129,72,55.81,1,4,10,Active,43.3,278,55,2420,None,2024-12-31
+785,Alex Lopez 785,MALE,USA,North America,1994-06-23,31,193,81,Left,Offensive,785,92,235,154,65.53,6,1,3,Active,25.0,271,63,572,Minor,2024-12-31
+786,Arjun Brown 786,MALE,Indonesia,Asia,2002-10-01,23,186,74,Right,All-round,786,48,160,87,54.37,9,1,3,Active,43.9,227,67,614,None,2024-12-31
+787,Laura Rossi 787,FEMALE,India,Asia,1989-02-09,36,177,72,Left,Defensive,787,54,420,279,66.43,1,1,6,Retired,28.6,247,45,780,Major,2024-12-31
+788,Marco Petrov 788,MALE,Canada,North America,1993-05-23,32,180,73,Left,All-round,788,144,177,98,55.37,13,1,4,Active,44.7,224,58,2163,Major,2024-12-31
+789,Sofia Petrov 789,FEMALE,Germany,Europe,2004-06-05,21,193,83,Left,Offensive,789,81,138,61,44.2,2,3,4,Active,21.6,258,55,1502,Major,2024-12-31
+790,Emma Singh 790,FEMALE,South Africa,Africa,2001-01-05,25,175,69,Right,Defensive,790,110,255,164,64.31,10,0,5,Active,29.6,192,64,1618,None,2024-12-31
+791,Victor Martin 791,MALE,Nigeria,Africa,1992-11-21,33,190,64,Left,Defensive,791,11,174,79,45.4,14,4,9,Active,22.0,266,50,1915,None,2024-12-31
+792,Wei Petrov 792,MALE,Egypt,Africa,1993-06-23,32,173,47,Left,Offensive,792,96,97,51,52.58,13,2,7,Active,29.2,231,58,1035,None,2024-12-31
+793,Victor Li 793,MALE,Canada,North America,1987-10-04,38,193,46,Right,Offensive,793,120,390,157,40.26,15,0,7,Retired,21.3,192,79,860,Minor,2024-12-31
+794,Mei Silva 794,FEMALE,France,Europe,2000-06-10,25,167,54,Left,Defensive,794,97,310,129,41.61,5,2,3,Active,28.9,261,53,1127,Minor,2024-12-31
+795,Laura Brown 795,FEMALE,Thailand,Asia,1990-04-29,35,162,47,Right,Defensive,795,84,311,174,55.95,13,0,6,Active,20.1,282,50,1286,None,2024-12-31
+796,Ivan Singh 796,MALE,Egypt,Africa,1986-08-11,39,195,65,Left,Defensive,796,140,425,307,72.24,8,1,6,Retired,21.2,236,78,1433,None,2024-12-31
+797,Emma Li 797,FEMALE,Italy,Europe,1997-04-04,28,187,80,Right,Defensive,797,49,397,267,67.25,4,0,12,Active,39.0,195,64,1284,None,2024-12-31
+798,Mei Martin 798,FEMALE,South Africa,Africa,1998-07-19,27,161,93,Left,Defensive,798,100,105,36,34.29,3,4,6,Active,44.2,206,53,1956,None,2024-12-31
+799,Mei Lopez 799,FEMALE,USA,North America,1993-03-24,32,169,87,Left,Offensive,799,3,214,112,52.34,0,5,9,Active,37.7,258,70,2449,None,2024-12-31
+800,Daniel Petrov 800,MALE,Egypt,Africa,1998-06-19,27,189,56,Left,Defensive,800,47,473,262,55.39,5,0,5,Active,32.0,297,66,1459,Minor,2024-12-31
+801,Wei Li 801,MALE,Argentina,South America,1992-10-26,33,161,84,Right,All-round,801,139,215,155,72.09,12,2,4,Active,37.7,287,67,2054,None,2024-12-31
+802,Laura Lopez 802,FEMALE,Chile,South America,1996-01-14,30,194,46,Right,All-round,802,96,138,56,40.58,2,5,9,Active,34.4,212,66,2366,None,2024-12-31
+803,Marco Martin 803,MALE,Chile,South America,1989-02-25,36,169,88,Right,All-round,803,16,210,120,57.14,6,5,8,Retired,42.5,294,79,719,Minor,2024-12-31
+804,Anita Martin 804,FEMALE,Egypt,Africa,2000-05-03,25,160,55,Left,All-round,804,81,195,93,47.69,9,5,8,Active,26.4,236,52,1589,Minor,2024-12-31
+805,Anita Rossi 805,FEMALE,France,Europe,2002-04-03,23,174,78,Right,All-round,805,12,324,179,55.25,9,5,7,Active,29.3,212,60,940,None,2024-12-31
+806,Laura Singh 806,FEMALE,Indonesia,Asia,1998-12-28,27,183,58,Left,All-round,806,67,302,150,49.67,3,0,10,Active,34.2,266,75,1758,None,2024-12-31
+807,Marco Lopez 807,MALE,Italy,Europe,1992-03-06,33,162,56,Right,Defensive,807,54,391,292,74.68,0,4,3,Active,20.0,263,60,1104,Major,2024-12-31
+808,Nina Garcia 808,FEMALE,Chile,South America,1999-04-19,26,168,62,Left,Offensive,808,95,347,194,55.91,8,3,3,Active,28.1,280,56,2314,Major,2024-12-31
+809,Samuel Brown 809,MALE,Canada,North America,1998-04-23,27,157,64,Right,Defensive,809,113,181,117,64.64,11,3,3,Active,37.5,214,71,1631,None,2024-12-31
+810,Victor Singh 810,MALE,Italy,Europe,1985-03-21,40,173,60,Left,All-round,810,17,353,228,64.59,12,1,10,Retired,42.6,231,75,1269,Minor,2024-12-31
+811,Wei Rossi 811,MALE,USA,North America,1986-08-02,39,165,74,Left,Offensive,811,23,367,232,63.22,15,2,4,Retired,33.2,262,64,734,None,2024-12-31
+812,Nina Garcia 812,FEMALE,Nigeria,Africa,1999-04-18,26,179,50,Left,All-round,812,128,458,309,67.47,1,0,11,Active,24.1,232,62,1808,None,2024-12-31
+813,Emma Lopez 813,FEMALE,Indonesia,Asia,1992-10-01,33,193,48,Right,Offensive,813,103,257,92,35.8,9,3,10,Active,42.6,215,67,1136,None,2024-12-31
+814,Mei Brown 814,FEMALE,Argentina,South America,2006-11-24,19,157,45,Left,Defensive,814,61,408,194,47.55,4,0,12,Active,37.3,213,52,792,Major,2024-12-31
+815,Emma Martin 815,FEMALE,Indonesia,Asia,2001-04-07,24,151,59,Right,Offensive,815,128,207,143,69.08,6,5,8,Active,31.7,248,60,2382,None,2024-12-31
+816,Nina Brown 816,FEMALE,Chile,South America,1994-11-09,31,185,92,Left,Defensive,816,123,139,53,38.13,7,4,3,Active,21.3,298,49,1587,Minor,2024-12-31
+817,Emma Petrov 817,FEMALE,New Zealand,Oceania,1998-09-25,27,164,94,Left,Defensive,817,18,248,102,41.13,5,4,10,Active,38.0,237,47,1331,None,2024-12-31
+818,Sofia Rossi 818,FEMALE,Argentina,South America,1987-08-19,38,188,92,Left,All-round,818,117,138,70,50.72,2,5,7,Retired,30.2,203,49,1109,Minor,2024-12-31
+819,Samuel Rossi 819,MALE,France,Europe,1993-05-30,32,193,95,Left,All-round,819,7,409,295,72.13,14,5,12,Active,42.0,279,55,1445,None,2024-12-31
+820,Victor Li 820,MALE,France,Europe,1993-02-24,32,156,65,Left,Offensive,820,2,196,91,46.43,14,5,8,Active,38.5,191,78,1229,Major,2024-12-31
+821,Samuel Brown 821,MALE,Chile,South America,1990-10-06,35,186,82,Left,Offensive,821,147,401,300,74.81,14,3,8,Active,23.8,228,77,2341,Major,2024-12-31
+822,Wei Petrov 822,MALE,Indonesia,Asia,1985-07-30,40,150,80,Right,Offensive,822,19,325,136,41.85,14,2,11,Retired,25.5,252,53,1457,Minor,2024-12-31
+823,Laura Brown 823,FEMALE,Italy,Europe,1998-03-27,27,161,49,Right,Defensive,823,29,151,97,64.24,3,1,8,Active,30.3,198,66,1442,None,2024-12-31
+824,Nina Sharma 824,FEMALE,Canada,North America,2000-12-03,25,183,55,Left,All-round,824,33,101,53,52.48,5,4,8,Active,42.3,240,80,719,Minor,2024-12-31
+825,Samuel Petrov 825,MALE,New Zealand,Oceania,1990-12-03,35,175,71,Right,All-round,825,9,314,124,39.49,15,0,3,Active,41.5,272,62,1185,Major,2024-12-31
+826,Sofia Brown 826,FEMALE,Canada,North America,1997-08-30,28,174,68,Left,Defensive,826,66,311,141,45.34,15,0,5,Active,36.9,241,49,1275,Minor,2024-12-31
+827,Laura Brown 827,FEMALE,Chile,South America,1989-03-29,36,168,50,Right,Offensive,827,60,143,52,36.36,12,3,3,Retired,31.8,213,53,1416,Minor,2024-12-31
+828,Laura Petrov 828,FEMALE,Thailand,Asia,1986-04-13,39,194,52,Left,Offensive,828,131,138,100,72.46,15,3,12,Retired,40.4,235,79,734,Major,2024-12-31
+829,Anita Lopez 829,FEMALE,Spain,Europe,2005-12-18,20,162,85,Right,Offensive,829,112,498,181,36.35,11,5,10,Active,28.5,197,57,1468,Minor,2024-12-31
+830,Laura Garcia 830,FEMALE,Spain,Europe,2006-05-05,19,165,83,Right,All-round,830,125,448,289,64.51,6,3,8,Active,24.5,214,64,774,None,2024-12-31
+831,Alex Garcia 831,MALE,Egypt,Africa,1995-10-01,30,175,57,Right,All-round,831,23,231,153,66.23,8,1,11,Active,42.8,236,49,1596,Minor,2024-12-31
+832,Mei Sharma 832,FEMALE,South Africa,Africa,1998-09-28,27,191,90,Left,All-round,832,76,381,158,41.47,1,3,5,Active,23.6,245,78,1583,Major,2024-12-31
+833,Daniel Silva 833,MALE,Thailand,Asia,2003-07-03,22,174,67,Right,All-round,833,12,413,176,42.62,1,4,3,Active,38.2,246,46,1145,None,2024-12-31
+834,Emma Lopez 834,FEMALE,Thailand,Asia,2001-02-10,24,180,94,Right,Defensive,834,132,389,147,37.79,5,2,7,Active,39.5,247,80,2199,None,2024-12-31
+835,Ivan Li 835,MALE,Italy,Europe,2003-05-09,22,155,56,Left,Defensive,835,45,465,321,69.03,9,4,3,Active,44.9,253,72,567,Minor,2024-12-31
+836,Arjun Li 836,MALE,Argentina,South America,1989-03-27,36,175,61,Right,Defensive,836,77,483,302,62.53,15,0,11,Retired,40.4,259,76,1814,Major,2024-12-31
+837,Nina Singh 837,FEMALE,Argentina,South America,2001-01-27,24,154,62,Right,Defensive,837,150,154,72,46.75,14,4,4,Active,26.8,264,61,1832,Major,2024-12-31
+838,Daniel Sharma 838,MALE,Nepal,Asia,1985-06-27,40,151,57,Right,Defensive,838,36,422,241,57.11,12,2,7,Retired,42.7,217,72,1744,None,2024-12-31
+839,Arjun Garcia 839,MALE,Egypt,Africa,1996-08-19,29,194,54,Left,Offensive,839,85,273,138,50.55,10,3,6,Active,31.9,276,76,941,Major,2024-12-31
+840,Anita Petrov 840,FEMALE,South Africa,Africa,1991-01-02,35,158,77,Left,Defensive,840,62,136,65,47.79,5,4,5,Active,38.7,208,62,1652,None,2024-12-31
+841,Nina Petrov 841,FEMALE,Indonesia,Asia,1997-11-22,28,168,52,Left,Offensive,841,122,141,54,38.3,11,4,11,Active,22.8,203,59,924,Major,2024-12-31
+842,Ivan Singh 842,MALE,Spain,Europe,2006-07-01,19,155,53,Right,All-round,842,48,377,209,55.44,13,3,10,Active,36.8,209,63,1729,Major,2024-12-31
+843,Laura Singh 843,FEMALE,Thailand,Asia,1985-11-15,40,166,77,Right,Offensive,843,39,294,175,59.52,14,2,8,Retired,26.5,226,49,2314,None,2024-12-31
+844,Anita Garcia 844,FEMALE,Argentina,South America,2006-07-19,19,178,68,Left,All-round,844,56,170,120,70.59,3,3,4,Active,33.4,281,72,2169,None,2024-12-31
+845,Nina Petrov 845,FEMALE,India,Asia,1987-02-26,38,168,76,Left,Defensive,845,30,354,196,55.37,14,3,10,Retired,34.1,264,75,1549,Major,2024-12-31
+846,Emma Sharma 846,FEMALE,Argentina,South America,2002-11-26,23,162,47,Left,All-round,846,59,122,58,47.54,11,0,10,Active,40.0,202,50,1809,Minor,2024-12-31
+847,Anita Brown 847,FEMALE,Nepal,Asia,1996-03-19,29,173,56,Right,Offensive,847,15,234,117,50.0,2,3,12,Active,39.1,283,50,1150,Minor,2024-12-31
+848,Daniel Petrov 848,MALE,Chile,South America,1987-11-23,38,173,81,Left,Offensive,848,3,457,337,73.74,7,2,5,Retired,25.0,203,53,1255,None,2024-12-31
+849,Daniel Brown 849,MALE,South Africa,Africa,2001-06-30,24,157,61,Right,All-round,849,27,308,191,62.01,3,0,4,Active,31.1,275,48,2049,Major,2024-12-31
+850,Laura Lopez 850,FEMALE,Chile,South America,2001-12-15,24,192,87,Left,Defensive,850,120,261,147,56.32,2,2,3,Active,44.9,219,79,1089,Minor,2024-12-31
+851,Ivan Petrov 851,MALE,Argentina,South America,1988-09-01,37,170,59,Right,Offensive,851,54,262,119,45.42,8,3,4,Retired,36.6,246,46,697,None,2024-12-31
+852,Mei Lopez 852,FEMALE,Italy,Europe,2004-02-28,21,174,69,Left,All-round,852,77,173,100,57.8,13,4,10,Active,30.3,228,60,1233,Minor,2024-12-31
+853,Nina Lopez 853,FEMALE,Australia,Oceania,2006-02-16,19,152,54,Right,Defensive,853,147,402,233,57.96,14,1,10,Active,44.7,220,72,1868,Major,2024-12-31
+854,Victor Rossi 854,MALE,Spain,Europe,2006-11-09,19,162,56,Right,All-round,854,131,367,204,55.59,7,1,12,Active,24.6,247,69,2301,Major,2024-12-31
+855,Mei Sharma 855,FEMALE,Egypt,Africa,2006-01-15,20,164,68,Left,All-round,855,13,462,252,54.55,4,5,6,Active,44.9,227,71,950,Minor,2024-12-31
+856,Alex Li 856,MALE,Spain,Europe,1991-11-09,34,176,51,Left,Offensive,856,5,117,49,41.88,12,3,5,Active,36.3,250,66,1785,Major,2024-12-31
+857,Nina Petrov 857,FEMALE,Thailand,Asia,2001-06-10,24,186,94,Right,Offensive,857,136,183,69,37.7,12,4,8,Active,32.4,222,63,556,Major,2024-12-31
+858,Ivan Lopez 858,MALE,New Zealand,Oceania,1996-01-23,29,172,47,Right,All-round,858,118,293,155,52.9,3,4,4,Active,35.4,201,46,1456,Minor,2024-12-31
+859,Samuel Petrov 859,MALE,Australia,Oceania,1995-04-11,30,175,89,Right,All-round,859,121,409,187,45.72,1,4,10,Active,28.9,214,52,2190,None,2024-12-31
+860,Emma Garcia 860,FEMALE,New Zealand,Oceania,2002-02-04,23,182,78,Right,All-round,860,73,310,144,46.45,8,3,7,Active,26.6,236,58,1028,None,2024-12-31
+861,Emma Singh 861,FEMALE,France,Europe,1987-03-13,38,170,65,Left,Defensive,861,52,106,37,34.91,13,5,9,Retired,24.8,285,68,2149,Minor,2024-12-31
+862,Sofia Silva 862,FEMALE,Australia,Oceania,1987-10-19,38,194,82,Right,Defensive,862,133,217,145,66.82,4,4,6,Retired,34.0,285,74,987,Major,2024-12-31
+863,Wei Li 863,MALE,Egypt,Africa,1996-10-28,29,193,46,Right,Offensive,863,28,427,290,67.92,12,3,10,Active,20.7,195,53,2350,Minor,2024-12-31
+864,Mei Li 864,FEMALE,Nigeria,Africa,1995-04-26,30,166,57,Right,Offensive,864,106,274,186,67.88,5,1,11,Active,29.7,204,47,444,Minor,2024-12-31
+865,Emma Lopez 865,FEMALE,Nigeria,Africa,1999-11-13,26,195,53,Right,Defensive,865,51,122,55,45.08,13,3,11,Active,34.4,218,52,2373,None,2024-12-31
+866,Nina Silva 866,FEMALE,New Zealand,Oceania,2000-01-17,25,155,72,Right,Defensive,866,32,162,88,54.32,2,3,3,Active,33.9,289,57,2115,Minor,2024-12-31
+867,Victor Martin 867,MALE,Germany,Europe,1997-07-16,28,159,80,Right,Offensive,867,42,346,133,38.44,6,0,9,Active,33.6,256,51,1849,Minor,2024-12-31
+868,Nina Sharma 868,FEMALE,Thailand,Asia,1998-05-15,27,154,78,Left,Offensive,868,119,302,196,64.9,0,1,12,Active,28.8,257,56,1578,Major,2024-12-31
+869,Alex Singh 869,MALE,Germany,Europe,1999-09-19,26,181,80,Right,All-round,869,34,151,88,58.28,1,5,9,Active,29.7,267,52,1017,Major,2024-12-31
+870,Nina Li 870,FEMALE,Canada,North America,2002-07-30,23,157,52,Right,All-round,870,95,206,102,49.51,7,5,10,Active,41.6,218,46,541,Major,2024-12-31
+871,Ivan Martin 871,MALE,Argentina,South America,2000-09-06,25,152,56,Right,Offensive,871,136,149,75,50.34,3,5,12,Active,26.3,266,73,2157,Major,2024-12-31
+872,Victor Li 872,MALE,Chile,South America,1986-03-26,39,153,63,Left,Offensive,872,140,235,158,67.23,14,5,3,Retired,40.8,196,68,2112,None,2024-12-31
+873,Mei Singh 873,FEMALE,Thailand,Asia,2003-08-19,22,159,46,Right,Offensive,873,44,134,93,69.4,5,0,5,Active,43.4,215,45,2353,None,2024-12-31
+874,Sofia Rossi 874,FEMALE,France,Europe,1994-09-19,31,152,84,Left,Offensive,874,38,227,141,62.11,13,1,6,Active,24.9,243,72,614,None,2024-12-31
+875,Ivan Garcia 875,MALE,Australia,Oceania,1999-12-20,26,153,95,Left,Offensive,875,51,415,256,61.69,0,4,3,Active,33.5,257,76,1802,Minor,2024-12-31
+876,Marco Silva 876,MALE,New Zealand,Oceania,1988-08-26,37,169,91,Left,All-round,876,118,328,168,51.22,3,2,8,Retired,22.8,241,80,798,None,2024-12-31
+877,Arjun Silva 877,MALE,South Africa,Africa,1987-03-19,38,183,95,Right,Offensive,877,14,499,308,61.72,0,5,10,Retired,23.2,201,70,1823,Minor,2024-12-31
+878,Victor Silva 878,MALE,Nepal,Asia,1993-10-24,32,154,73,Left,Offensive,878,115,484,353,72.93,0,0,4,Active,24.2,215,51,1275,None,2024-12-31
+879,Samuel Li 879,MALE,Australia,Oceania,2004-09-02,21,150,95,Left,Offensive,879,30,484,264,54.55,7,3,11,Active,23.5,199,51,439,Minor,2024-12-31
+880,Laura Sharma 880,FEMALE,Thailand,Asia,1985-06-24,40,181,59,Right,All-round,880,100,270,126,46.67,12,0,3,Retired,25.9,291,61,864,Minor,2024-12-31
+881,Samuel Petrov 881,MALE,Egypt,Africa,2001-12-13,24,168,67,Right,All-round,881,100,259,157,60.62,4,0,6,Active,22.8,256,70,2090,Minor,2024-12-31
+882,Ivan Li 882,MALE,India,Asia,1985-03-03,40,151,95,Left,All-round,882,45,139,89,64.03,5,4,5,Retired,44.4,257,52,2327,Minor,2024-12-31
+883,Mei Singh 883,FEMALE,Thailand,Asia,2006-11-14,19,191,70,Left,Defensive,883,135,404,190,47.03,1,1,4,Active,31.8,271,53,1253,None,2024-12-31
+884,Laura Lopez 884,FEMALE,Italy,Europe,1987-08-09,38,181,65,Right,Defensive,884,8,268,167,62.31,5,3,7,Retired,21.4,243,72,467,Minor,2024-12-31
+885,Anita Lopez 885,FEMALE,Nigeria,Africa,1998-03-04,27,158,53,Right,Offensive,885,117,290,148,51.03,13,3,7,Active,26.7,290,75,1641,Minor,2024-12-31
+886,Alex Martin 886,MALE,Spain,Europe,1997-02-22,28,166,88,Right,All-round,886,55,179,81,45.25,3,4,4,Active,40.3,292,55,1624,None,2024-12-31
+887,Laura Martin 887,FEMALE,France,Europe,1992-08-21,33,166,52,Left,All-round,887,11,474,190,40.08,11,3,7,Active,39.0,280,69,621,Minor,2024-12-31
+888,Anita Silva 888,FEMALE,USA,North America,2003-10-15,22,162,48,Right,Offensive,888,31,196,81,41.33,1,5,12,Active,29.5,248,80,1688,None,2024-12-31
+889,Samuel Li 889,MALE,Thailand,Asia,1990-11-12,35,174,71,Right,Offensive,889,94,237,172,72.57,4,0,10,Active,30.0,252,53,1456,None,2024-12-31
+890,Arjun Martin 890,MALE,Italy,Europe,1990-01-23,35,178,78,Left,Defensive,890,62,382,208,54.45,7,5,12,Active,42.3,197,58,1056,Minor,2024-12-31
+891,Marco Silva 891,MALE,India,Asia,1992-05-27,33,159,86,Right,All-round,891,48,432,315,72.92,11,2,7,Active,28.4,230,80,1519,Major,2024-12-31
+892,Anita Sharma 892,FEMALE,Egypt,Africa,2003-10-05,22,157,54,Right,All-round,892,18,291,179,61.51,13,2,3,Active,29.6,223,49,2436,Minor,2024-12-31
+893,Anita Garcia 893,FEMALE,France,Europe,1995-03-23,30,165,65,Right,Defensive,893,129,90,64,71.11,5,0,6,Active,24.9,224,47,411,Minor,2024-12-31
+894,Ivan Singh 894,MALE,Australia,Oceania,1990-12-16,35,153,82,Left,All-round,894,56,413,195,47.22,3,2,8,Active,40.7,268,63,1855,None,2024-12-31
+895,Mei Rossi 895,FEMALE,New Zealand,Oceania,2001-03-05,24,168,52,Right,Offensive,895,114,498,314,63.05,11,1,12,Active,30.1,202,54,2071,None,2024-12-31
+896,Arjun Silva 896,MALE,Italy,Europe,1998-11-05,27,155,91,Left,All-round,896,81,238,170,71.43,12,5,3,Active,38.0,193,52,1971,None,2024-12-31
+897,Mei Li 897,FEMALE,Germany,Europe,2003-06-28,22,177,77,Right,All-round,897,122,242,113,46.69,7,5,10,Active,38.6,194,66,1777,Major,2024-12-31
+898,Arjun Rossi 898,MALE,South Africa,Africa,1990-01-02,36,151,73,Right,Offensive,898,125,234,168,71.79,0,2,8,Active,40.4,282,70,1739,None,2024-12-31
+899,Ivan Martin 899,MALE,New Zealand,Oceania,1998-05-20,27,150,51,Left,Defensive,899,28,142,85,59.86,5,1,3,Active,30.6,221,51,1720,Major,2024-12-31
+900,Samuel Lopez 900,MALE,Canada,North America,1992-04-24,33,177,70,Right,All-round,900,124,339,222,65.49,9,2,12,Active,33.5,278,45,752,Minor,2024-12-31
+901,Laura Garcia 901,FEMALE,Nigeria,Africa,2001-01-27,24,188,83,Left,All-round,901,124,91,51,56.04,3,0,12,Active,23.1,275,65,912,None,2024-12-31
+902,Daniel Li 902,MALE,Nepal,Asia,1986-02-13,39,169,58,Left,Offensive,902,45,86,30,34.88,14,1,9,Retired,41.2,277,54,2423,Major,2024-12-31
+903,Nina Li 903,FEMALE,France,Europe,1990-11-21,35,164,57,Right,Offensive,903,55,408,270,66.18,9,5,7,Active,33.6,255,77,2130,None,2024-12-31
+904,Daniel Martin 904,MALE,Germany,Europe,1985-08-16,40,157,92,Right,Offensive,904,87,279,153,54.84,1,4,6,Retired,21.7,295,61,1266,Minor,2024-12-31
+905,Ivan Brown 905,MALE,Germany,Europe,1998-05-26,27,178,59,Left,All-round,905,38,187,123,65.78,1,2,11,Active,21.0,210,48,1701,None,2024-12-31
+906,Arjun Martin 906,MALE,Nepal,Asia,2004-07-09,21,191,68,Left,All-round,906,46,121,76,62.81,1,3,6,Active,31.4,260,79,2473,None,2024-12-31
+907,Nina Brown 907,FEMALE,Nigeria,Africa,2005-11-30,20,162,47,Right,Offensive,907,1,423,312,73.76,0,5,4,Active,37.1,298,69,2011,Minor,2024-12-31
+908,Victor Li 908,MALE,Italy,Europe,2004-03-07,21,172,68,Left,All-round,908,26,309,219,70.87,7,5,10,Active,42.9,253,62,908,None,2024-12-31
+909,Anita Petrov 909,FEMALE,India,Asia,1999-08-23,26,172,80,Right,Defensive,909,31,85,43,50.59,4,0,8,Active,29.0,298,68,1249,None,2024-12-31
+910,Samuel Rossi 910,MALE,Indonesia,Asia,2003-05-07,22,164,89,Left,All-round,910,99,156,71,45.51,15,1,10,Active,42.2,259,68,2181,Minor,2024-12-31
+911,Arjun Singh 911,MALE,New Zealand,Oceania,2003-02-04,22,156,87,Right,Defensive,911,131,334,242,72.46,12,0,3,Active,28.7,271,54,1040,None,2024-12-31
+912,Laura Martin 912,FEMALE,Indonesia,Asia,1990-02-20,35,193,91,Left,Offensive,912,127,127,83,65.35,4,2,4,Active,35.5,226,48,499,Major,2024-12-31
+913,Alex Singh 913,MALE,Spain,Europe,2005-06-26,20,159,64,Left,All-round,913,150,397,207,52.14,8,0,4,Active,30.4,282,47,1760,Minor,2024-12-31
+914,Ivan Lopez 914,MALE,Australia,Oceania,1991-10-16,34,154,53,Right,All-round,914,143,353,129,36.54,2,0,4,Active,30.4,249,78,1589,Major,2024-12-31
+915,Alex Garcia 915,MALE,South Africa,Africa,1985-03-02,40,153,80,Left,All-round,915,100,403,183,45.41,4,1,8,Retired,44.1,196,71,666,Major,2024-12-31
+916,Victor Petrov 916,MALE,Thailand,Asia,2006-07-07,19,166,45,Right,All-round,916,68,414,310,74.88,14,3,7,Active,34.7,259,54,480,Minor,2024-12-31
+917,Sofia Silva 917,FEMALE,USA,North America,2004-10-23,21,191,49,Left,Offensive,917,15,352,138,39.2,15,4,12,Active,30.2,256,80,1016,None,2024-12-31
+918,Emma Rossi 918,FEMALE,USA,North America,2001-04-04,24,170,89,Left,Offensive,918,125,366,142,38.8,3,1,4,Active,28.5,194,66,1875,None,2024-12-31
+919,Nina Li 919,FEMALE,Egypt,Africa,1996-05-05,29,182,81,Left,Defensive,919,148,399,195,48.87,5,4,12,Active,34.2,227,58,1837,Minor,2024-12-31
+920,Laura Petrov 920,FEMALE,Canada,North America,1986-12-03,39,156,45,Right,Defensive,920,97,94,40,42.55,5,3,12,Retired,20.3,202,62,1146,Major,2024-12-31
+921,Samuel Silva 921,MALE,Italy,Europe,1986-08-18,39,184,75,Left,All-round,921,64,305,153,50.16,13,4,5,Retired,23.1,227,72,564,Minor,2024-12-31
+922,Alex Martin 922,MALE,India,Asia,1988-03-04,37,179,81,Left,All-round,922,130,405,248,61.23,7,0,6,Retired,40.5,255,45,2349,Minor,2024-12-31
+923,Nina Sharma 923,FEMALE,Canada,North America,2002-12-11,23,182,57,Right,Defensive,923,51,345,122,35.36,14,4,7,Active,20.9,216,65,2453,Major,2024-12-31
+924,Mei Singh 924,FEMALE,USA,North America,1993-02-22,32,176,63,Left,Offensive,924,10,105,74,70.48,4,4,12,Active,31.3,218,56,1153,Minor,2024-12-31
+925,Sofia Rossi 925,FEMALE,Argentina,South America,1995-06-09,30,182,65,Right,All-round,925,82,174,116,66.67,9,5,5,Active,33.8,300,55,2123,None,2024-12-31
+926,Arjun Singh 926,MALE,Germany,Europe,2004-02-22,21,178,90,Left,Offensive,926,103,468,200,42.74,13,5,10,Active,31.3,248,77,2110,None,2024-12-31
+927,Arjun Brown 927,MALE,Nepal,Asia,1985-05-15,40,166,72,Left,Offensive,927,80,145,105,72.41,7,5,6,Retired,32.9,249,48,820,Major,2024-12-31
+928,Sofia Martin 928,FEMALE,France,Europe,1994-08-05,31,187,75,Right,Offensive,928,16,149,80,53.69,3,4,12,Active,29.4,258,77,2183,None,2024-12-31
+929,Anita Brown 929,FEMALE,Spain,Europe,1986-07-11,39,191,57,Right,Defensive,929,54,411,264,64.23,15,4,7,Retired,21.9,246,78,1980,None,2024-12-31
+930,Ivan Petrov 930,MALE,Nepal,Asia,1993-05-25,32,182,89,Left,Offensive,930,86,229,99,43.23,12,3,4,Active,41.5,266,46,1426,Minor,2024-12-31
+931,Wei Lopez 931,MALE,South Africa,Africa,2001-05-03,24,173,73,Left,Defensive,931,38,220,103,46.82,0,0,5,Active,29.6,216,73,2278,Minor,2024-12-31
+932,Laura Sharma 932,FEMALE,New Zealand,Oceania,1987-08-15,38,185,74,Left,Defensive,932,20,487,268,55.03,9,1,5,Retired,43.6,251,47,708,Minor,2024-12-31
+933,Daniel Singh 933,MALE,Italy,Europe,1990-05-19,35,175,78,Left,Defensive,933,72,491,304,61.91,6,1,4,Active,45.0,230,52,1258,Major,2024-12-31
+934,Sofia Lopez 934,FEMALE,France,Europe,1999-07-20,26,193,77,Right,Defensive,934,107,237,115,48.52,8,5,4,Active,35.1,298,67,2244,Major,2024-12-31
+935,Anita Singh 935,FEMALE,Chile,South America,1986-01-14,40,166,59,Left,All-round,935,102,310,175,56.45,8,5,11,Retired,20.5,213,48,1592,Minor,2024-12-31
+936,Samuel Sharma 936,MALE,Nigeria,Africa,1986-09-13,39,191,47,Right,All-round,936,143,148,72,48.65,9,3,5,Retired,44.5,241,58,2244,Major,2024-12-31
+937,Wei Silva 937,MALE,Australia,Oceania,1994-09-20,31,153,63,Left,Offensive,937,68,176,66,37.5,14,4,10,Active,27.5,200,63,904,None,2024-12-31
+938,Wei Rossi 938,MALE,Thailand,Asia,1988-04-15,37,161,91,Left,Defensive,938,120,162,97,59.88,8,4,4,Retired,33.8,285,71,1843,Major,2024-12-31
+939,Ivan Singh 939,MALE,Germany,Europe,1995-01-04,31,150,85,Right,All-round,939,13,344,245,71.22,7,0,9,Active,24.3,218,68,976,None,2024-12-31
+940,Arjun Li 940,MALE,Egypt,Africa,1987-07-19,38,167,56,Left,Offensive,940,10,395,268,67.85,13,1,3,Retired,36.1,249,54,1101,Major,2024-12-31
+941,Marco Brown 941,MALE,France,Europe,1988-11-24,37,159,74,Left,Defensive,941,52,394,226,57.36,15,5,5,Retired,26.9,267,75,1327,None,2024-12-31
+942,Nina Garcia 942,FEMALE,Indonesia,Asia,1999-12-19,26,170,64,Left,All-round,942,97,102,38,37.25,14,4,8,Active,25.0,198,63,990,None,2024-12-31
+943,Laura Sharma 943,FEMALE,Italy,Europe,1995-02-15,30,168,64,Right,Offensive,943,67,407,188,46.19,15,2,8,Active,40.4,255,79,2148,Minor,2024-12-31
+944,Arjun Sharma 944,MALE,Spain,Europe,1993-05-14,32,182,91,Left,Defensive,944,40,272,118,43.38,2,1,12,Active,37.6,286,47,2011,Minor,2024-12-31
+945,Victor Li 945,MALE,Nigeria,Africa,1986-01-17,39,180,84,Right,All-round,945,32,489,268,54.81,2,4,11,Retired,28.8,298,47,1652,Major,2024-12-31
+946,Mei Rossi 946,FEMALE,Nepal,Asia,1989-04-01,36,195,81,Right,Defensive,946,95,127,85,66.93,15,0,11,Retired,25.9,237,77,906,Major,2024-12-31
+947,Mei Rossi 947,FEMALE,Nepal,Asia,1994-06-12,31,189,56,Right,All-round,947,2,494,253,51.21,0,1,9,Active,43.0,258,47,1720,Minor,2024-12-31
+948,Mei Lopez 948,FEMALE,Italy,Europe,1996-09-13,29,163,58,Left,Offensive,948,128,229,170,74.24,1,3,10,Active,36.3,256,51,1206,Minor,2024-12-31
+949,Anita Singh 949,FEMALE,Chile,South America,1992-12-31,33,157,83,Right,Offensive,949,96,120,64,53.33,3,1,8,Active,41.9,204,62,1920,Minor,2024-12-31
+950,Ivan Lopez 950,MALE,Nigeria,Africa,2004-11-04,21,162,45,Right,Defensive,950,15,351,160,45.58,2,4,4,Active,27.7,200,53,447,None,2024-12-31
+951,Nina Li 951,FEMALE,Spain,Europe,1988-02-01,37,157,66,Left,Defensive,951,148,164,75,45.73,9,0,8,Retired,24.4,273,57,1170,None,2024-12-31
+952,Laura Brown 952,FEMALE,Spain,Europe,1994-04-06,31,168,91,Right,Defensive,952,49,354,148,41.81,6,3,3,Active,20.1,278,60,1686,Minor,2024-12-31
+953,Sofia Lopez 953,FEMALE,Indonesia,Asia,1987-05-21,38,169,62,Right,Defensive,953,143,474,219,46.2,12,2,10,Retired,30.6,224,50,1118,None,2024-12-31
+954,Samuel Brown 954,MALE,Indonesia,Asia,1999-05-09,26,190,79,Right,Offensive,954,42,252,152,60.32,7,2,4,Active,42.4,295,59,959,None,2024-12-31
+955,Victor Singh 955,MALE,USA,North America,1985-07-03,40,155,87,Left,Defensive,955,72,341,217,63.64,2,2,8,Retired,39.4,233,77,1667,Minor,2024-12-31
+956,Victor Sharma 956,MALE,Egypt,Africa,1997-10-12,28,159,79,Left,Offensive,956,55,465,280,60.22,1,5,6,Active,33.6,256,69,2274,Minor,2024-12-31
+957,Nina Martin 957,FEMALE,Thailand,Asia,1992-04-10,33,158,55,Left,All-round,957,93,317,113,35.65,1,3,8,Active,34.6,252,61,1373,Major,2024-12-31
+958,Emma Li 958,FEMALE,Chile,South America,1999-12-16,26,165,75,Left,Defensive,958,14,388,248,63.92,9,4,5,Active,30.4,260,58,2297,Major,2024-12-31
+959,Samuel Silva 959,MALE,Nigeria,Africa,2001-03-13,24,180,89,Left,Defensive,959,4,177,108,61.02,7,5,10,Active,32.8,268,46,1032,Minor,2024-12-31
+960,Mei Lopez 960,FEMALE,Egypt,Africa,2004-12-04,21,180,77,Left,Defensive,960,79,490,339,69.18,2,1,12,Active,28.5,236,56,742,None,2024-12-31
+961,Victor Silva 961,MALE,India,Asia,2002-05-21,23,182,56,Right,All-round,961,45,382,143,37.43,10,1,7,Active,41.5,197,51,492,Minor,2024-12-31
+962,Anita Sharma 962,FEMALE,Italy,Europe,1994-04-02,31,172,61,Left,Defensive,962,101,114,56,49.12,11,2,12,Active,29.4,192,45,2007,Major,2024-12-31
+963,Samuel Lopez 963,MALE,Canada,North America,1998-03-16,27,169,70,Left,Offensive,963,59,170,115,67.65,10,2,7,Active,44.1,264,61,2341,Major,2024-12-31
+964,Marco Sharma 964,MALE,Nepal,Asia,1998-11-22,27,166,72,Left,All-round,964,109,81,50,61.73,7,1,12,Active,39.2,257,62,997,None,2024-12-31
+965,Samuel Petrov 965,MALE,New Zealand,Oceania,1990-12-17,35,175,50,Left,All-round,965,39,223,124,55.61,14,2,3,Active,42.6,218,54,1262,None,2024-12-31
+966,Ivan Garcia 966,MALE,Italy,Europe,2002-09-08,23,178,54,Right,Offensive,966,96,479,217,45.3,14,4,9,Active,22.3,196,59,1900,Minor,2024-12-31
+967,Laura Martin 967,FEMALE,Germany,Europe,2005-02-01,20,174,69,Right,Offensive,967,86,459,264,57.52,10,3,4,Active,21.0,274,60,1456,Major,2024-12-31
+968,Mei Sharma 968,FEMALE,Argentina,South America,2000-01-14,26,162,76,Left,Offensive,968,42,127,57,44.88,6,5,11,Active,37.2,220,72,1162,Minor,2024-12-31
+969,Samuel Silva 969,MALE,Nigeria,Africa,1994-09-25,31,158,93,Left,All-round,969,2,438,237,54.11,7,2,5,Active,27.4,231,59,2269,None,2024-12-31
+970,Marco Singh 970,MALE,Germany,Europe,1992-05-19,33,194,85,Right,Offensive,970,145,234,148,63.25,9,1,5,Active,24.0,276,64,1895,None,2024-12-31
+971,Wei Rossi 971,MALE,Nepal,Asia,1991-09-26,34,174,61,Left,All-round,971,115,175,126,72.0,2,3,10,Active,21.4,227,69,1519,Major,2024-12-31
+972,Mei Sharma 972,FEMALE,Australia,Oceania,1998-02-11,27,176,55,Left,All-round,972,104,446,169,37.89,10,0,6,Active,32.2,191,45,1361,Major,2024-12-31
+973,Victor Silva 973,MALE,Nigeria,Africa,2001-07-10,24,194,88,Left,Offensive,973,47,454,177,38.99,15,0,7,Active,31.5,207,80,1109,None,2024-12-31
+974,Emma Martin 974,FEMALE,New Zealand,Oceania,2003-08-15,22,174,52,Right,Defensive,974,16,117,81,69.23,6,5,4,Active,37.3,200,67,913,Major,2024-12-31
+975,Wei Rossi 975,MALE,Germany,Europe,1995-09-03,30,165,73,Right,All-round,975,121,439,215,48.97,14,5,9,Active,38.9,235,67,524,Major,2024-12-31
+976,Wei Martin 976,MALE,Germany,Europe,1996-06-15,29,154,88,Left,Defensive,976,130,312,130,41.67,8,5,3,Active,24.0,245,77,2183,Minor,2024-12-31
+977,Victor Brown 977,MALE,USA,North America,1992-05-29,33,153,61,Right,Defensive,977,93,176,117,66.48,0,5,8,Active,32.9,283,57,2147,Major,2024-12-31
+978,Anita Lopez 978,FEMALE,India,Asia,2001-06-25,24,182,72,Left,All-round,978,135,279,175,62.72,10,4,5,Active,20.8,214,77,722,Major,2024-12-31
+979,Wei Rossi 979,MALE,Canada,North America,1985-12-12,40,163,62,Right,Defensive,979,9,379,149,39.31,1,4,5,Retired,28.7,217,55,1430,None,2024-12-31
+980,Alex Petrov 980,MALE,Nepal,Asia,1990-07-01,35,171,50,Left,Offensive,980,143,313,224,71.57,13,4,11,Active,41.4,256,60,738,Major,2024-12-31
+981,Nina Rossi 981,FEMALE,France,Europe,2002-09-03,23,153,53,Left,All-round,981,16,148,96,64.86,12,3,4,Active,37.8,277,49,2348,None,2024-12-31
+982,Daniel Silva 982,MALE,Nepal,Asia,1985-10-30,40,159,69,Left,Offensive,982,29,249,181,72.69,5,2,4,Retired,23.0,216,70,2247,Major,2024-12-31
+983,Emma Lopez 983,FEMALE,Nepal,Asia,1997-01-05,29,157,94,Right,Defensive,983,1,287,131,45.64,5,2,11,Active,35.9,226,48,2019,Major,2024-12-31
+984,Alex Garcia 984,MALE,Italy,Europe,1993-12-07,32,183,85,Right,Offensive,984,110,317,114,35.96,5,5,8,Active,36.6,232,80,1691,Minor,2024-12-31
+985,Wei Brown 985,MALE,USA,North America,1992-07-28,33,174,71,Right,All-round,985,54,86,46,53.49,12,2,12,Active,25.1,300,51,1723,None,2024-12-31
+986,Victor Silva 986,MALE,Thailand,Asia,2000-11-19,25,195,93,Right,All-round,986,135,182,83,45.6,2,1,8,Active,44.4,193,60,643,Major,2024-12-31
+987,Arjun Rossi 987,MALE,Australia,Oceania,2003-11-16,22,151,57,Right,Defensive,987,141,368,166,45.11,12,4,3,Active,44.6,200,66,2179,None,2024-12-31
+988,Nina Petrov 988,FEMALE,Nepal,Asia,2002-08-19,23,161,60,Right,All-round,988,74,179,124,69.27,9,2,9,Active,22.2,256,59,979,Major,2024-12-31
+989,Anita Rossi 989,FEMALE,Germany,Europe,1997-12-31,28,182,82,Right,Defensive,989,113,150,70,46.67,6,4,11,Active,44.0,299,51,1364,Minor,2024-12-31
+990,Arjun Sharma 990,MALE,South Africa,Africa,2006-03-10,19,186,69,Right,Offensive,990,3,124,60,48.39,4,3,4,Active,24.5,298,60,896,None,2024-12-31
+991,Victor Li 991,MALE,Indonesia,Asia,1992-01-31,33,164,67,Left,Offensive,991,33,167,114,68.26,0,0,10,Active,25.7,291,62,604,None,2024-12-31
+992,Sofia Li 992,FEMALE,New Zealand,Oceania,1994-11-22,31,191,57,Left,Offensive,992,109,249,127,51.0,4,1,5,Active,25.9,253,57,1878,Major,2024-12-31
+993,Alex Li 993,MALE,France,Europe,2006-03-17,19,176,73,Right,Offensive,993,25,444,280,63.06,8,1,5,Active,21.5,208,54,2191,None,2024-12-31
+994,Mei Lopez 994,FEMALE,Canada,North America,2001-02-16,24,150,53,Right,Offensive,994,96,467,337,72.16,7,1,12,Active,40.0,252,54,722,None,2024-12-31
+995,Ivan Lopez 995,MALE,India,Asia,1988-04-16,37,167,79,Right,Defensive,995,122,218,95,43.58,7,1,10,Retired,32.3,244,58,1598,Major,2024-12-31
+996,Laura Rossi 996,FEMALE,Australia,Oceania,1992-04-06,33,152,68,Right,Offensive,996,19,321,177,55.14,6,0,8,Active,20.1,196,72,2362,Major,2024-12-31
+997,Anita Rossi 997,FEMALE,Italy,Europe,1997-06-23,28,155,87,Right,All-round,997,125,238,157,65.97,9,3,4,Active,43.1,243,79,2309,None,2024-12-31
+998,Samuel Singh 998,MALE,Chile,South America,1991-02-02,34,161,65,Left,Defensive,998,124,337,132,39.17,5,4,10,Active,20.7,221,78,2304,Major,2024-12-31
+999,Ivan Silva 999,MALE,Argentina,South America,1986-07-07,39,173,87,Right,Defensive,999,75,406,297,73.15,9,1,11,Retired,20.5,274,79,2107,Major,2024-12-31
+1000,Wei Sharma 1000,MALE,Indonesia,Asia,1989-06-12,36,167,53,Right,Offensive,1000,83,385,263,68.31,12,0,6,Retired,43.7,248,62,1274,None,2024-12-31
+1001,Mei Li 1001,FEMALE,France,Europe,2002-05-12,23,167,87,Right,All-round,1001,150,442,186,42.08,9,2,3,Active,34.2,285,59,2038,Major,2024-12-31
+1002,Emma Sharma 1002,FEMALE,France,Europe,2006-12-24,19,177,58,Left,Offensive,1002,101,114,53,46.49,13,1,8,Active,42.9,256,70,507,Major,2024-12-31
+1003,Laura Brown 1003,FEMALE,Chile,South America,1998-08-27,27,179,54,Right,Offensive,1003,137,244,134,54.92,9,2,9,Active,44.1,222,65,1468,Minor,2024-12-31
+1004,Samuel Lopez 1004,MALE,Nepal,Asia,2000-10-22,25,190,81,Right,Offensive,1004,80,147,105,71.43,10,5,11,Active,37.0,192,58,1453,Major,2024-12-31
+1005,Mei Lopez 1005,FEMALE,Thailand,Asia,1989-08-29,36,181,48,Left,All-round,1005,149,238,148,62.18,7,1,4,Retired,41.5,237,79,1809,Major,2024-12-31
+1006,Arjun Silva 1006,MALE,Thailand,Asia,2006-07-08,19,160,94,Left,Defensive,1006,50,444,307,69.14,0,4,6,Active,42.1,191,64,1673,Minor,2024-12-31
+1007,Mei Lopez 1007,FEMALE,New Zealand,Oceania,1994-05-24,31,187,50,Left,Defensive,1007,131,189,82,43.39,5,3,12,Active,27.4,236,52,499,Major,2024-12-31
+1008,Nina Garcia 1008,FEMALE,New Zealand,Oceania,2000-08-28,25,165,91,Left,Offensive,1008,59,174,98,56.32,1,2,12,Active,39.9,276,60,2284,Minor,2024-12-31
+1009,Daniel Petrov 1009,MALE,Egypt,Africa,1996-02-29,29,151,85,Left,All-round,1009,54,183,77,42.08,10,5,7,Active,33.8,208,53,2135,None,2024-12-31
+1010,Samuel Petrov 1010,MALE,Egypt,Africa,2001-03-14,24,157,70,Right,Defensive,1010,53,161,120,74.53,13,3,11,Active,32.4,265,72,2013,None,2024-12-31
+1011,Marco Singh 1011,MALE,Chile,South America,1998-02-18,27,166,87,Right,All-round,1011,97,178,131,73.6,5,3,7,Active,44.4,243,70,2469,Major,2024-12-31
+1012,Anita Martin 1012,FEMALE,Nepal,Asia,2002-05-17,23,180,57,Right,Defensive,1012,113,241,124,51.45,7,4,4,Active,42.3,297,59,1337,Minor,2024-12-31
+1013,Sofia Sharma 1013,FEMALE,Egypt,Africa,1996-11-28,29,158,47,Left,Defensive,1013,130,446,239,53.59,5,0,12,Active,43.7,196,57,486,Major,2024-12-31
+1014,Marco Garcia 1014,MALE,France,Europe,1987-05-24,38,184,79,Right,All-round,1014,44,110,59,53.64,8,2,11,Retired,20.6,214,58,550,Minor,2024-12-31
+1015,Samuel Silva 1015,MALE,Canada,North America,1991-01-18,34,151,85,Right,Offensive,1015,138,296,146,49.32,11,0,11,Active,21.8,227,52,1906,Major,2024-12-31
+1016,Emma Lopez 1016,FEMALE,South Africa,Africa,1996-05-16,29,179,90,Left,Defensive,1016,68,438,265,60.5,8,4,7,Active,29.7,272,74,2132,Major,2024-12-31
+1017,Laura Garcia 1017,FEMALE,Egypt,Africa,1990-01-30,35,190,78,Left,Offensive,1017,133,160,64,40.0,1,2,12,Active,27.6,223,61,683,Minor,2024-12-31
+1018,Alex Martin 1018,MALE,New Zealand,Oceania,2002-09-03,23,186,86,Left,All-round,1018,51,331,184,55.59,1,2,7,Active,43.2,233,52,1700,None,2024-12-31
+1019,Mei Singh 1019,FEMALE,Chile,South America,2005-09-13,20,171,61,Right,Offensive,1019,65,385,158,41.04,13,2,9,Active,28.3,262,55,1163,Minor,2024-12-31
+1020,Emma Li 1020,FEMALE,New Zealand,Oceania,2004-04-06,21,154,87,Left,All-round,1020,45,461,329,71.37,8,4,12,Active,35.7,251,66,1213,None,2024-12-31
+1021,Wei Singh 1021,MALE,Argentina,South America,1986-08-31,39,160,45,Right,All-round,1021,82,467,307,65.74,9,1,5,Retired,33.5,234,50,1406,None,2024-12-31
+1022,Nina Brown 1022,FEMALE,New Zealand,Oceania,1986-11-04,39,180,65,Right,All-round,1022,9,168,61,36.31,3,1,10,Retired,35.3,201,74,917,Minor,2024-12-31
+1023,Wei Silva 1023,MALE,Canada,North America,1997-05-04,28,183,93,Right,Defensive,1023,55,357,164,45.94,2,5,9,Active,24.7,282,46,2445,None,2024-12-31
+1024,Marco Garcia 1024,MALE,India,Asia,1994-05-30,31,180,52,Left,Offensive,1024,148,239,106,44.35,0,1,5,Active,27.1,208,63,2362,Major,2024-12-31
+1025,Sofia Sharma 1025,FEMALE,France,Europe,1985-07-14,40,176,63,Left,Offensive,1025,132,164,116,70.73,7,4,5,Retired,26.8,255,58,1688,None,2024-12-31
+1026,Emma Martin 1026,FEMALE,Chile,South America,1985-05-16,40,183,66,Right,Defensive,1026,66,394,191,48.48,5,1,12,Retired,38.8,262,51,1506,Major,2024-12-31
+1027,Ivan Martin 1027,MALE,Australia,Oceania,1990-06-07,35,195,62,Right,Offensive,1027,124,478,179,37.45,11,4,4,Active,30.0,283,63,2226,None,2024-12-31
+1028,Victor Lopez 1028,MALE,Chile,South America,2001-07-20,24,154,45,Left,Offensive,1028,91,235,104,44.26,9,0,8,Active,31.5,279,53,1181,None,2024-12-31
+1029,Marco Brown 1029,MALE,Australia,Oceania,2002-10-10,23,175,46,Right,Offensive,1029,98,167,123,73.65,11,2,8,Active,44.1,237,76,811,Major,2024-12-31
+1030,Mei Garcia 1030,FEMALE,South Africa,Africa,1992-05-27,33,167,65,Left,All-round,1030,125,326,199,61.04,9,5,10,Active,31.3,288,53,1245,None,2024-12-31
+1031,Laura Brown 1031,FEMALE,Chile,South America,2005-07-04,20,174,45,Left,All-round,1031,146,255,136,53.33,4,2,12,Active,29.7,266,69,1557,Minor,2024-12-31
+1032,Emma Martin 1032,FEMALE,Nepal,Asia,1985-03-04,40,153,89,Left,Defensive,1032,47,199,98,49.25,0,4,7,Retired,38.0,265,48,1271,Major,2024-12-31
+1033,Sofia Sharma 1033,FEMALE,Indonesia,Asia,2004-10-08,21,193,80,Left,Offensive,1033,85,121,52,42.98,10,1,11,Active,27.3,276,60,505,None,2024-12-31
+1034,Sofia Garcia 1034,FEMALE,Thailand,Asia,2002-01-18,23,159,76,Left,Offensive,1034,54,213,85,39.91,7,1,6,Active,28.8,239,65,821,Minor,2024-12-31
+1035,Nina Brown 1035,FEMALE,Canada,North America,1985-12-14,40,151,58,Left,Defensive,1035,101,378,143,37.83,9,0,4,Retired,36.4,193,52,667,None,2024-12-31
+1036,Daniel Lopez 1036,MALE,Canada,North America,1987-01-11,39,170,72,Right,Defensive,1036,58,260,93,35.77,14,1,6,Retired,34.3,232,47,2109,Major,2024-12-31
+1037,Marco Garcia 1037,MALE,South Africa,Africa,1987-05-29,38,191,56,Right,Offensive,1037,106,245,134,54.69,7,2,5,Retired,24.5,200,69,1807,Minor,2024-12-31
+1038,Arjun Singh 1038,MALE,Nepal,Asia,2001-08-20,24,182,72,Right,Offensive,1038,148,102,58,56.86,6,2,3,Active,32.7,219,55,2264,Minor,2024-12-31
+1039,Anita Rossi 1039,FEMALE,Italy,Europe,1988-06-13,37,182,73,Left,Defensive,1039,61,98,71,72.45,7,4,10,Retired,25.7,255,70,776,Major,2024-12-31
+1040,Nina Rossi 1040,FEMALE,Canada,North America,1995-11-27,30,159,83,Right,All-round,1040,65,302,113,37.42,10,5,8,Active,25.4,261,49,1960,Minor,2024-12-31
+1041,Sofia Rossi 1041,FEMALE,India,Asia,1988-01-24,37,189,55,Right,Offensive,1041,130,170,118,69.41,7,2,4,Retired,37.7,222,67,1976,Minor,2024-12-31
+1042,Sofia Brown 1042,FEMALE,Nepal,Asia,2005-09-04,20,183,82,Left,Offensive,1042,52,489,237,48.47,3,4,11,Active,40.8,275,62,1043,Major,2024-12-31
+1043,Wei Silva 1043,MALE,Italy,Europe,1996-05-02,29,185,71,Right,All-round,1043,117,345,234,67.83,13,4,10,Active,23.2,215,73,1856,None,2024-12-31
+1044,Wei Petrov 1044,MALE,Nigeria,Africa,1999-08-03,26,182,60,Left,All-round,1044,121,137,53,38.69,10,1,5,Active,43.7,241,47,2393,Major,2024-12-31
+1045,Wei Lopez 1045,MALE,USA,North America,1990-05-09,35,187,77,Right,Defensive,1045,120,217,86,39.63,6,4,6,Active,44.4,191,64,2388,Minor,2024-12-31
+1046,Arjun Petrov 1046,MALE,Nepal,Asia,2005-07-12,20,154,47,Left,All-round,1046,120,132,71,53.79,8,4,3,Active,28.1,221,57,2400,Major,2024-12-31
+1047,Wei Rossi 1047,MALE,India,Asia,1999-11-06,26,180,86,Left,Defensive,1047,37,319,182,57.05,6,3,12,Active,20.9,239,79,2095,Minor,2024-12-31
+1048,Mei Martin 1048,FEMALE,Nepal,Asia,2000-01-23,25,189,81,Left,Defensive,1048,74,157,108,68.79,6,1,7,Active,44.9,246,59,2262,None,2024-12-31
+1049,Alex Silva 1049,MALE,Nigeria,Africa,1995-03-20,30,176,85,Left,Defensive,1049,27,172,111,64.53,14,4,9,Active,44.9,242,56,1507,Major,2024-12-31
+1050,Arjun Sharma 1050,MALE,Canada,North America,1993-08-06,32,189,57,Left,All-round,1050,127,418,241,57.66,2,5,4,Active,38.1,298,51,767,None,2024-12-31
+1051,Laura Brown 1051,FEMALE,Spain,Europe,1999-06-24,26,165,59,Right,Defensive,1051,35,122,65,53.28,13,5,10,Active,28.3,240,63,502,Minor,2024-12-31
+1052,Samuel Brown 1052,MALE,Australia,Oceania,1988-08-26,37,186,66,Left,Defensive,1052,7,368,199,54.08,5,5,6,Retired,42.2,246,54,1156,Minor,2024-12-31
+1053,Samuel Petrov 1053,MALE,South Africa,Africa,1985-12-28,40,175,85,Right,Defensive,1053,73,238,163,68.49,4,4,12,Retired,21.5,280,64,822,Minor,2024-12-31
+1054,Arjun Silva 1054,MALE,New Zealand,Oceania,2000-01-19,25,157,89,Right,All-round,1054,128,253,187,73.91,10,1,7,Active,26.6,280,65,2079,Major,2024-12-31
+1055,Victor Garcia 1055,MALE,Egypt,Africa,1997-10-07,28,165,72,Left,All-round,1055,31,278,120,43.17,7,3,3,Active,44.6,275,62,2401,Major,2024-12-31
+1056,Samuel Sharma 1056,MALE,France,Europe,2003-09-20,22,190,81,Right,Defensive,1056,84,417,295,70.74,14,1,7,Active,20.6,190,77,402,None,2024-12-31
+1057,Alex Sharma 1057,MALE,Thailand,Asia,1988-05-15,37,167,47,Left,Defensive,1057,54,231,122,52.81,9,1,11,Retired,34.5,235,54,1031,Major,2024-12-31
+1058,Mei Brown 1058,FEMALE,Egypt,Africa,1997-12-02,28,182,72,Left,Defensive,1058,131,396,291,73.48,14,4,11,Active,36.2,277,58,1188,None,2024-12-31
+1059,Arjun Garcia 1059,MALE,Egypt,Africa,1992-11-16,33,151,82,Left,Offensive,1059,32,414,163,39.37,9,4,6,Active,40.4,219,51,831,None,2024-12-31
+1060,Emma Silva 1060,FEMALE,Chile,South America,2005-05-11,20,163,84,Left,All-round,1060,58,358,128,35.75,4,5,5,Active,41.9,210,48,1863,Minor,2024-12-31
+1061,Alex Sharma 1061,MALE,Nepal,Asia,1999-06-30,26,191,55,Right,Offensive,1061,49,489,285,58.28,15,4,5,Active,43.6,211,46,2144,None,2024-12-31
+1062,Sofia Silva 1062,FEMALE,Italy,Europe,1998-06-30,27,181,58,Right,Offensive,1062,133,444,306,68.92,4,4,10,Active,35.6,201,53,525,Minor,2024-12-31
+1063,Victor Lopez 1063,MALE,France,Europe,2005-01-24,20,152,68,Left,Offensive,1063,50,420,172,40.95,12,0,4,Active,26.3,291,60,2160,None,2024-12-31
+1064,Alex Li 1064,MALE,India,Asia,1989-07-20,36,156,91,Left,Offensive,1064,8,100,51,51.0,9,1,7,Retired,20.6,219,76,918,None,2024-12-31
+1065,Laura Sharma 1065,FEMALE,South Africa,Africa,2003-12-23,22,157,60,Left,All-round,1065,128,127,72,56.69,1,2,3,Active,25.4,197,56,885,Major,2024-12-31
+1066,Ivan Lopez 1066,MALE,Indonesia,Asia,1990-10-06,35,155,53,Right,Defensive,1066,76,157,80,50.96,15,0,7,Active,25.6,255,54,2385,None,2024-12-31
+1067,Anita Li 1067,FEMALE,Italy,Europe,1994-01-12,32,153,57,Right,Offensive,1067,4,283,211,74.56,1,5,5,Active,37.4,285,73,1827,None,2024-12-31
+1068,Arjun Li 1068,MALE,Spain,Europe,1996-08-26,29,156,93,Right,Defensive,1068,99,351,173,49.29,11,4,6,Active,24.3,250,64,522,Major,2024-12-31
+1069,Ivan Garcia 1069,MALE,Canada,North America,1997-01-11,29,158,74,Right,Offensive,1069,120,220,125,56.82,13,4,8,Active,33.1,276,63,2269,None,2024-12-31
+1070,Ivan Silva 1070,MALE,USA,North America,2004-09-28,21,187,55,Left,Offensive,1070,58,463,193,41.68,10,5,7,Active,28.3,231,47,2009,Major,2024-12-31
+1071,Laura Brown 1071,FEMALE,Nepal,Asia,1996-09-27,29,193,63,Left,Defensive,1071,81,359,269,74.93,8,1,6,Active,21.5,256,59,883,None,2024-12-31
+1072,Mei Petrov 1072,FEMALE,Thailand,Asia,1990-10-07,35,192,78,Right,All-round,1072,82,119,51,42.86,2,3,5,Active,28.8,288,72,1357,None,2024-12-31
+1073,Emma Garcia 1073,FEMALE,Italy,Europe,1988-12-02,37,159,85,Right,Defensive,1073,68,91,40,43.96,7,3,4,Retired,45.0,246,64,608,Major,2024-12-31
+1074,Anita Martin 1074,FEMALE,Nigeria,Africa,2001-04-15,24,189,61,Right,All-round,1074,45,495,219,44.24,0,4,3,Active,44.3,299,59,1706,None,2024-12-31
+1075,Mei Martin 1075,FEMALE,Spain,Europe,2001-09-13,24,175,63,Right,Defensive,1075,80,374,142,37.97,2,3,9,Active,44.3,289,79,1295,None,2024-12-31
+1076,Anita Martin 1076,FEMALE,Germany,Europe,1989-04-18,36,178,63,Right,Defensive,1076,10,268,166,61.94,14,2,6,Retired,24.9,222,70,782,Minor,2024-12-31
+1077,Mei Silva 1077,FEMALE,South Africa,Africa,1989-07-30,36,175,88,Left,Defensive,1077,26,232,160,68.97,2,3,10,Retired,36.5,230,71,2418,Minor,2024-12-31
+1078,Nina Singh 1078,FEMALE,Spain,Europe,1997-09-16,28,190,75,Left,Defensive,1078,59,461,287,62.26,4,0,7,Active,34.5,195,62,2213,None,2024-12-31
+1079,Nina Martin 1079,FEMALE,New Zealand,Oceania,2004-07-13,21,151,53,Right,All-round,1079,43,443,323,72.91,15,3,5,Active,33.1,285,74,1694,None,2024-12-31
+1080,Emma Silva 1080,FEMALE,Nepal,Asia,1998-05-17,27,163,53,Left,Defensive,1080,108,417,150,35.97,14,4,4,Active,36.6,262,71,2094,None,2024-12-31
+1081,Emma Sharma 1081,FEMALE,Canada,North America,1991-06-22,34,195,53,Right,Offensive,1081,50,214,136,63.55,11,4,5,Active,26.3,246,71,1918,Major,2024-12-31
+1082,Arjun Petrov 1082,MALE,Canada,North America,2006-02-10,19,195,59,Left,Offensive,1082,145,487,214,43.94,0,1,8,Active,26.4,231,67,2273,Major,2024-12-31
+1083,Wei Li 1083,MALE,Australia,Oceania,1986-06-02,39,171,76,Left,Defensive,1083,114,202,146,72.28,11,0,12,Retired,26.5,229,56,1599,None,2024-12-31
+1084,Emma Rossi 1084,FEMALE,Canada,North America,1987-04-13,38,152,87,Left,All-round,1084,109,276,202,73.19,14,5,8,Retired,22.1,269,79,2388,Major,2024-12-31
+1085,Emma Garcia 1085,FEMALE,New Zealand,Oceania,2003-06-25,22,173,46,Left,All-round,1085,68,167,92,55.09,4,4,5,Active,30.3,240,54,1442,None,2024-12-31
+1086,Ivan Singh 1086,MALE,Nepal,Asia,1996-02-07,29,161,61,Left,Offensive,1086,143,316,129,40.82,4,2,7,Active,44.7,283,51,601,Major,2024-12-31
+1087,Laura Sharma 1087,FEMALE,Australia,Oceania,2003-09-19,22,177,50,Right,Defensive,1087,61,477,322,67.51,15,5,9,Active,28.8,215,48,557,Minor,2024-12-31
+1088,Anita Silva 1088,FEMALE,Nepal,Asia,1996-01-22,29,153,82,Right,Offensive,1088,136,272,151,55.51,5,4,11,Active,28.9,242,52,634,Minor,2024-12-31
+1089,Daniel Lopez 1089,MALE,France,Europe,1999-04-14,26,187,75,Left,All-round,1089,89,494,228,46.15,6,1,12,Active,22.0,197,53,2241,Minor,2024-12-31
+1090,Alex Brown 1090,MALE,India,Asia,1990-12-24,35,160,62,Left,Offensive,1090,99,272,157,57.72,3,5,11,Active,44.9,197,45,606,Minor,2024-12-31
+1091,Arjun Singh 1091,MALE,Thailand,Asia,2001-12-12,24,169,73,Left,All-round,1091,7,279,135,48.39,10,4,9,Active,30.3,240,66,1684,Minor,2024-12-31
+1092,Daniel Sharma 1092,MALE,France,Europe,1996-09-06,29,183,75,Left,Offensive,1092,2,82,40,48.78,15,3,7,Active,44.2,261,52,2192,None,2024-12-31
+1093,Samuel Sharma 1093,MALE,Spain,Europe,1991-05-29,34,161,61,Right,Defensive,1093,88,331,129,38.97,2,2,6,Active,26.7,200,66,781,None,2024-12-31
+1094,Nina Li 1094,FEMALE,India,Asia,1986-07-28,39,188,92,Right,Defensive,1094,149,241,120,49.79,11,1,12,Retired,26.7,285,53,1509,Major,2024-12-31
+1095,Daniel Li 1095,MALE,Argentina,South America,2000-05-07,25,189,66,Left,All-round,1095,39,139,93,66.91,4,0,10,Active,22.6,275,48,1184,Minor,2024-12-31
+1096,Sofia Silva 1096,FEMALE,USA,North America,1999-08-10,26,193,56,Left,All-round,1096,85,347,135,38.9,2,5,4,Active,30.3,293,50,1931,Minor,2024-12-31
+1097,Arjun Singh 1097,MALE,New Zealand,Oceania,2006-12-09,19,174,88,Left,All-round,1097,119,314,217,69.11,5,4,7,Active,40.7,233,60,958,None,2024-12-31
+1098,Anita Li 1098,FEMALE,South Africa,Africa,2001-08-13,24,186,78,Right,Offensive,1098,120,268,118,44.03,9,1,4,Active,22.9,190,55,2433,None,2024-12-31
+1099,Daniel Brown 1099,MALE,Nepal,Asia,1996-01-25,29,157,67,Right,Offensive,1099,73,382,190,49.74,9,5,12,Active,27.7,261,63,1389,Major,2024-12-31
+1100,Mei Singh 1100,FEMALE,India,Asia,2001-10-07,24,164,81,Right,Defensive,1100,124,284,150,52.82,8,2,8,Active,44.9,255,55,1778,Minor,2024-12-31
+1101,Ivan Silva 1101,MALE,India,Asia,2002-06-14,23,154,47,Left,All-round,1101,30,90,45,50.0,4,1,3,Active,29.5,256,74,1177,Major,2024-12-31
+1102,Anita Singh 1102,FEMALE,Nigeria,Africa,2003-04-18,22,171,83,Right,Offensive,1102,93,401,155,38.65,6,4,4,Active,23.3,295,57,799,Minor,2024-12-31
+1103,Sofia Lopez 1103,FEMALE,Germany,Europe,1989-10-03,36,180,64,Left,Defensive,1103,39,303,211,69.64,15,5,9,Retired,33.1,258,72,1900,None,2024-12-31
+1104,Alex Brown 1104,MALE,Germany,Europe,1992-06-12,33,194,75,Left,All-round,1104,1,244,159,65.16,11,4,6,Active,40.3,267,49,1475,None,2024-12-31
+1105,Laura Silva 1105,FEMALE,Germany,Europe,1994-08-27,31,194,86,Left,Defensive,1105,45,387,275,71.06,6,2,7,Active,32.5,240,56,1755,Minor,2024-12-31
+1106,Victor Brown 1106,MALE,Argentina,South America,1992-06-08,33,171,94,Left,Offensive,1106,89,276,146,52.9,8,4,8,Active,40.2,218,78,926,Minor,2024-12-31
+1107,Nina Li 1107,FEMALE,Chile,South America,1991-08-26,34,153,45,Right,All-round,1107,35,356,239,67.13,1,0,3,Active,34.4,281,71,2357,None,2024-12-31
+1108,Daniel Lopez 1108,MALE,Indonesia,Asia,1990-04-13,35,168,67,Left,All-round,1108,8,87,65,74.71,8,1,9,Active,36.2,236,49,617,Major,2024-12-31
+1109,Emma Singh 1109,FEMALE,South Africa,Africa,2000-01-05,26,186,92,Right,Defensive,1109,65,278,107,38.49,14,4,10,Active,38.7,210,77,1224,Major,2024-12-31
+1110,Sofia Li 1110,FEMALE,France,Europe,1993-01-29,32,185,69,Left,Defensive,1110,115,363,163,44.9,15,5,7,Active,20.9,248,61,670,Minor,2024-12-31
+1111,Sofia Garcia 1111,FEMALE,Chile,South America,1992-10-21,33,188,70,Left,Offensive,1111,58,165,61,36.97,1,4,6,Active,37.9,300,77,1851,Major,2024-12-31
+1112,Laura Rossi 1112,FEMALE,USA,North America,2002-03-26,23,169,45,Left,Offensive,1112,112,120,77,64.17,12,3,6,Active,29.4,300,46,1199,Minor,2024-12-31
+1113,Mei Sharma 1113,FEMALE,India,Asia,2002-05-08,23,170,51,Left,Offensive,1113,2,301,199,66.11,1,4,11,Active,32.3,205,63,1042,Minor,2024-12-31
+1114,Arjun Martin 1114,MALE,Thailand,Asia,1986-11-27,39,195,87,Left,Offensive,1114,34,472,276,58.47,15,2,5,Retired,40.9,224,69,1974,None,2024-12-31
+1115,Nina Singh 1115,FEMALE,USA,North America,1985-12-08,40,179,80,Right,All-round,1115,128,202,88,43.56,10,3,5,Retired,29.5,242,54,992,Major,2024-12-31
+1116,Arjun Rossi 1116,MALE,Argentina,South America,1988-03-01,37,160,51,Left,All-round,1116,14,159,106,66.67,5,4,9,Retired,29.9,275,56,2251,Major,2024-12-31
+1117,Ivan Singh 1117,MALE,South Africa,Africa,1996-04-27,29,187,74,Right,Offensive,1117,13,192,67,34.9,2,4,9,Active,29.9,270,61,868,Major,2024-12-31
+1118,Wei Petrov 1118,MALE,Spain,Europe,1999-09-30,26,187,64,Right,Defensive,1118,60,207,122,58.94,12,1,8,Active,25.1,278,74,1192,Minor,2024-12-31
+1119,Ivan Silva 1119,MALE,France,Europe,1998-02-24,27,172,80,Left,All-round,1119,90,305,196,64.26,5,3,11,Active,40.3,208,78,402,Minor,2024-12-31
+1120,Ivan Rossi 1120,MALE,Nigeria,Africa,1997-06-29,28,181,91,Right,All-round,1120,89,500,183,36.6,0,0,6,Active,38.5,230,61,2182,None,2024-12-31
+1121,Marco Li 1121,MALE,Spain,Europe,2001-03-13,24,168,78,Right,All-round,1121,141,289,198,68.51,4,5,12,Active,35.6,254,65,1614,Major,2024-12-31
+1122,Marco Li 1122,MALE,Australia,Oceania,1989-04-28,36,186,83,Right,Offensive,1122,45,285,154,54.04,11,4,9,Retired,24.7,273,80,1356,None,2024-12-31
+1123,Wei Martin 1123,MALE,USA,North America,2004-11-01,21,180,75,Right,Offensive,1123,2,429,220,51.28,9,0,3,Active,38.1,251,80,1535,Major,2024-12-31
+1124,Wei Lopez 1124,MALE,Canada,North America,1999-09-30,26,189,54,Left,Defensive,1124,22,388,261,67.27,5,3,7,Active,38.9,193,52,2179,None,2024-12-31
+1125,Victor Silva 1125,MALE,Australia,Oceania,2005-07-10,20,178,78,Left,Defensive,1125,93,301,152,50.5,7,2,4,Active,38.6,203,71,2077,Minor,2024-12-31
+1126,Victor Sharma 1126,MALE,Argentina,South America,1997-01-24,28,167,59,Left,All-round,1126,16,440,247,56.14,6,5,11,Active,35.6,263,66,440,Major,2024-12-31
+1127,Sofia Silva 1127,FEMALE,Nepal,Asia,1992-02-15,33,172,63,Right,Defensive,1127,105,223,134,60.09,4,2,6,Active,21.2,240,65,2170,Major,2024-12-31
+1128,Emma Rossi 1128,FEMALE,Egypt,Africa,1987-07-05,38,188,79,Right,Offensive,1128,129,473,310,65.54,15,0,4,Retired,40.5,300,66,1774,Major,2024-12-31
+1129,Samuel Li 1129,MALE,India,Asia,2002-01-28,23,163,91,Left,Offensive,1129,91,133,81,60.9,9,4,9,Active,37.9,194,68,637,Minor,2024-12-31
+1130,Victor Garcia 1130,MALE,Thailand,Asia,1992-07-06,33,165,80,Right,All-round,1130,69,369,188,50.95,8,3,3,Active,28.6,291,48,2235,Major,2024-12-31
+1131,Anita Silva 1131,FEMALE,Argentina,South America,1986-07-04,39,175,68,Left,All-round,1131,128,344,163,47.38,14,1,5,Retired,35.4,283,49,2035,Minor,2024-12-31
+1132,Marco Silva 1132,MALE,Nepal,Asia,1995-03-28,30,153,71,Left,Offensive,1132,103,213,83,38.97,15,2,6,Active,40.6,209,45,1120,Major,2024-12-31
+1133,Samuel Sharma 1133,MALE,South Africa,Africa,1987-11-04,38,158,57,Right,Defensive,1133,3,314,202,64.33,9,3,9,Retired,41.9,243,62,826,Minor,2024-12-31
+1134,Mei Brown 1134,FEMALE,Germany,Europe,1992-10-22,33,175,72,Right,Offensive,1134,132,317,227,71.61,6,1,4,Active,35.0,255,70,1773,None,2024-12-31
+1135,Anita Lopez 1135,FEMALE,Chile,South America,2003-11-13,22,185,45,Right,Offensive,1135,131,436,256,58.72,7,2,4,Active,35.0,261,49,1112,Major,2024-12-31
+1136,Anita Singh 1136,FEMALE,Indonesia,Asia,1997-10-09,28,179,88,Left,Defensive,1136,121,264,192,72.73,9,2,4,Active,45.0,267,46,2251,Major,2024-12-31
+1137,Daniel Sharma 1137,MALE,USA,North America,1996-08-22,29,181,67,Right,Defensive,1137,129,297,117,39.39,15,2,11,Active,42.8,207,67,1244,Major,2024-12-31
+1138,Ivan Martin 1138,MALE,Chile,South America,1990-12-24,35,187,53,Left,Defensive,1138,102,429,235,54.78,5,4,5,Active,40.7,284,77,1480,None,2024-12-31
+1139,Arjun Garcia 1139,MALE,Australia,Oceania,1989-05-23,36,172,75,Right,Defensive,1139,97,270,97,35.93,10,2,11,Retired,37.7,191,56,2457,Major,2024-12-31
+1140,Mei Li 1140,FEMALE,Canada,North America,1987-07-27,38,158,93,Right,All-round,1140,37,100,71,71.0,14,0,10,Retired,26.8,206,54,1703,Major,2024-12-31
+1141,Mei Sharma 1141,FEMALE,Chile,South America,1990-09-30,35,154,49,Left,Defensive,1141,65,229,151,65.94,2,1,9,Active,44.6,263,75,1709,None,2024-12-31
+1142,Daniel Sharma 1142,MALE,Indonesia,Asia,1995-02-15,30,161,51,Right,Offensive,1142,90,378,179,47.35,12,5,12,Active,24.8,221,59,1956,None,2024-12-31
+1143,Daniel Sharma 1143,MALE,Argentina,South America,2000-11-10,25,178,87,Left,Defensive,1143,57,92,46,50.0,9,3,5,Active,42.4,289,70,1655,Major,2024-12-31
+1144,Sofia Petrov 1144,FEMALE,Egypt,Africa,1995-06-22,30,192,50,Left,Offensive,1144,91,310,134,43.23,13,3,10,Active,35.7,284,77,1305,Minor,2024-12-31
+1145,Sofia Li 1145,FEMALE,Argentina,South America,1995-10-06,30,177,77,Right,All-round,1145,115,250,120,48.0,15,5,5,Active,35.4,211,54,1497,Major,2024-12-31
+1146,Mei Garcia 1146,FEMALE,USA,North America,1985-10-01,40,158,79,Left,All-round,1146,62,297,133,44.78,14,5,7,Retired,43.3,193,50,1715,Major,2024-12-31
+1147,Laura Brown 1147,FEMALE,Italy,Europe,2001-02-14,24,178,89,Left,Defensive,1147,85,142,105,73.94,13,2,7,Active,29.9,217,59,442,Major,2024-12-31
+1148,Wei Brown 1148,MALE,Egypt,Africa,1989-02-22,36,173,52,Left,All-round,1148,86,210,147,70.0,7,2,11,Retired,23.8,223,76,719,Minor,2024-12-31
+1149,Samuel Lopez 1149,MALE,New Zealand,Oceania,2002-07-24,23,184,78,Right,All-round,1149,16,213,140,65.73,1,3,3,Active,23.5,289,63,2325,Minor,2024-12-31
+1150,Samuel Martin 1150,MALE,Australia,Oceania,1999-02-07,26,175,73,Right,Defensive,1150,30,92,33,35.87,10,3,4,Active,24.9,295,47,1886,Major,2024-12-31
+1151,Nina Brown 1151,FEMALE,Australia,Oceania,1996-05-24,29,156,66,Right,Defensive,1151,120,413,193,46.73,13,4,4,Active,42.3,281,47,866,None,2024-12-31
+1152,Marco Silva 1152,MALE,Italy,Europe,2004-10-22,21,192,64,Left,Defensive,1152,62,274,162,59.12,10,1,12,Active,27.1,270,47,1243,Major,2024-12-31
+1153,Ivan Petrov 1153,MALE,South Africa,Africa,1998-01-30,27,173,74,Right,Defensive,1153,106,234,146,62.39,4,4,6,Active,26.5,277,60,724,None,2024-12-31
+1154,Samuel Garcia 1154,MALE,Australia,Oceania,1985-10-25,40,153,83,Left,Offensive,1154,5,157,84,53.5,0,5,4,Retired,25.0,201,47,646,Minor,2024-12-31
+1155,Alex Li 1155,MALE,Nepal,Asia,1999-02-18,26,164,54,Right,Offensive,1155,105,115,51,44.35,4,2,9,Active,28.2,259,78,1137,None,2024-12-31
+1156,Samuel Brown 1156,MALE,USA,North America,1986-07-08,39,173,85,Left,All-round,1156,69,89,53,59.55,1,5,8,Retired,27.4,213,74,659,None,2024-12-31
+1157,Nina Martin 1157,FEMALE,Canada,North America,1998-07-28,27,192,67,Left,Offensive,1157,46,143,51,35.66,3,2,12,Active,29.8,255,65,2164,Minor,2024-12-31
+1158,Ivan Lopez 1158,MALE,Chile,South America,2000-07-02,25,191,75,Right,Defensive,1158,91,336,246,73.21,12,2,11,Active,37.3,287,63,1098,Minor,2024-12-31
+1159,Emma Li 1159,FEMALE,Indonesia,Asia,2000-10-21,25,160,64,Left,Defensive,1159,53,200,77,38.5,3,3,8,Active,33.1,217,56,2089,Minor,2024-12-31
+1160,Alex Petrov 1160,MALE,Argentina,South America,2004-04-04,21,184,64,Right,All-round,1160,149,236,127,53.81,13,0,9,Active,36.8,274,73,1914,None,2024-12-31
+1161,Laura Garcia 1161,FEMALE,South Africa,Africa,1985-01-28,40,164,86,Right,All-round,1161,118,217,155,71.43,8,4,7,Retired,31.4,269,70,476,Minor,2024-12-31
+1162,Anita Brown 1162,FEMALE,South Africa,Africa,1994-03-05,31,152,86,Right,All-round,1162,108,208,79,37.98,3,5,7,Active,32.1,293,74,2243,Minor,2024-12-31
+1163,Victor Singh 1163,MALE,South Africa,Africa,2001-06-04,24,190,65,Right,All-round,1163,139,500,299,59.8,6,4,10,Active,27.3,197,45,2088,None,2024-12-31
+1164,Victor Singh 1164,MALE,Australia,Oceania,1987-03-24,38,176,45,Left,Defensive,1164,9,84,63,75.0,2,1,5,Retired,29.8,288,56,1675,None,2024-12-31
+1165,Nina Singh 1165,FEMALE,Nepal,Asia,1986-05-23,39,160,46,Left,Defensive,1165,84,196,140,71.43,13,4,11,Retired,22.6,293,56,783,None,2024-12-31
+1166,Sofia Petrov 1166,FEMALE,Argentina,South America,1993-04-28,32,164,87,Right,Offensive,1166,37,452,325,71.9,15,2,3,Active,33.3,203,57,1558,None,2024-12-31
+1167,Anita Garcia 1167,FEMALE,Italy,Europe,2001-10-07,24,193,89,Left,Defensive,1167,36,409,293,71.64,4,3,6,Active,44.5,232,50,1034,Minor,2024-12-31
+1168,Arjun Martin 1168,MALE,USA,North America,1991-04-25,34,163,46,Right,Defensive,1168,33,308,148,48.05,6,1,3,Active,43.0,235,62,902,None,2024-12-31
+1169,Arjun Martin 1169,MALE,Canada,North America,1986-11-05,39,192,50,Right,Offensive,1169,116,310,109,35.16,12,4,9,Retired,23.6,211,63,740,Major,2024-12-31
+1170,Sofia Petrov 1170,FEMALE,Indonesia,Asia,2006-10-30,19,187,50,Right,Defensive,1170,6,99,73,73.74,3,1,7,Active,41.4,263,54,1915,None,2024-12-31
+1171,Arjun Garcia 1171,MALE,Thailand,Asia,1994-05-23,31,191,53,Left,Offensive,1171,23,186,137,73.66,13,5,7,Active,40.7,253,47,1258,None,2024-12-31
+1172,Victor Singh 1172,MALE,USA,North America,1987-09-04,38,164,81,Right,Defensive,1172,13,383,273,71.28,11,2,12,Retired,40.5,283,45,1136,None,2024-12-31
+1173,Wei Petrov 1173,MALE,Indonesia,Asia,1987-07-31,38,189,56,Left,Offensive,1173,66,90,56,62.22,4,3,9,Retired,29.4,271,73,1147,Major,2024-12-31
+1174,Mei Martin 1174,FEMALE,Nepal,Asia,2005-11-14,20,185,64,Right,All-round,1174,13,460,182,39.57,15,3,3,Active,27.2,266,45,1330,Major,2024-12-31
+1175,Anita Lopez 1175,FEMALE,Egypt,Africa,2005-05-19,20,166,90,Left,All-round,1175,92,473,259,54.76,0,5,7,Active,38.8,193,72,1897,Major,2024-12-31
+1176,Ivan Silva 1176,MALE,Nigeria,Africa,1996-02-02,29,177,68,Right,All-round,1176,68,272,99,36.4,1,2,5,Active,37.3,204,65,957,Minor,2024-12-31
+1177,Nina Martin 1177,FEMALE,Italy,Europe,2006-05-15,19,188,72,Right,All-round,1177,122,90,55,61.11,4,5,8,Active,24.0,266,71,2102,None,2024-12-31
+1178,Arjun Li 1178,MALE,Nigeria,Africa,1996-03-07,29,170,50,Left,All-round,1178,58,428,243,56.78,12,5,10,Active,20.2,244,67,1751,None,2024-12-31
+1179,Sofia Lopez 1179,FEMALE,India,Asia,2004-03-21,21,183,54,Right,Defensive,1179,150,265,107,40.38,13,1,11,Active,31.3,262,75,1426,None,2024-12-31
+1180,Arjun Martin 1180,MALE,South Africa,Africa,2001-11-22,24,169,91,Right,Defensive,1180,36,343,227,66.18,10,0,4,Active,21.5,232,57,2284,None,2024-12-31
+1181,Sofia Sharma 1181,FEMALE,Canada,North America,1989-08-27,36,170,69,Left,All-round,1181,99,136,94,69.12,1,4,12,Retired,42.8,218,80,2491,Major,2024-12-31
+1182,Alex Martin 1182,MALE,Thailand,Asia,1985-04-28,40,194,78,Right,Defensive,1182,3,272,193,70.96,1,5,8,Retired,40.3,198,52,1699,None,2024-12-31
+1183,Nina Garcia 1183,FEMALE,Italy,Europe,1996-10-13,29,186,70,Left,Defensive,1183,33,360,198,55.0,10,5,8,Active,21.0,280,46,413,Major,2024-12-31
+1184,Laura Sharma 1184,FEMALE,India,Asia,1993-07-03,32,194,49,Right,Offensive,1184,66,135,50,37.04,0,4,4,Active,23.0,274,71,846,None,2024-12-31
+1185,Victor Brown 1185,MALE,Argentina,South America,2001-09-11,24,186,62,Right,Offensive,1185,52,197,77,39.09,14,5,4,Active,42.4,284,64,1283,Minor,2024-12-31
+1186,Laura Silva 1186,FEMALE,USA,North America,1993-06-26,32,193,71,Right,Defensive,1186,80,127,85,66.93,6,2,10,Active,21.5,193,55,1448,Major,2024-12-31
+1187,Emma Sharma 1187,FEMALE,India,Asia,2004-07-01,21,175,56,Right,All-round,1187,119,200,121,60.5,6,5,12,Active,41.2,190,57,1305,Minor,2024-12-31
+1188,Nina Silva 1188,FEMALE,South Africa,Africa,1994-07-16,31,185,90,Left,Offensive,1188,84,302,159,52.65,15,4,4,Active,35.4,208,66,1326,Major,2024-12-31
+1189,Emma Li 1189,FEMALE,Germany,Europe,1992-02-10,33,179,90,Left,Defensive,1189,57,137,92,67.15,15,5,12,Active,42.0,234,47,1315,Major,2024-12-31
+1190,Victor Li 1190,MALE,Indonesia,Asia,1996-06-21,29,190,71,Left,All-round,1190,74,160,69,43.12,12,4,6,Active,24.1,253,76,2468,Minor,2024-12-31
+1191,Alex Petrov 1191,MALE,Egypt,Africa,1987-01-31,38,186,86,Right,Defensive,1191,72,97,41,42.27,14,2,4,Retired,31.8,222,45,715,None,2024-12-31
+1192,Daniel Rossi 1192,MALE,Argentina,South America,1997-10-04,28,154,68,Right,Offensive,1192,137,143,61,42.66,3,2,11,Active,25.0,191,56,2196,Major,2024-12-31
+1193,Alex Rossi 1193,MALE,Thailand,Asia,2001-10-05,24,159,82,Left,Defensive,1193,39,475,198,41.68,13,2,4,Active,41.2,249,56,1385,Major,2024-12-31
+1194,Ivan Garcia 1194,MALE,Egypt,Africa,1998-05-03,27,180,93,Right,All-round,1194,63,456,269,58.99,3,5,9,Active,27.2,289,61,1178,None,2024-12-31
+1195,Nina Petrov 1195,FEMALE,Indonesia,Asia,1989-03-13,36,156,75,Right,All-round,1195,37,189,91,48.15,14,5,7,Retired,29.3,203,79,1972,Major,2024-12-31
+1196,Anita Garcia 1196,FEMALE,Argentina,South America,1994-08-07,31,183,90,Left,All-round,1196,102,83,42,50.6,2,0,6,Active,31.4,282,47,745,Major,2024-12-31
+1197,Victor Garcia 1197,MALE,Nigeria,Africa,1989-12-02,36,172,87,Left,All-round,1197,72,278,124,44.6,12,3,12,Retired,32.0,198,69,1151,Major,2024-12-31
+1198,Daniel Martin 1198,MALE,Indonesia,Asia,2003-12-28,22,159,76,Right,All-round,1198,20,401,288,71.82,15,4,3,Active,24.5,213,67,1600,Major,2024-12-31
+1199,Emma Sharma 1199,FEMALE,Australia,Oceania,1987-07-09,38,163,61,Left,Offensive,1199,110,135,48,35.56,14,0,7,Retired,38.4,269,66,1758,None,2024-12-31
+1200,Laura Martin 1200,FEMALE,Spain,Europe,1990-10-12,35,158,62,Left,All-round,1200,108,483,344,71.22,0,5,4,Active,30.2,242,79,2357,None,2024-12-31

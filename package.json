@@ -1,0 +1,35 @@
+{
+  "name": "table-tennis-analytics",
+  "version": "1.0.0",
+  "description": "Professional table tennis analytics dashboard with interactive charts and AI insights",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "papaparse": "^5.5.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "recharts": "^2.8.0",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.1.0",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.5",
+    "vite": "^4.4.9"
+  },
+  "keywords": [
+    "table-tennis",
+    "analytics",
+    "react",
+    "dashboard",
+    "charts",
+    "performance"
+  ],
+  "author": "TableSync Analytics",
+  "license": "MIT"
+}
